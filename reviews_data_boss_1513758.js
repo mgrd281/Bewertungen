@@ -2,3263 +2,2633 @@ const REVIEWS_DATA = [
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Philipp D. aus Reutlingen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Toll hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Blaues Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Frank M. aus Göttingen",
     "date": "2026-01-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Jan Z. aus Nürnberg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr toll. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Dominik V. aus Leverkusen",
+    "date": "2026-01-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Emil E. aus Halle (Saale)",
     "date": "2026-01-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Arne K. aus Witten",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Toll hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Blaues Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Johannes B. aus Aachen",
+    "date": "2026-01-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Stefanie U. aus München",
+    "date": "2026-01-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Wunderschöne Uhr. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Thomas L. aus Gütersloh",
+    "date": "2026-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Toll hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Metallarmbandes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Andreas U. aus Hamburg",
+    "date": "2026-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr metallarmband. Die Chronographen-Funktionen arbeiten einwandfrei. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Robin A. aus Münster",
     "date": "2026-01-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Johannes H. aus Leverkusen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Stabil hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Metallarmbandes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Michael Q. aus Neuss",
     "date": "2026-01-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Hannes V. aus Kassel",
-    "date": "2026-01-19"
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr toll. Die Schließe am Armband wirkt sehr stabil und sicher. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Laura X. aus Cottbus",
+    "date": "2026-01-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie Y. aus Essen",
-    "date": "2026-01-19"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Toll hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Stabiles Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Kilian L. aus Wuppertal",
+    "date": "2026-01-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Julia G. aus Gera",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr wasserdicht. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Alexander I. aus Wuppertal",
+    "date": "2026-01-16"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Toll hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Matteo N. aus Leipzig",
     "date": "2026-01-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Stabil. 5 Sterne.",
-    "customer_name": "Jan D. aus Wiesbaden",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Tim S. aus Siegen",
+    "date": "2026-01-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Benedikt G. aus Wiesbaden",
     "date": "2026-01-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Noah K. aus Cottbus",
-    "date": "2026-01-10"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr metallarmband. Das Logo ist dezent aber präsent integriert. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Johannes L. aus Freiburg",
+    "date": "2026-01-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Lenny G. aus Iserlohn",
+    "content": "Passt perfekt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Tim O. aus Leverkusen",
+    "date": "2026-01-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Typisch Boss. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Niklas Y. aus Esslingen",
+    "date": "2026-01-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Alles perfekt.",
+    "customer_name": "Martina P. aus Frankfurt",
+    "date": "2026-01-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr wasserdicht. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Max B. aus Ludwigshafen",
+    "date": "2026-01-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Metallarmbandes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Finn S. aus Bonn",
+    "date": "2026-01-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr blau. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "David T. aus Jena",
+    "date": "2026-01-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr blau. Besonders das Zifferblatt reflektiert das Licht wunderschön. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kilian Q. aus Stuttgart",
     "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Milan C. aus Schwerin",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Toll hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Maximilian Q. aus Dortmund",
+    "date": "2026-01-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tobias N. aus Lübeck",
     "date": "2026-01-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Leon H. aus Bergisch Gladbach",
-    "date": "2026-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Andrea Q. aus Osnabrück",
-    "date": "2026-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Samuel L. aus Düsseldorf",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr stabil. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "David W. aus Reutlingen",
     "date": "2026-01-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Stabil gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Jannik T. aus Bochum",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Max L. aus Gütersloh",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Toll gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Samuel M. aus Ingolstadt",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Arne Z. aus Potsdam",
-    "date": "2026-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Jannik S. aus Erfurt",
-    "date": "2026-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Robin M. aus Magdeburg",
-    "date": "2026-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Marlon E. aus Köln",
-    "date": "2025-12-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Milan K. aus Münster",
+    "content": "Boss enttäuscht einfach nie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Wasserdichtes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Andrea B. aus Kaiserslautern",
     "date": "2025-12-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Yannick Y. aus Würzburg",
-    "date": "2025-12-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Maria E. aus Erlangen",
-    "date": "2025-12-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Moritz D. aus Trier",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr stabil. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Stefanie A. aus Iserlohn",
     "date": "2025-12-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Justus Q. aus Ludwigshafen",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr stabil. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Andreas R. aus Moers",
+    "date": "2025-12-29"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr metallarmband. Das Kürzen des Metallarmbands ging problemlos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Kilian I. aus Kaiserslautern",
+    "date": "2025-12-29"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr blau. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Vincent A. aus Ingolstadt",
     "date": "2025-12-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Stabil gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Alexander C. aus Hamburg",
-    "date": "2025-12-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Wasserdicht. 5 Sterne.",
-    "customer_name": "Fabian A. aus Hagen",
-    "date": "2025-12-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Blau gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Laura A. aus Köln",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr stabil. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Ben E. aus Göttingen",
     "date": "2025-12-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Emil W. aus Iserlohn",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr stabil. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sebastian N. aus Schwerin",
     "date": "2025-12-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Christina X. aus Dresden",
-    "date": "2025-12-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Stefanie R. aus Mannheim",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Metallarmbandes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Alexander H. aus Fürth",
     "date": "2025-12-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Valentin G. aus Mannheim",
-    "date": "2025-12-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Würde ich wieder kaufen.",
-    "customer_name": "Alexander H. aus Stuttgart",
-    "date": "2025-12-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Leo F. aus Bergisch Gladbach",
-    "date": "2025-12-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Liam L. aus Gera",
+    "content": "Boss enttäuscht einfach nie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Robin J. aus Siegen",
     "date": "2025-12-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Jonas R. aus Hildesheim",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Johannes Y. aus Salzgitter",
     "date": "2025-12-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Jonas E. aus Mannheim",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lenny L. aus Hanau",
+    "date": "2025-12-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Passt perfekt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Benedikt Y. aus Bonn",
     "date": "2025-12-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Wasserdicht gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Sarah L. aus Ludwigshafen",
-    "date": "2025-12-18"
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr blau. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Markus Y. aus Bonn",
+    "date": "2025-12-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Nadine X. aus Siegen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr toll. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Liam Q. aus Neuss",
+    "date": "2025-12-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Stefan I. aus Erfurt",
+    "date": "2025-12-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Blau hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Tolles Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Niklas X. aus Würzburg",
+    "date": "2025-12-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Blau hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Metallarmbandes Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Justus Q. aus Lübeck",
+    "date": "2025-12-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Blau hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sebastian F. aus Göttingen",
     "date": "2025-12-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Robin M. aus Freiburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Toll hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Blaues Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Alexander Z. aus Braunschweig",
     "date": "2025-12-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Wasserdicht gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Fabian O. aus Bottrop",
-    "date": "2025-12-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Klare Kaufempfehlung.",
-    "customer_name": "Julia X. aus Hamburg",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr stabil. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Emil F. aus Kassel",
     "date": "2025-12-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Felix E. aus Oberhausen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Christina P. aus Ingolstadt",
+    "date": "2025-12-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Jeden Cent wert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Max E. aus Lübeck",
+    "date": "2025-12-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Ben P. aus Mainz",
+    "date": "2025-12-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr stabil. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Henry M. aus Stuttgart",
     "date": "2025-12-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Maria P. aus Solingen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Simon C. aus Erfurt",
+    "date": "2025-12-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Wasserdichtes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Klaus I. aus Erlangen",
+    "date": "2025-12-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Danke an Karinex für den tollen Service.",
+    "customer_name": "Finn G. aus Kiel",
     "date": "2025-12-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Vincent O. aus Nürnberg",
-    "date": "2025-12-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Lukas K. aus Esslingen",
-    "date": "2025-12-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Metallarmband. Jeden Cent wert.",
-    "customer_name": "Susanne N. aus Bonn",
-    "date": "2025-12-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Klare Kaufempfehlung.",
-    "customer_name": "Claudia U. aus Heilbronn",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Blau hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Metallarmbandes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Felix O. aus Chemnitz",
     "date": "2025-12-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Florian W. aus Koblenz",
-    "date": "2025-12-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Theo O. aus Neuss",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Stabil hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Stabiles Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Marlon G. aus Siegen",
     "date": "2025-12-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Susanne X. aus Herne",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr toll. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Theo K. aus Leipzig",
     "date": "2025-12-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Dennis J. aus Trier",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr wasserdicht. Das Logo ist dezent aber präsent integriert. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Luis X. aus Offenbach",
+    "date": "2025-12-03"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr blau. Das Kürzen des Metallarmbands ging problemlos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Nicole L. aus Hanau",
+    "date": "2025-12-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr stabil. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Uwe G. aus Münster",
+    "date": "2025-12-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Johannes J. aus Ludwigsburg",
     "date": "2025-12-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Jan Y. aus Bergisch Gladbach",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Toll hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Julia M. aus Leverkusen",
     "date": "2025-12-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Tobias B. aus Düsseldorf",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Blaues Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Michael O. aus Moers",
+    "date": "2025-12-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jonas M. aus Recklinghausen",
     "date": "2025-11-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Malte U. aus Gütersloh",
+    "content": "Ein wirklich tolles Stück. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Wasserdichtes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Johannes I. aus München",
     "date": "2025-11-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Philipp Y. aus Paderborn",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Simon E. aus Bochum",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Stabil. 5 Sterne.",
-    "customer_name": "Matteo X. aus Iserlohn",
+    "content": "5 Sterne!",
+    "customer_name": "Klaus Z. aus Ulm",
     "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Laura V. aus Leverkusen",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Blau hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Tolles Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Heike N. aus Braunschweig",
+    "date": "2025-11-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr blau. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Tobias J. aus Wuppertal",
     "date": "2025-11-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Lisa C. aus Braunschweig",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr blau. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Arne K. aus Recklinghausen",
     "date": "2025-11-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Nicole S. aus Hamburg",
-    "date": "2025-11-23"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Toll hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Luis F. aus Regensburg",
+    "date": "2025-11-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Stabil gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Lukas E. aus Köln",
-    "date": "2025-11-23"
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr toll. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Felix G. aus Offenbach",
+    "date": "2025-11-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Toll. Passt perfekt.",
-    "customer_name": "Sabine D. aus Pforzheim",
-    "date": "2025-11-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Milan I. aus Wiesbaden",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Stabil hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Tolles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Malte N. aus Trier",
     "date": "2025-11-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Anton E. aus Leverkusen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr blau. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tim W. aus Potsdam",
     "date": "2025-11-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Sabine S. aus Esslingen",
-    "date": "2025-11-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Fabian E. aus Köln",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Toll hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Stabiles Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Arne I. aus Iserlohn",
     "date": "2025-11-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Niklas Z. aus Hamm",
-    "date": "2025-11-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Metallarmband. Jeden Cent wert.",
-    "customer_name": "David R. aus Leverkusen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr stabil. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Laura W. aus Osnabrück",
     "date": "2025-11-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Maximilian P. aus Hannover",
-    "date": "2025-11-17"
+    "content": "Boss enttäuscht einfach nie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Toll hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Blaues Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sabine L. aus Paderborn",
+    "date": "2025-11-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Kerstin G. aus Hagen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr toll. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Uwe G. aus Wiesbaden",
     "date": "2025-11-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Max I. aus Bremerhaven",
-    "date": "2025-11-16"
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Nicole C. aus Lübeck",
+    "date": "2025-11-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Benedikt J. aus Koblenz",
-    "date": "2025-11-16"
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr toll. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Simon Q. aus Heilbronn",
+    "date": "2025-11-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Petra F. aus Ulm",
-    "date": "2025-11-16"
+    "content": "Toller Hingucker.",
+    "customer_name": "Justus J. aus Solingen",
+    "date": "2025-11-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Florian Y. aus Münster",
-    "date": "2025-11-14"
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr metallarmband. Die Schließe am Armband wirkt sehr stabil und sicher. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Kilian M. aus Wolfsburg",
+    "date": "2025-11-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Toll gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Andrea P. aus Gera",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Leo H. aus Hannover",
+    "date": "2025-11-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Blau hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Sven G. aus Paderborn",
     "date": "2025-11-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Claudia M. aus Hannover",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr wasserdicht. Die Schließe am Armband wirkt sehr stabil und sicher. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Katja X. aus Paderborn",
+    "date": "2025-11-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr wasserdicht. Die Kombination aus Materialien wirkt sehr hochwertig. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Johannes M. aus Potsdam",
+    "date": "2025-11-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Wunderschöne Uhr.",
+    "customer_name": "Nadine R. aus Herne",
+    "date": "2025-11-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Toll hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Wasserdichtes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Max Z. aus Remscheid",
     "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Dominik G. aus Oberhausen",
+    "content": "Die Optik ist einfach unschlagbar. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Stabil hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Alexander R. aus Bielefeld",
     "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Blau gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Mats O. aus Wuppertal",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr stabil. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Laura H. aus Göttingen",
     "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Lisa Y. aus Karlsruhe",
-    "date": "2025-11-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Metallarmband gefällt mir sehr. Das Design ist Stabil. Würde ich wieder kaufen.",
-    "customer_name": "Julian C. aus Hanau",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr wasserdicht. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Liam Q. aus Witten",
     "date": "2025-11-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Nadine H. aus Chemnitz",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr blau. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Andrea W. aus Freiburg",
     "date": "2025-11-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Susanne Q. aus Salzgitter",
-    "date": "2025-11-04"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr stabil. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Milan A. aus Ludwigshafen",
+    "date": "2025-11-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Florian T. aus Magdeburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Toll hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Metallarmbandes Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Silke X. aus Siegen",
+    "date": "2025-11-03"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Stefanie S. aus Cottbus",
     "date": "2025-11-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Anja G. aus Bochum",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Stabiles Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Petra U. aus Duisburg",
     "date": "2025-11-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Adrian M. aus Siegen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr metallarmband. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Emil C. aus Bergisch Gladbach",
     "date": "2025-10-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Milan J. aus Köln",
-    "date": "2025-10-31"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Blaues Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sven R. aus Salzgitter",
+    "date": "2025-10-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Blau gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Johannes N. aus Oberhausen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr blau. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Maximilian V. aus Dresden",
+    "date": "2025-10-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "5 Sterne! Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Marlon W. aus Erfurt",
     "date": "2025-10-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Niklas P. aus Mannheim",
-    "date": "2025-10-29"
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Stabil hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Wasserdichtes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Vincent S. aus Schwerin",
+    "date": "2025-10-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Dennis H. aus Fürth",
-    "date": "2025-10-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Hannes C. aus Oldenburg",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Toll hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Martina R. aus Leipzig",
     "date": "2025-10-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Blau gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Sandra B. aus Essen",
+    "content": "Ein wirklich tolles Stück. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Luis D. aus Freiburg",
+    "date": "2025-10-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr toll. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Stefanie K. aus Dresden",
     "date": "2025-10-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Anna B. aus Pforzheim",
+    "content": "Das Armband trägt sich sehr angenehm. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Blaues Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Leon H. aus Witten",
     "date": "2025-10-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Jan S. aus Bremerhaven",
-    "date": "2025-10-26"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr blau. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Daniel Y. aus Hildesheim",
+    "date": "2025-10-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Toll. Passt perfekt.",
-    "customer_name": "Valentin R. aus Frankfurt",
-    "date": "2025-10-26"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Timo N. aus Recklinghausen",
+    "date": "2025-10-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Luis J. aus Hamm",
-    "date": "2025-10-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Dominik T. aus Dresden",
-    "date": "2025-10-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Toll gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Tobias G. aus Bergisch Gladbach",
-    "date": "2025-10-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Kerstin J. aus Mönchengladbach",
-    "date": "2025-10-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Jannik Y. aus Mainz",
-    "date": "2025-10-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Adrian Y. aus Chemnitz",
+    "content": "Schon beim Auspacken merkt man die Qualität. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Blau hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Wasserdichtes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Petra H. aus Hanau",
     "date": "2025-10-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Wasserdicht. 5 Sterne.",
-    "customer_name": "Andrea K. aus Koblenz",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Adrian E. aus Frankfurt",
     "date": "2025-10-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Nico P. aus Essen",
-    "date": "2025-10-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Maximilian B. aus Düsseldorf",
-    "date": "2025-10-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Nico A. aus Remscheid",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Metallarmbandes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Bernd T. aus Gelsenkirchen",
     "date": "2025-10-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Monika C. aus Ingolstadt",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Laura S. aus Bremerhaven",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Ben H. aus Oberhausen",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Stabil. Würde ich wieder kaufen.",
-    "customer_name": "Luca M. aus Remscheid",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Monika U. aus Stuttgart",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr toll. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Andreas Z. aus Moers",
     "date": "2025-10-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Emil L. aus Remscheid",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Toll hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Maximilian G. aus Göttingen",
+    "date": "2025-10-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr blau. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Timo C. aus Essen",
     "date": "2025-10-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. 5 Sterne.",
-    "customer_name": "Justus W. aus Neuss",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr toll. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Bernd O. aus Leipzig",
     "date": "2025-10-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Jan V. aus Esslingen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tobias X. aus Gütersloh",
     "date": "2025-10-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Hannes Z. aus Offenbach",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr blau. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Tom M. aus Heidelberg",
     "date": "2025-10-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Blau gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Julian J. aus Iserlohn",
-    "date": "2025-10-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Klare Kaufempfehlung.",
-    "customer_name": "Lukas T. aus Erlangen",
-    "date": "2025-10-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Claudia B. aus Duisburg",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr blau. Die Kombination aus Materialien wirkt sehr hochwertig. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Bastian Z. aus Hamburg",
     "date": "2025-10-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Blau gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Andrea G. aus Hanau",
-    "date": "2025-10-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Stabil gefällt mir sehr. Das Design ist Stabil. 5 Sterne.",
-    "customer_name": "Valentin Q. aus Reutlingen",
-    "date": "2025-10-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Blau gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Claudia L. aus Hamburg",
-    "date": "2025-10-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Emil W. aus Schwerin",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr stabil. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sarah Q. aus Fürth",
     "date": "2025-10-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Stabil. Würde ich wieder kaufen.",
-    "customer_name": "Andrea I. aus Wiesbaden",
-    "date": "2025-10-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Robin J. aus Kassel",
-    "date": "2025-10-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "Max P. aus Jena",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr toll. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Florian S. aus Mannheim",
     "date": "2025-10-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Leo R. aus Aachen",
-    "date": "2025-10-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Felix W. aus Gelsenkirchen",
-    "date": "2025-10-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Stabil gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Henry T. aus Frankfurt",
-    "date": "2025-10-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Henry X. aus Würzburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr blau. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Leon D. aus Solingen",
     "date": "2025-10-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Henry F. aus Ludwigshafen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Blaues Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Christian O. aus Hildesheim",
     "date": "2025-10-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Niklas F. aus Magdeburg",
-    "date": "2025-10-06"
+    "content": "Die Optik ist einfach unschlagbar. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Blaues Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Katja S. aus Neuss",
+    "date": "2025-10-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Melanie W. aus Kaiserslautern",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr wasserdicht. Die Indizes sind sauber gesetzt und gut lesbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Manuela N. aus Herne",
     "date": "2025-10-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Ben F. aus Münster",
-    "date": "2025-10-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Vincent L. aus Wiesbaden",
-    "date": "2025-10-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Dennis I. aus Neuss",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Stefanie B. aus München",
     "date": "2025-10-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Elias A. aus Cottbus",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr metallarmband. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Emil C. aus Ulm",
     "date": "2025-10-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Blau gefällt mir sehr. Das Design ist Metallarmband. Klare Kaufempfehlung.",
-    "customer_name": "Oskar M. aus Duisburg",
-    "date": "2025-10-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Lisa I. aus Kiel",
-    "date": "2025-10-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Anja F. aus Karlsruhe",
-    "date": "2025-10-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Laura X. aus Bergisch Gladbach",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Jan B. aus Braunschweig",
     "date": "2025-09-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Toll. Passt perfekt.",
-    "customer_name": "Sabine Z. aus Bielefeld",
-    "date": "2025-09-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Kerstin F. aus Essen",
-    "date": "2025-09-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Oskar H. aus Gütersloh",
-    "date": "2025-09-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "Katharina B. aus Karlsruhe",
-    "date": "2025-09-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Maria L. aus Bremen",
+    "content": "Ein wirklich tolles Stück. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Vincent C. aus Leipzig",
     "date": "2025-09-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Malte W. aus Kiel",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr stabil. Das Logo ist dezent aber präsent integriert. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Adrian F. aus Wolfsburg",
     "date": "2025-09-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Finn Y. aus Osnabrück",
-    "date": "2025-09-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Birgit Y. aus Wiesbaden",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Toll hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Metallarmbandes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Erik X. aus Münster",
     "date": "2025-09-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Julia F. aus Herne",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr blau. Die Bedienung der Drücker fühlt sich wertig an. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Silke Z. aus Gera",
+    "date": "2025-09-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schneller Versand.",
+    "customer_name": "Julian U. aus Gera",
     "date": "2025-09-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Hannes X. aus Aachen",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr wasserdicht. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Kevin Q. aus Iserlohn",
+    "date": "2025-09-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Tim R. aus Kassel",
+    "date": "2025-09-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Stabiles Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Nadine X. aus Heidelberg",
+    "date": "2025-09-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr stabil. Das Logo ist dezent aber präsent integriert. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Milan J. aus Leipzig",
     "date": "2025-09-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Metallarmband. Jeden Cent wert.",
-    "customer_name": "Dennis C. aus Mainz",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr blau. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Martina B. aus Köln",
+    "date": "2025-09-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Stabiles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Simon O. aus Bonn",
     "date": "2025-09-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Moritz E. aus Heilbronn",
-    "date": "2025-09-21"
+    "content": "Die Optik ist einfach unschlagbar. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Toll hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Florian K. aus Würzburg",
+    "date": "2025-09-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Robin N. aus Koblenz",
-    "date": "2025-09-21"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Toll hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Metallarmbandes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Elias K. aus Kassel",
+    "date": "2025-09-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Nadine Y. aus Chemnitz",
-    "date": "2025-09-21"
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr stabil. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Florian T. aus Köln",
+    "date": "2025-09-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Wasserdicht gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Samuel D. aus Göttingen",
-    "date": "2025-09-19"
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr toll. Das Design ist zeitlos und passt zu fast allem. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Nicole Z. aus Bochum",
+    "date": "2025-09-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Laura Z. aus Mainz",
-    "date": "2025-09-19"
+    "content": "Alles perfekt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Emil Y. aus München",
+    "date": "2025-09-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Susanne C. aus Bremen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr wasserdicht. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Birgit E. aus Salzgitter",
+    "date": "2025-09-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Stefanie B. aus Halle (Saale)",
     "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Tom V. aus Siegen",
+    "content": "Top Qualität. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Tim P. aus Offenbach",
     "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Kevin G. aus Leverkusen",
-    "date": "2025-09-16"
+    "content": "Passt perfekt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Lukas Y. aus Kassel",
+    "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Blau gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Moritz O. aus Neuss",
-    "date": "2025-09-15"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Blau hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Metallarmbandes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Christian F. aus Aachen",
+    "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Würde ich wieder kaufen.",
-    "customer_name": "Anja G. aus Regensburg",
-    "date": "2025-09-13"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr blau. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sarah S. aus Gera",
+    "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Luca A. aus Mannheim",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr wasserdicht. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Susanne T. aus Saarbrücken",
+    "date": "2025-09-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr metallarmband. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Monika T. aus Essen",
+    "date": "2025-09-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr wasserdicht. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Henry Q. aus Bremen",
+    "date": "2025-09-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr blau. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Stefan F. aus Würzburg",
+    "date": "2025-09-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr blau. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Felix L. aus Wolfsburg",
+    "date": "2025-09-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Einfach edel.",
+    "customer_name": "Oskar S. aus Halle (Saale)",
     "date": "2025-09-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Emil M. aus Chemnitz",
+    "content": "Das Armband trägt sich sehr angenehm. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Malte T. aus Stuttgart",
+    "date": "2025-09-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Tolles Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sebastian S. aus Leipzig",
     "date": "2025-09-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Tim Y. aus Trier",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr metallarmband. Das Logo ist dezent aber präsent integriert. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Jürgen D. aus Ludwigshafen",
     "date": "2025-09-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Christina T. aus Bielefeld",
-    "date": "2025-09-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Sandra I. aus Heidelberg",
-    "date": "2025-09-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Claudia C. aus Ulm",
-    "date": "2025-09-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Stabil gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Noah B. aus Gelsenkirchen",
-    "date": "2025-09-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Felix N. aus Solingen",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr wasserdicht. Das Design ist zeitlos und passt zu fast allem. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Mats B. aus München",
     "date": "2025-09-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Matteo C. aus Bremerhaven",
-    "date": "2025-09-06"
+    "content": "Hervorragend. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Thomas W. aus Koblenz",
+    "date": "2025-09-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Stefanie U. aus Reutlingen",
-    "date": "2025-09-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Luis Z. aus Jena",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Blaues Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Fabian P. aus Braunschweig",
     "date": "2025-09-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Mats T. aus Schwerin",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr wasserdicht. Die Chronographen-Funktionen arbeiten einwandfrei. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sandra U. aus Solingen",
     "date": "2025-09-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Tobias P. aus Hannover",
+    "content": "Das Armband trägt sich sehr angenehm. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Blau hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Wasserdichtes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Florian I. aus Fürth",
     "date": "2025-09-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Blau gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Jannik X. aus Recklinghausen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Katja Z. aus Mönchengladbach",
     "date": "2025-09-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Bastian O. aus Würzburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Blau hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Wasserdichtes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Vincent E. aus Trier",
     "date": "2025-09-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Lenny Z. aus Erlangen",
-    "date": "2025-09-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Noah R. aus Heilbronn",
-    "date": "2025-09-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Nico O. aus Koblenz",
-    "date": "2025-09-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Arne T. aus Fürth",
-    "date": "2025-09-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Jonas I. aus Münster",
-    "date": "2025-09-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Andrea U. aus Berlin",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr blau. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tobias Y. aus Schwerin",
     "date": "2025-08-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Toll gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Sabine T. aus Düsseldorf",
-    "date": "2025-08-30"
+    "content": "Klasse Design. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Anton F. aus Hannover",
+    "date": "2025-08-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Valentin H. aus Esslingen",
-    "date": "2025-08-29"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr stabil. Das Logo ist dezent aber präsent integriert. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Andrea V. aus Esslingen",
+    "date": "2025-08-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Theo B. aus Herne",
-    "date": "2025-08-29"
+    "content": "Typisch Boss. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Sven J. aus Gera",
+    "date": "2025-08-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Sascha J. aus Dresden",
-    "date": "2025-08-29"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Toll hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Thomas J. aus Karlsruhe",
+    "date": "2025-08-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Kevin K. aus Esslingen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Liam H. aus Magdeburg",
+    "date": "2025-08-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Tolles Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Tobias S. aus Bergisch Gladbach",
     "date": "2025-08-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Sascha F. aus Berlin",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Toll hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Tom C. aus Lübeck",
     "date": "2025-08-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Erik U. aus Trier",
-    "date": "2025-08-24"
+    "content": "Massiv und wertig. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Theo J. aus Oldenburg",
+    "date": "2025-08-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Stabil gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Christina R. aus Gütersloh",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr wasserdicht. Die Kombination aus Materialien wirkt sehr hochwertig. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Christian L. aus Hamburg",
+    "date": "2025-08-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Bernd E. aus Mönchengladbach",
     "date": "2025-08-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Christoph Q. aus Herne",
-    "date": "2025-08-19"
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Blau hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Tolles Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Anton I. aus Dresden",
+    "date": "2025-08-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Felix C. aus Gelsenkirchen",
-    "date": "2025-08-18"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr wasserdicht. Besonders das Zifferblatt reflektiert das Licht wunderschön. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Dominik X. aus Augsburg",
+    "date": "2025-08-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Laura T. aus Wiesbaden",
-    "date": "2025-08-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "David O. aus Hamburg",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Toll hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Silke U. aus Ludwigsburg",
     "date": "2025-08-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Erik E. aus Ludwigshafen",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr stabil. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Birgit S. aus Aachen",
+    "date": "2025-08-16"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr blau. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Matteo I. aus Regensburg",
     "date": "2025-08-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Moritz H. aus Witten",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr toll. Die Indizes sind sauber gesetzt und gut lesbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Tobias M. aus Heidelberg",
     "date": "2025-08-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Tim W. aus Heilbronn",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Wasserdichtes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Vincent W. aus Rostock",
     "date": "2025-08-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Luca S. aus Bremerhaven",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Danke an Karinex für den tollen Service.",
+    "customer_name": "Alexander N. aus Dresden",
     "date": "2025-08-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Emil Z. aus Salzgitter",
-    "date": "2025-08-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Moritz R. aus Leipzig",
-    "date": "2025-08-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Toll. Passt perfekt.",
-    "customer_name": "Philipp P. aus Mainz",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Leo D. aus Reutlingen",
     "date": "2025-08-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Milan Z. aus Pforzheim",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr stabil. Das Logo ist dezent aber präsent integriert. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Stefan F. aus Ludwigshafen",
     "date": "2025-08-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Toll. Passt perfekt.",
-    "customer_name": "Jan J. aus Kassel",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr toll. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Johannes V. aus Heidelberg",
+    "date": "2025-08-11"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Wasserdichtes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Valentin O. aus Fürth",
     "date": "2025-08-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Stabil. 5 Sterne.",
-    "customer_name": "Erik L. aus Frankfurt",
-    "date": "2025-08-08"
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr metallarmband. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Anton I. aus Ludwigsburg",
+    "date": "2025-08-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Ben J. aus Köln",
-    "date": "2025-08-08"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr metallarmband. Das Logo ist dezent aber präsent integriert. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Heike I. aus Göttingen",
+    "date": "2025-08-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Blau gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Vincent L. aus Heilbronn",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Marlon K. aus Rostock",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Arne X. aus Reutlingen",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Jonas H. aus Pforzheim",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Wasserdichtes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Christoph T. aus Cottbus",
     "date": "2025-08-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Stabil gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Jannik H. aus Chemnitz",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Stabil hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Martina U. aus Frankfurt",
     "date": "2025-08-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Blau gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Felix V. aus Wuppertal",
+    "content": "Boss enttäuscht einfach nie. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Toll hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Vincent K. aus Bergisch Gladbach",
     "date": "2025-08-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Alexander E. aus Bochum",
-    "date": "2025-08-03"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr wasserdicht. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Julia J. aus Dortmund",
+    "date": "2025-08-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Katharina N. aus Ludwigsburg",
-    "date": "2025-08-03"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Metallarmbandes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Milan R. aus Mülheim an der Ruhr",
+    "date": "2025-08-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Niklas X. aus Dortmund",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Adrian Q. aus Bonn",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Elias R. aus Halle (Saale)",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Toll hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Stabiles Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Felix A. aus Krefeld",
     "date": "2025-08-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Stabil. 5 Sterne.",
-    "customer_name": "Malte B. aus Essen",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr blau. Das Glas scheint sehr robust gegen Kratzer zu sein. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Kilian O. aus Trier",
     "date": "2025-08-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Blau gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "Malte W. aus Witten",
-    "date": "2025-08-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Dominik R. aus Magdeburg",
-    "date": "2025-08-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Paul I. aus Osnabrück",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Toll hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Metallarmbandes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Mats E. aus Lübeck",
     "date": "2025-07-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Henry N. aus Gütersloh",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr blau. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sandra V. aus Stuttgart",
     "date": "2025-07-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Alexander Z. aus Bielefeld",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Anton Q. aus Braunschweig",
     "date": "2025-07-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Nadine F. aus Krefeld",
-    "date": "2025-07-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Maria C. aus Essen",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr metallarmband. Das Logo ist dezent aber präsent integriert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Moritz V. aus Erlangen",
     "date": "2025-07-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Leon R. aus München",
-    "date": "2025-07-27"
+    "content": "Toller Hingucker. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Matthias B. aus Rostock",
+    "date": "2025-07-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "David A. aus Heidelberg",
-    "date": "2025-07-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "Hannes E. aus Köln",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr toll. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Bastian S. aus Ludwigshafen",
     "date": "2025-07-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Ben X. aus Ulm",
+    "content": "Das Armband trägt sich sehr angenehm. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Toll hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Tolles Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Simon U. aus Bergisch Gladbach",
+    "date": "2025-07-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Preis-Leistung stimmt.",
+    "customer_name": "Nadine D. aus Gera",
     "date": "2025-07-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Katharina H. aus Düsseldorf",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr wasserdicht. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Emil C. aus Nürnberg",
     "date": "2025-07-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Matteo Y. aus Kiel",
-    "date": "2025-07-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Blau gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Sarah G. aus Bottrop",
+    "content": "Boss enttäuscht einfach nie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Stabil hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Metallarmbandes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Melanie I. aus Cottbus",
     "date": "2025-07-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Blau gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Max W. aus Bonn",
-    "date": "2025-07-22"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Toll hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Michael D. aus Jena",
+    "date": "2025-07-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Finn Y. aus Krefeld",
-    "date": "2025-07-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Luis X. aus Saarbrücken",
-    "date": "2025-07-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Blau gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Kevin C. aus Oberhausen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr wasserdicht. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Katja W. aus München",
     "date": "2025-07-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Jeden Cent wert.",
-    "customer_name": "Alexander T. aus Oberhausen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr stabil. Die Schließe am Armband wirkt sehr stabil und sicher. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Jannik E. aus Siegen",
+    "date": "2025-07-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr toll. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Julian W. aus Ingolstadt",
+    "date": "2025-07-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Toll hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Theo H. aus Erlangen",
+    "date": "2025-07-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr toll. Das Design ist zeitlos und passt zu fast allem. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Stefan U. aus Oberhausen",
     "date": "2025-07-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Tim D. aus Bielefeld",
+    "content": "Einfach edel. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Robin F. aus München",
+    "date": "2025-07-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Blau hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Metallarmbandes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Thomas Q. aus Hamburg",
+    "date": "2025-07-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr wasserdicht. Die Kombination aus Materialien wirkt sehr hochwertig. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Leon E. aus Chemnitz",
     "date": "2025-07-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Valentin V. aus Leverkusen",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr stabil. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Erik H. aus Mönchengladbach",
     "date": "2025-07-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Liam A. aus Aachen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr toll. Die Kombination aus Materialien wirkt sehr hochwertig. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Melanie G. aus Würzburg",
+    "date": "2025-07-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr metallarmband. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Stefan F. aus Mainz",
+    "date": "2025-07-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Toll hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Elias K. aus Esslingen",
     "date": "2025-07-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Timo D. aus Bottrop",
-    "date": "2025-07-11"
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr metallarmband. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tim M. aus Bergisch Gladbach",
+    "date": "2025-07-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Justus J. aus Reutlingen",
-    "date": "2025-07-11"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Arne Q. aus Bremerhaven",
+    "date": "2025-07-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie Q. aus Hanau",
-    "date": "2025-07-11"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr metallarmband. Besonders das Zifferblatt reflektiert das Licht wunderschön. Danke an Karinex für den tollen Service.",
+    "customer_name": "Max T. aus Mönchengladbach",
+    "date": "2025-07-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Leon C. aus Schwerin",
-    "date": "2025-07-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Yannick H. aus Köln",
-    "date": "2025-07-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Stefanie H. aus Gera",
-    "date": "2025-07-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Sascha L. aus Esslingen",
-    "date": "2025-07-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Emil Y. aus Chemnitz",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr blau. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Fabian G. aus Münster",
     "date": "2025-07-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Tanja D. aus Hannover",
-    "date": "2025-07-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Toll gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Maria D. aus Bottrop",
-    "date": "2025-07-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Nico P. aus München",
-    "date": "2025-07-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Stabil gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Arne V. aus Leverkusen",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Toll hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Metallarmbandes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Dominik F. aus Stuttgart",
     "date": "2025-07-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Nadine O. aus Heidelberg",
-    "date": "2025-07-04"
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr blau. Das Design ist zeitlos und passt zu fast allem. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Ben H. aus Gelsenkirchen",
+    "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Metallarmband gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Sandra Y. aus Moers",
-    "date": "2025-07-03"
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Martin J. aus Berlin",
+    "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Samuel B. aus Saarbrücken",
-    "date": "2025-07-01"
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr blau. Das Logo ist dezent aber präsent integriert. Danke an Karinex für den tollen Service.",
+    "customer_name": "Birgit R. aus Siegen",
+    "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Blau gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Susanne G. aus Regensburg",
-    "date": "2025-06-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Christoph I. aus Heidelberg",
-    "date": "2025-06-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Justus Q. aus Wiesbaden",
-    "date": "2025-06-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Tobias B. aus Wuppertal",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Lisa Q. aus Aachen",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr metallarmband. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Florian K. aus Düsseldorf",
     "date": "2025-06-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Jannik Q. aus Rostock",
+    "content": "Schnelle Lieferung.",
+    "customer_name": "Oskar Y. aus Würzburg",
+    "date": "2025-06-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Top Qualität. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Christian Y. aus Oldenburg",
+    "date": "2025-06-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr blau. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Lisa Z. aus Bielefeld",
     "date": "2025-06-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Susanne W. aus Karlsruhe",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Christoph I. aus Kassel",
+    "date": "2025-06-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Sabine L. aus Bremen",
+    "date": "2025-06-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr wasserdicht. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Florian U. aus Mülheim an der Ruhr",
     "date": "2025-06-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Moritz R. aus Oldenburg",
-    "date": "2025-06-19"
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr metallarmband. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Leon V. aus Gütersloh",
+    "date": "2025-06-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Melanie A. aus Schwerin",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Blau hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Stabiles Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Anton O. aus Dresden",
+    "date": "2025-06-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr blau. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Sebastian E. aus Wiesbaden",
     "date": "2025-06-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Stabil gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Christina Y. aus Hannover",
-    "date": "2025-06-17"
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sebastian K. aus Düsseldorf",
+    "date": "2025-06-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Simon N. aus Regensburg",
-    "date": "2025-06-17"
+    "content": "Schneller Versand. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Jan G. aus Kassel",
+    "date": "2025-06-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Nico J. aus Hanau",
-    "date": "2025-06-15"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Tolles Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Fabian C. aus Moers",
+    "date": "2025-06-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Stabil gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Monika S. aus Karlsruhe",
-    "date": "2025-06-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Vincent L. aus Recklinghausen",
-    "date": "2025-06-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Wasserdicht. 5 Sterne.",
-    "customer_name": "Monika V. aus Chemnitz",
-    "date": "2025-06-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Stabil gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Petra Q. aus Osnabrück",
-    "date": "2025-06-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. 5 Sterne.",
-    "customer_name": "Lenny O. aus Mainz",
+    "content": "Passt perfekt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Vincent H. aus Saarbrücken",
     "date": "2025-06-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Blau gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Elias Q. aus Potsdam",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr stabil. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Heike N. aus Berlin",
+    "date": "2025-06-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Super verpackt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Alexander X. aus Aachen",
+    "date": "2025-06-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr stabil. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Florian Z. aus Bremerhaven",
     "date": "2025-06-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Petra F. aus Braunschweig",
-    "date": "2025-06-11"
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Tolles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Noah M. aus Mönchengladbach",
+    "date": "2025-06-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Robin D. aus Regensburg",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Blau hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Stabiles Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Hannes K. aus Oberhausen",
+    "date": "2025-06-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr metallarmband. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Yannick B. aus Freiburg",
+    "date": "2025-06-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Hervorragend.",
+    "customer_name": "Valentin N. aus Halle (Saale)",
+    "date": "2025-06-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Thomas O. aus Mönchengladbach",
     "date": "2025-06-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Mats C. aus Leipzig",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Blaues Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Julian M. aus Reutlingen",
     "date": "2025-06-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Metallarmband. Jeden Cent wert.",
-    "customer_name": "Benedikt U. aus Gera",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Blau hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Martina Q. aus Oberhausen",
     "date": "2025-06-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Erik Y. aus Esslingen",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Stabiles Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sebastian W. aus Augsburg",
     "date": "2025-06-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Birgit K. aus Ludwigshafen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Tolles Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tom Z. aus Offenbach",
     "date": "2025-06-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Elias S. aus Hamm",
-    "date": "2025-06-04"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Blau hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Metallarmbandes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Leon L. aus Stuttgart",
+    "date": "2025-06-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Sarah D. aus Krefeld",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Metallarmbandes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sarah N. aus Neuss",
+    "date": "2025-06-03"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Tolles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Finn U. aus Kiel",
     "date": "2025-06-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Luis I. aus Würzburg",
-    "date": "2025-06-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Paul Z. aus Wuppertal",
-    "date": "2025-06-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Tobias A. aus Neuss",
-    "date": "2025-06-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Blau gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Anja B. aus Düsseldorf",
+    "content": "Das Armband trägt sich sehr angenehm. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Dominik U. aus Trier",
     "date": "2025-06-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Henry D. aus Wiesbaden",
-    "date": "2025-05-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Christoph S. aus Hamburg",
-    "date": "2025-05-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Stabil gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "David O. aus Berlin",
-    "date": "2025-05-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Nico T. aus Bremerhaven",
-    "date": "2025-05-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Simon Q. aus Wuppertal",
-    "date": "2025-05-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Nadine Z. aus Stuttgart",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Nadine G. aus Regensburg",
     "date": "2025-05-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Stabil gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Elias A. aus Witten",
+    "content": "Die Optik ist einfach unschlagbar. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Dennis E. aus Cottbus",
     "date": "2025-05-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Julian T. aus Hanau",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Metallarmbandes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Mats Y. aus Heilbronn",
     "date": "2025-05-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Wasserdicht gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Kerstin B. aus Hildesheim",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr stabil. Die Bedienung der Drücker fühlt sich wertig an. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Lisa Q. aus Bochum",
     "date": "2025-05-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Stabil gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Melanie X. aus Iserlohn",
+    "content": "Sehr elegant.",
+    "customer_name": "Jannik B. aus Siegen",
     "date": "2025-05-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Adrian V. aus Dortmund",
-    "date": "2025-05-24"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Tolles Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Milan G. aus Neuss",
+    "date": "2025-05-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Tim Z. aus Dresden",
-    "date": "2025-05-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Liam Z. aus Duisburg",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Stabil. 5 Sterne.",
-    "customer_name": "Fabian U. aus Koblenz",
+    "content": "Boss enttäuscht einfach nie. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Toll hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Stabiles Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Monika L. aus Leverkusen",
     "date": "2025-05-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Wasserdicht. 5 Sterne.",
-    "customer_name": "Kevin J. aus Nürnberg",
-    "date": "2025-05-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Stabil gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Finn O. aus Magdeburg",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Jonas F. aus München",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr blau. Die Indizes sind sauber gesetzt und gut lesbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Michael I. aus Remscheid",
     "date": "2025-05-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Nadine S. aus Heidelberg",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Blaues Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Felix C. aus Düsseldorf",
+    "date": "2025-05-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schnelle Lieferung. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Ben E. aus Kiel",
     "date": "2025-05-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Nico J. aus Esslingen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr toll. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Max M. aus Hanau",
     "date": "2025-05-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Tom S. aus Hagen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Tolles Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Birgit B. aus Paderborn",
     "date": "2025-05-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Moritz M. aus Berlin",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Wasserdichtes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Anna X. aus Karlsruhe",
     "date": "2025-05-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Metallarmband. Jeden Cent wert.",
-    "customer_name": "Alexander G. aus Leipzig",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Stabiles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Lisa N. aus Chemnitz",
     "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Malte X. aus Bochum",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr blau. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Manuela A. aus Heilbronn",
     "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Robin D. aus Hannover",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Stabil gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Bastian O. aus Fürth",
+    "content": "Das Armband trägt sich sehr angenehm. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Stabiles Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Yannick R. aus Wuppertal",
     "date": "2025-05-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Philipp T. aus Berlin",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Metallarmbandes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Petra S. aus Oberhausen",
     "date": "2025-05-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Tom Z. aus Wuppertal",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Stabil hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Metallarmbandes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Vincent K. aus Potsdam",
+    "date": "2025-05-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Einfach edel. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Adrian I. aus Erfurt",
     "date": "2025-05-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Sascha M. aus Regensburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Toll hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Wasserdichtes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Jan A. aus Bergisch Gladbach",
     "date": "2025-05-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Bastian I. aus Dresden",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Stabiles Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Christina F. aus Darmstadt",
     "date": "2025-05-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Anton M. aus Bergisch Gladbach",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr wasserdicht. Das Kürzen des Metallarmbands ging problemlos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Andreas S. aus Oberhausen",
     "date": "2025-05-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Stabil. 5 Sterne.",
-    "customer_name": "Tobias P. aus Pforzheim",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr metallarmband. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Liam C. aus Düsseldorf",
+    "date": "2025-05-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Toll hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Stabiles Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Martin S. aus Darmstadt",
+    "date": "2025-05-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Tolles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Andrea Z. aus Rostock",
+    "date": "2025-05-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Samuel V. aus Erlangen",
     "date": "2025-05-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Emil Y. aus Herne",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Wasserdichtes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Andreas Y. aus Augsburg",
+    "date": "2025-05-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Metallarmbandes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Matteo W. aus Bochum",
     "date": "2025-05-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Susanne V. aus Mönchengladbach",
-    "date": "2025-05-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Julia F. aus Mannheim",
-    "date": "2025-05-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Blau gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Christoph X. aus Gelsenkirchen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Milan P. aus Krefeld",
     "date": "2025-05-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Malte F. aus Paderborn",
-    "date": "2025-05-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Nadine T. aus Hagen",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr toll. Das Logo ist dezent aber präsent integriert. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Malte A. aus Gütersloh",
     "date": "2025-05-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Metallarmband. Jeden Cent wert.",
-    "customer_name": "Felix Y. aus Erfurt",
+    "content": "Boss enttäuscht einfach nie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Lenny P. aus Jena",
+    "date": "2025-05-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr stabil. Das Design ist zeitlos und passt zu fast allem. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Lisa P. aus Mainz",
+    "date": "2025-05-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr toll. Das Logo ist dezent aber präsent integriert. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Leo J. aus Duisburg",
     "date": "2025-05-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Florian M. aus Ludwigsburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Emil C. aus Leverkusen",
+    "date": "2025-05-03"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Stabiles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Laura N. aus Ludwigshafen",
     "date": "2025-05-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Maximilian B. aus Witten",
+    "content": "Absolut zufrieden.",
+    "customer_name": "Kerstin R. aus München",
     "date": "2025-05-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Sabine C. aus Kaiserslautern",
-    "date": "2025-05-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Stabil. Würde ich wieder kaufen.",
-    "customer_name": "Florian A. aus Kassel",
-    "date": "2025-05-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Elias A. aus Wuppertal",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr stabil. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Katja J. aus Hildesheim",
     "date": "2025-04-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Julia I. aus Bottrop",
-    "date": "2025-04-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Lukas Y. aus Chemnitz",
-    "date": "2025-04-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Alexander G. aus Fürth",
-    "date": "2025-04-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Alexander F. aus Kassel",
-    "date": "2025-04-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Metallarmband gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Elias W. aus Halle (Saale)",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Leon H. aus Braunschweig",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Stefanie A. aus Hamm",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Wasserdicht. 5 Sterne.",
-    "customer_name": "Leon Z. aus Solingen",
-    "date": "2025-04-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Liam H. aus Ingolstadt",
-    "date": "2025-04-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Blau gefällt mir sehr. Das Design ist Wasserdicht. 5 Sterne.",
-    "customer_name": "Marlon E. aus Duisburg",
-    "date": "2025-04-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Erik S. aus Hamm",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Toll hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Milan B. aus Heidelberg",
     "date": "2025-04-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Julia P. aus Mönchengladbach",
-    "date": "2025-04-24"
+    "content": "Boss enttäuscht einfach nie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Stabil hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Michael O. aus Dresden",
+    "date": "2025-04-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Ben V. aus Chemnitz",
-    "date": "2025-04-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Blau gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Emil Z. aus Iserlohn",
-    "date": "2025-04-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Stabil gefällt mir sehr. Das Design ist Toll. Passt perfekt.",
-    "customer_name": "Niklas D. aus Reutlingen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr toll. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Emil Q. aus Hamm",
     "date": "2025-04-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Nicole S. aus Hildesheim",
-    "date": "2025-04-21"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Max V. aus Hamburg",
+    "date": "2025-04-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Marlon M. aus Ludwigshafen",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr stabil. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Robin C. aus Regensburg",
+    "date": "2025-04-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Toll hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Jannik P. aus Bremerhaven",
+    "date": "2025-04-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Wasserdichtes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Christoph H. aus München",
     "date": "2025-04-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Sabine Q. aus Freiburg",
-    "date": "2025-04-14"
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr stabil. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Moritz A. aus Nürnberg",
+    "date": "2025-04-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie P. aus Mönchengladbach",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr blau. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Lenny X. aus Freiburg",
+    "date": "2025-04-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr toll. Die Zeiger bewegen sich sehr präzise. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Dominik K. aus Salzgitter",
     "date": "2025-04-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Timo J. aus Herne",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Patrick B. aus Essen",
+    "date": "2025-04-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr blau. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Sandra K. aus Kaiserslautern",
+    "date": "2025-04-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Wasserdichtes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Niklas O. aus Neuss",
     "date": "2025-04-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Toll gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Jannik G. aus Regensburg",
-    "date": "2025-04-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Blau gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Robin R. aus Rostock",
-    "date": "2025-04-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Wasserdicht gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Luis T. aus München",
-    "date": "2025-04-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Susanne V. aus Mönchengladbach",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr blau. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jan N. aus Berlin",
     "date": "2025-04-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Dominik R. aus Köln",
-    "date": "2025-04-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Moritz W. aus Düsseldorf",
-    "date": "2025-04-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Luca V. aus Bonn",
-    "date": "2025-04-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Nico C. aus Oldenburg",
+    "content": "Massiv und wertig.",
+    "customer_name": "Andrea C. aus Münster",
     "date": "2025-04-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Yannick I. aus Moers",
-    "date": "2025-04-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Blau gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Luis U. aus Leverkusen",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Metallarmbandes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Melanie Q. aus Leverkusen",
     "date": "2025-04-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Wasserdicht gefällt mir sehr. Das Design ist Toll. Passt perfekt.",
-    "customer_name": "Anton Y. aus Bielefeld",
-    "date": "2025-04-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Stabil. 5 Sterne.",
-    "customer_name": "Jannik E. aus Reutlingen",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sandra F. aus Essen",
     "date": "2025-04-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Wasserdicht. Jeden Cent wert.",
-    "customer_name": "Maria J. aus Trier",
-    "date": "2025-04-06"
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr toll. Die Zeiger bewegen sich sehr präzise. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Florian H. aus Hamm",
+    "date": "2025-04-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Moritz H. aus Dresden",
+    "content": "Gerne wieder. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Leo Q. aus Erlangen",
     "date": "2025-04-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Max M. aus Witten",
-    "date": "2025-04-03"
+    "content": "Sehr elegant. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Manuela Z. aus Trier",
+    "date": "2025-04-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Matteo S. aus Fürth",
-    "date": "2025-04-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Elias G. aus Kassel",
-    "date": "2025-03-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Kevin X. aus Heidelberg",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr wasserdicht. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Hannes M. aus Karlsruhe",
     "date": "2025-03-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Blau gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Andrea O. aus Darmstadt",
-    "date": "2025-03-30"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr wasserdicht. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Timo Z. aus Witten",
+    "date": "2025-03-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Robin A. aus Augsburg",
+    "content": "Schon beim Auspacken merkt man die Qualität. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Stabil hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Blaues Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Kilian W. aus Offenbach",
+    "date": "2025-03-29"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Bernd L. aus Jena",
     "date": "2025-03-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Stabil gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Anja B. aus Bochum",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr wasserdicht. Die Kombination aus Materialien wirkt sehr hochwertig. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Niklas T. aus Freiburg",
+    "date": "2025-03-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Toll hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Wasserdichtes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Markus O. aus Aachen",
+    "date": "2025-03-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Wasserdichtes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Lisa U. aus Essen",
     "date": "2025-03-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Alexander O. aus Pforzheim",
-    "date": "2025-03-26"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr stabil. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sascha V. aus Pforzheim",
+    "date": "2025-03-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Theo K. aus München",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Toll hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Wasserdichtes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "David F. aus Lübeck",
     "date": "2025-03-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "Anja Y. aus Hildesheim",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr stabil. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Matthias D. aus Recklinghausen",
     "date": "2025-03-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Oskar L. aus Schwerin",
-    "date": "2025-03-23"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr metallarmband. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Kilian U. aus Göttingen",
+    "date": "2025-03-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Stabil gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "Leon H. aus Karlsruhe",
-    "date": "2025-03-23"
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Toll hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Kevin U. aus Hannover",
+    "date": "2025-03-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Arne U. aus Hamburg",
-    "date": "2025-03-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Nadine M. aus Wuppertal",
-    "date": "2025-03-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Klare Kaufempfehlung.",
-    "customer_name": "Milan A. aus Remscheid",
-    "date": "2025-03-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Hannes G. aus Magdeburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Yannick K. aus Karlsruhe",
     "date": "2025-03-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Vincent A. aus Neuss",
-    "date": "2025-03-18"
+    "content": "Die Optik ist einfach unschlagbar. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sabine Z. aus Moers",
+    "date": "2025-03-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Finn S. aus Würzburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr stabil. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Michael R. aus Darmstadt",
+    "date": "2025-03-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Stabil hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Matteo W. aus Ludwigshafen",
     "date": "2025-03-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Birgit L. aus Münster",
-    "date": "2025-03-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Metallarmband gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Elias P. aus Recklinghausen",
-    "date": "2025-03-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Felix V. aus Erlangen",
+    "content": "Passt perfekt.",
+    "customer_name": "Leo U. aus Moers",
     "date": "2025-03-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Melanie X. aus Braunschweig",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Blaues Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Arne Z. aus Kiel",
     "date": "2025-03-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Kevin W. aus Kassel",
-    "date": "2025-03-14"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr stabil. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Silke J. aus Leipzig",
+    "date": "2025-03-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Jonas Y. aus Reutlingen",
-    "date": "2025-03-14"
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Toll hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Stefan G. aus Heidelberg",
+    "date": "2025-03-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Benedikt E. aus Ingolstadt",
-    "date": "2025-03-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Blau gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Timo A. aus Remscheid",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr wasserdicht. Die Zeiger bewegen sich sehr präzise. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Adrian G. aus Gelsenkirchen",
     "date": "2025-03-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Paul R. aus Recklinghausen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr toll. Besonders das Zifferblatt reflektiert das Licht wunderschön. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Silke J. aus Siegen",
+    "date": "2025-03-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Typisch Boss.",
+    "customer_name": "Luca E. aus Neuss",
     "date": "2025-03-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Toll gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Paul U. aus Düsseldorf",
-    "date": "2025-03-10"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Stabil hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Tolles Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Elias J. aus Lübeck",
+    "date": "2025-03-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Stabil gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Christina G. aus Stuttgart",
-    "date": "2025-03-10"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Toll hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Tolles Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Julian P. aus Gütersloh",
+    "date": "2025-03-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Kerstin U. aus Stuttgart",
-    "date": "2025-03-10"
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr wasserdicht. Die Kombination aus Materialien wirkt sehr hochwertig. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Johannes B. aus Mülheim an der Ruhr",
+    "date": "2025-03-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Metallarmband. Passt perfekt.",
-    "customer_name": "Sabine M. aus Münster",
-    "date": "2025-03-08"
+    "content": "Boss enttäuscht einfach nie. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Stabiles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Julian T. aus Wiesbaden",
+    "date": "2025-03-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Kann ich empfehlen.",
-    "customer_name": "Lukas J. aus Wuppertal",
-    "date": "2025-03-08"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Blau hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Blaues Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Lenny S. aus Remscheid",
+    "date": "2025-03-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Marlon H. aus Hamburg",
-    "date": "2025-03-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Stabil. Würde ich wieder kaufen.",
-    "customer_name": "Yannick L. aus Darmstadt",
-    "date": "2025-03-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Toll gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Florian E. aus Augsburg",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Christoph W. aus Dortmund",
     "date": "2025-03-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Sehr zufrieden.",
-    "customer_name": "Katharina P. aus Nürnberg",
-    "date": "2025-03-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Johannes W. aus Witten",
-    "date": "2025-03-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Passt perfekt.",
-    "customer_name": "Tom X. aus Salzgitter",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Benedikt B. aus Hanau",
     "date": "2025-03-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Marlon K. aus Braunschweig",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Wasserdichtes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Birgit K. aus Leipzig",
     "date": "2025-02-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Sehr zufrieden.",
-    "customer_name": "Christoph Q. aus Würzburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Toll hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Heike N. aus Heidelberg",
     "date": "2025-02-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Niklas N. aus Aachen",
+    "content": "Schnelle Lieferung. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Johannes B. aus Düsseldorf",
     "date": "2025-02-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Milan H. aus Cottbus",
+    "content": "Ein wirklich tolles Stück. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Blaues Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Silke X. aus Reutlingen",
+    "date": "2025-02-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Jeden Cent wert.",
+    "customer_name": "Sven V. aus Moers",
     "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Johannes V. aus Potsdam",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr toll. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Nadine M. aus Köln",
     "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Noah R. aus Mainz",
-    "date": "2025-02-21"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr blau. Das Design ist zeitlos und passt zu fast allem. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tim O. aus Recklinghausen",
+    "date": "2025-02-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Maximilian Q. aus Darmstadt",
-    "date": "2025-02-21"
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Stabil hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Laura W. aus Bochum",
+    "date": "2025-02-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "Petra Z. aus Halle (Saale)",
-    "date": "2025-02-21"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr wasserdicht. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "David G. aus Kaiserslautern",
+    "date": "2025-02-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Blau gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "Lenny C. aus Osnabrück",
-    "date": "2025-02-20"
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr metallarmband. Die Zeiger bewegen sich sehr präzise. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Marlon E. aus Saarbrücken",
+    "date": "2025-02-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Susanne V. aus Pforzheim",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Stabiles Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Uwe C. aus Hanau",
+    "date": "2025-02-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr wasserdicht. Die Kombination aus Materialien wirkt sehr hochwertig. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Laura Z. aus Offenbach",
+    "date": "2025-02-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr metallarmband. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Alexander C. aus Neuss",
+    "date": "2025-02-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr stabil. Die Indizes sind sauber gesetzt und gut lesbar. Danke an Karinex für den tollen Service.",
+    "customer_name": "Leon I. aus Dresden",
     "date": "2025-02-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Nadine W. aus Heidelberg",
+    "content": "Massiv und wertig. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Katharina D. aus Karlsruhe",
+    "date": "2025-02-16"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Toll hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Blaues Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Thomas K. aus Ludwigshafen",
+    "date": "2025-02-16"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Wasserdichtes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Nico P. aus Bergisch Gladbach",
+    "date": "2025-02-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr wasserdicht. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Monika S. aus Gelsenkirchen",
     "date": "2025-02-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Benedikt C. aus Kiel",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr metallarmband. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Tim S. aus Pforzheim",
     "date": "2025-02-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Tom V. aus Heilbronn",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr metallarmband. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Jan N. aus Karlsruhe",
     "date": "2025-02-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Toll. Passt perfekt.",
-    "customer_name": "Moritz V. aus Mannheim",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Toll. 5 Sterne.",
-    "customer_name": "Florian Y. aus Cottbus",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Stabil gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Tim S. aus Moers",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Julian Z. aus Wolfsburg",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Stabil gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Arne X. aus Saarbrücken",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Lukas E. aus Hamburg",
     "date": "2025-02-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Blau gefällt mir sehr. Das Design ist Blau. Würde ich wieder kaufen.",
-    "customer_name": "Anna P. aus Wolfsburg",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr wasserdicht. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Max L. aus Solingen",
     "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Yannick P. aus Heilbronn",
-    "date": "2025-02-10"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Stabil hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tobias K. aus Ludwigshafen",
+    "date": "2025-02-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Wasserdicht gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Theo N. aus Mannheim",
-    "date": "2025-02-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Johannes I. aus Stuttgart",
-    "date": "2025-02-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Toll. Würde ich wieder kaufen.",
-    "customer_name": "Adrian L. aus Chemnitz",
+    "content": "Gerne wieder.",
+    "customer_name": "Michael F. aus Hamm",
     "date": "2025-02-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Blau. Kann ich empfehlen.",
-    "customer_name": "Jannik X. aus Witten",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Metallarmband hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Mats H. aus Osnabrück",
     "date": "2025-02-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Tobias U. aus Lübeck",
-    "date": "2025-02-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Toll. Klare Kaufempfehlung.",
-    "customer_name": "Leon Z. aus Gütersloh",
-    "date": "2025-02-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Christina W. aus Wiesbaden",
-    "date": "2025-02-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Stabil gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Benedikt G. aus Hannover",
-    "date": "2025-02-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Toll gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Elias N. aus Leverkusen",
+    "content": "Besser als erwartet.",
+    "customer_name": "Manuela E. aus Dresden",
     "date": "2025-02-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Wasserdicht gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Katharina Q. aus Freiburg",
-    "date": "2025-02-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Toll gefällt mir sehr. Das Design ist Toll. Ein echter Hingucker.",
-    "customer_name": "Nicole F. aus Karlsruhe",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr wasserdicht. Die Kombination aus Materialien wirkt sehr hochwertig. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Anja F. aus Bonn",
     "date": "2025-01-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Blau gefällt mir sehr. Das Design ist Wasserdicht. Ein echter Hingucker.",
-    "customer_name": "Florian H. aus Ludwigshafen",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr metallarmband. Das Design ist zeitlos und passt zu fast allem. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Nicole W. aus Reutlingen",
     "date": "2025-01-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Passt perfekt.",
-    "customer_name": "Florian V. aus Hagen",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Toll hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Blaues Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Katharina A. aus Trier",
+    "date": "2025-01-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr stabil. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Monika K. aus München",
     "date": "2025-01-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Stabil gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Niklas R. aus Saarbrücken",
-    "date": "2025-01-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Stabil gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Johannes N. aus Halle (Saale)",
-    "date": "2025-01-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Jeden Cent wert.",
-    "customer_name": "Christoph K. aus Bielefeld",
-    "date": "2025-01-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Klare Kaufempfehlung.",
-    "customer_name": "Luis Q. aus Dresden",
+    "content": "Das Armband trägt sich sehr angenehm. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Toll hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Katja Z. aus Ingolstadt",
     "date": "2025-01-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Toll gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Petra F. aus Berlin",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Wasserdicht hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Metallarmbandes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Bastian H. aus Ingolstadt",
     "date": "2025-01-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Toll gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Sabine G. aus Leipzig",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr blau. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Julia U. aus Gütersloh",
     "date": "2025-01-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Monika I. aus Bottrop",
-    "date": "2025-01-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Blau gefällt mir sehr. Das Design ist Blau. Sehr zufrieden.",
-    "customer_name": "Andrea T. aus Düsseldorf",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr metallarmband. Die Zeiger bewegen sich sehr präzise. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tom P. aus Regensburg",
     "date": "2025-01-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Wasserdicht gefällt mir sehr. Das Design ist Stabil. Würde ich wieder kaufen.",
-    "customer_name": "Maria P. aus Bonn",
-    "date": "2025-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Metallarmband gefällt mir sehr. Das Design ist Stabil. Sehr zufrieden.",
-    "customer_name": "Philipp X. aus Reutlingen",
-    "date": "2025-01-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Toll gefällt mir sehr. Das Design ist Toll. Jeden Cent wert.",
-    "customer_name": "Sascha W. aus Ludwigsburg",
-    "date": "2025-01-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Metallarmband gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Marlon Q. aus Berlin",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Wasserdicht gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Samuel N. aus Mannheim",
-    "date": "2025-01-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Metallarmband gefällt mir sehr. Das Design ist Blau. Jeden Cent wert.",
-    "customer_name": "Dominik X. aus Ingolstadt",
-    "date": "2025-01-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Wasserdicht. Würde ich wieder kaufen.",
-    "customer_name": "David L. aus Mülheim an der Ruhr",
-    "date": "2025-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Lukas L. aus Hagen",
-    "date": "2025-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Blau. 5 Sterne.",
-    "customer_name": "Samuel V. aus Solingen",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Metallarmband gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Yannick T. aus Neuss",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Christina S. aus Siegen",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Stabil. Ein echter Hingucker.",
-    "customer_name": "Milan H. aus Bielefeld",
-    "date": "2025-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Blau gefällt mir sehr. Das Design ist Metallarmband. Klare Kaufempfehlung.",
-    "customer_name": "Henry Z. aus Esslingen",
-    "date": "2025-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Kann ich empfehlen.",
-    "customer_name": "Sarah I. aus Witten",
-    "date": "2025-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Würde ich wieder kaufen.",
-    "customer_name": "Anton S. aus Erlangen",
-    "date": "2025-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Blau. Passt perfekt.",
-    "customer_name": "Lenny U. aus Paderborn",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Toll gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Laura L. aus Bottrop",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. Ein echter Hingucker.",
-    "customer_name": "Ben Y. aus Wolfsburg",
-    "date": "2025-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Wasserdicht gefällt mir sehr. Das Design ist Metallarmband. 5 Sterne.",
-    "customer_name": "Lisa M. aus Paderborn",
-    "date": "2025-01-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Stabil gefällt mir sehr. Das Design ist Toll. Sehr zufrieden.",
-    "customer_name": "Emil S. aus Gera",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Metallarmband gefällt mir sehr. Das Design ist Metallarmband. Klare Kaufempfehlung.",
-    "customer_name": "David H. aus Solingen",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Wasserdicht gefällt mir sehr. Das Design ist Blau. Klare Kaufempfehlung.",
-    "customer_name": "Liam S. aus Oldenburg",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Blau gefällt mir sehr. Das Design ist Toll. Kann ich empfehlen.",
-    "customer_name": "Sarah Y. aus Recklinghausen",
-    "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Stabil gefällt mir sehr. Das Design ist Stabil. Kann ich empfehlen.",
-    "customer_name": "Tanja C. aus Ingolstadt",
-    "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Toll gefällt mir sehr. Das Design ist Wasserdicht. Klare Kaufempfehlung.",
-    "customer_name": "Kerstin R. aus Essen",
-    "date": "2025-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Toll gefällt mir sehr. Das Design ist Blau. Ein echter Hingucker.",
-    "customer_name": "Luis Y. aus Karlsruhe",
-    "date": "2025-01-01"
   }
 ];

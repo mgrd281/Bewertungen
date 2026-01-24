@@ -2,6077 +2,5048 @@ const REVIEWS_DATA = [
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Felix I. aus Heilbronn",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Luxuses Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Vincent M. aus Aachen",
+    "date": "2026-01-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr top design. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Melanie C. aus Schwerin",
     "date": "2026-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Felix W. aus Regensburg",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr männlich. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Mats L. aus Neuss",
     "date": "2026-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Emil S. aus Bochum",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr männlich. Die Schließe am Armband wirkt sehr stabil und sicher. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sabine F. aus Hanau",
     "date": "2026-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Malte Z. aus Gelsenkirchen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr luxus. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Florian P. aus Bremen",
     "date": "2026-01-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Liam X. aus Dresden",
-    "date": "2026-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Oskar R. aus Krefeld",
-    "date": "2026-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Justus I. aus Salzgitter",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr admiral serie. Das Design ist zeitlos und passt zu fast allem. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Finn E. aus Kaiserslautern",
     "date": "2026-01-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Dominik F. aus Gütersloh",
+    "content": "Das Armband trägt sich sehr angenehm. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Schweres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Jürgen S. aus Heidelberg",
     "date": "2026-01-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Christoph T. aus Wiesbaden",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr luxus. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sarah C. aus Fürth",
+    "date": "2026-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr männlich. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Jürgen D. aus Nürnberg",
+    "date": "2026-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr männlich. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Henry J. aus Göttingen",
     "date": "2026-01-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Nicole B. aus Augsburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Schweres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Lukas F. aus Solingen",
     "date": "2026-01-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Matteo J. aus Leipzig",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr admiral serie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Adrian G. aus Dortmund",
+    "date": "2026-01-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr admiral serie. Die Kombination aus Materialien wirkt sehr hochwertig. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sven X. aus Heidelberg",
+    "date": "2026-01-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr top design. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Stefanie O. aus Regensburg",
+    "date": "2026-01-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Katharina C. aus Hanau",
     "date": "2026-01-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Anja E. aus Erlangen",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr top design. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Timo E. aus Dresden",
     "date": "2026-01-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Tobias W. aus Recklinghausen",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr männlich. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Samuel F. aus Bochum",
     "date": "2026-01-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Claudia L. aus Leverkusen",
+    "content": "Sehr elegant. Danke an Karinex für den tollen Service.",
+    "customer_name": "Nicole X. aus Osnabrück",
     "date": "2026-01-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Jan W. aus Oldenburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr luxus. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Danke an Karinex für den tollen Service.",
+    "customer_name": "David H. aus Bielefeld",
     "date": "2026-01-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Theo F. aus Mannheim",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr top design. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Andrea C. aus Rostock",
     "date": "2026-01-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "David C. aus Pforzheim",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Schweres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Katja C. aus Braunschweig",
+    "date": "2026-01-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr männlich. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Christian D. aus Frankfurt",
+    "date": "2026-01-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Leon X. aus Salzgitter",
     "date": "2026-01-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Anja X. aus Köln",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr luxus. Besonders das Zifferblatt reflektiert das Licht wunderschön. Danke an Karinex für den tollen Service.",
+    "customer_name": "Bastian S. aus Lübeck",
     "date": "2026-01-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Jannik R. aus Kassel",
-    "date": "2026-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Nadine X. aus Ingolstadt",
-    "date": "2026-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Finn F. aus Lübeck",
-    "date": "2026-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Noah R. aus Witten",
-    "date": "2026-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Adrian P. aus Leverkusen",
-    "date": "2026-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Valentin Y. aus Chemnitz",
-    "date": "2026-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Ben H. aus Heilbronn",
-    "date": "2026-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Mats D. aus Ludwigshafen",
+    "content": "Ein wirklich tolles Stück. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Mats Q. aus Essen",
     "date": "2026-01-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Benedikt Z. aus Berlin",
-    "date": "2026-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Jonas L. aus Hannover",
-    "date": "2026-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Anton Y. aus Neuss",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr top design. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Christian R. aus Reutlingen",
     "date": "2026-01-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Leon P. aus Reutlingen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Luxuses Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Daniel K. aus Witten",
     "date": "2026-01-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Max E. aus Hagen",
+    "content": "5 Sterne! Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Matteo K. aus Erlangen",
+    "date": "2026-01-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr admiral serie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Felix A. aus Frankfurt",
     "date": "2026-01-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Tanja H. aus Mannheim",
-    "date": "2026-01-10"
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Moritz D. aus Leipzig",
+    "date": "2026-01-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Tom D. aus Salzgitter",
-    "date": "2026-01-10"
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Maria Y. aus Oldenburg",
+    "date": "2026-01-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Mats U. aus Düsseldorf",
-    "date": "2026-01-10"
+    "content": "Das Armband trägt sich sehr angenehm. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Lisa T. aus Bottrop",
+    "date": "2026-01-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Luis Q. aus Kaiserslautern",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Schweres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Silke Y. aus Frankfurt",
     "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Lisa S. aus Erlangen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr luxus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sarah W. aus Hamm",
     "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Jannik T. aus Braunschweig",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Männliches Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sven J. aus Hamburg",
+    "date": "2026-01-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Top Designes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lukas K. aus Oberhausen",
+    "date": "2026-01-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Schweres Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Maria C. aus Osnabrück",
     "date": "2026-01-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Dominik M. aus Halle (Saale)",
+    "content": "Boss enttäuscht einfach nie. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Top Designes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Nicole B. aus Bremerhaven",
     "date": "2026-01-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Julia F. aus Iserlohn",
-    "date": "2026-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Paul C. aus Dortmund",
-    "date": "2026-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Tom R. aus Bergisch Gladbach",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr männlich. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Justus R. aus Gera",
     "date": "2026-01-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Andrea A. aus Bottrop",
+    "content": "Absolut zufrieden.",
+    "customer_name": "Manuela S. aus Iserlohn",
     "date": "2026-01-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Adrian S. aus Reutlingen",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr admiral serie. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Alexander E. aus Iserlohn",
     "date": "2026-01-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Monika W. aus Mönchengladbach",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr luxus. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Finn G. aus Witten",
     "date": "2026-01-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Anton F. aus Kassel",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr top design. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Maria L. aus Regensburg",
+    "date": "2026-01-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Matteo E. aus Remscheid",
+    "date": "2026-01-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Top Designes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Christian R. aus Frankfurt",
+    "date": "2026-01-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Maximilian C. aus Leipzig",
     "date": "2026-01-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Jannik W. aus Regensburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Top Designes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Petra I. aus Oberhausen",
     "date": "2026-01-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Niklas K. aus Hildesheim",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Bastian C. aus Krefeld",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Jannik W. aus Halle (Saale)",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Anton B. aus Regensburg",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Noah V. aus Hagen",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Nadine O. aus Würzburg",
-    "date": "2026-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Jonas N. aus Düsseldorf",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr top design. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Manuela Q. aus Gelsenkirchen",
     "date": "2026-01-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Paul K. aus Solingen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Männliches Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tim K. aus Stuttgart",
     "date": "2026-01-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Malte Q. aus Hannover",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Top Designes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Anja P. aus Hamm",
     "date": "2026-01-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Robin V. aus Jena",
-    "date": "2026-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Jonas Z. aus Remscheid",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr schwer. Besonders das Zifferblatt reflektiert das Licht wunderschön. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Michael M. aus Hannover",
     "date": "2026-01-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Max A. aus Leverkusen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Jannik K. aus Gelsenkirchen",
+    "date": "2026-01-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr luxus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Susanne S. aus Salzgitter",
+    "date": "2026-01-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Schweres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Frank G. aus Bergisch Gladbach",
+    "date": "2026-01-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr top design. Auch nach längerem Tragen spürt man sie kaum am Arm. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Paul R. aus Siegen",
+    "date": "2026-01-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr top design. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Luis V. aus Esslingen",
     "date": "2025-12-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Oskar U. aus Wolfsburg",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Luxuses Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jan F. aus Esslingen",
     "date": "2025-12-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Matteo U. aus Ulm",
+    "content": "Massiv und wertig. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Monika E. aus Würzburg",
     "date": "2025-12-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Fabian P. aus Darmstadt",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Theo A. aus Ludwigsburg",
+    "date": "2025-12-31"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr admiral serie. Das Design ist zeitlos und passt zu fast allem. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Mats K. aus Bonn",
     "date": "2025-12-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Christina C. aus Erfurt",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr männlich. Besonders das Zifferblatt reflektiert das Licht wunderschön. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Samuel E. aus Mainz",
     "date": "2025-12-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Adrian X. aus Salzgitter",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Dominik S. aus Freiburg",
+    "date": "2025-12-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr schwer. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Marlon D. aus Hannover",
     "date": "2025-12-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Petra A. aus Siegen",
+    "content": "Das Armband trägt sich sehr angenehm. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Luxus hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Julia H. aus Essen",
     "date": "2025-12-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Sascha R. aus Augsburg",
-    "date": "2025-12-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Christina J. aus Lübeck",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Silke J. aus Wolfsburg",
     "date": "2025-12-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Anton W. aus Kassel",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Admiral Seriees Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Jan C. aus Heilbronn",
     "date": "2025-12-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Nico L. aus Witten",
-    "date": "2025-12-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Anja I. aus Dresden",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr luxus. Das Logo ist dezent aber präsent integriert. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Arne Q. aus Erlangen",
     "date": "2025-12-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Christoph T. aus Magdeburg",
+    "content": "Preis-Leistung stimmt.",
+    "customer_name": "Maximilian N. aus Kaiserslautern",
     "date": "2025-12-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Max G. aus Ingolstadt",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr luxus. Das Design ist zeitlos und passt zu fast allem. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Philipp K. aus Herne",
+    "date": "2025-12-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Heike V. aus Wuppertal",
+    "date": "2025-12-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr luxus. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Milan Z. aus Düsseldorf",
     "date": "2025-12-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Lisa M. aus Hanau",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Max P. aus Kaiserslautern",
+    "date": "2025-12-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr schwer. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Matteo P. aus Bremerhaven",
     "date": "2025-12-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Timo Z. aus Bochum",
+    "content": "Schneller Versand.",
+    "customer_name": "Maximilian P. aus Kaiserslautern",
     "date": "2025-12-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Bastian Y. aus Erlangen",
+    "content": "Typisch Boss. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Susanne A. aus Darmstadt",
     "date": "2025-12-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Dennis O. aus Wuppertal",
+    "content": "Die Optik ist einfach unschlagbar. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Top Designes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Fabian U. aus Würzburg",
     "date": "2025-12-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Tom O. aus Erlangen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Heike I. aus Würzburg",
     "date": "2025-12-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Julian S. aus Reutlingen",
+    "content": "Passt perfekt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Simon B. aus Iserlohn",
     "date": "2025-12-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Julia G. aus Mönchengladbach",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Männliches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Benedikt W. aus Witten",
     "date": "2025-12-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Melanie K. aus Solingen",
-    "date": "2025-12-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Niklas K. aus Berlin",
-    "date": "2025-12-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Anton K. aus Fürth",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr top design. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Katharina B. aus Braunschweig",
     "date": "2025-12-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Marlon O. aus Rostock",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Top Designes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Matthias P. aus Ludwigshafen",
     "date": "2025-12-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Timo I. aus Herne",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr schwer. Das Design ist zeitlos und passt zu fast allem. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Moritz J. aus Reutlingen",
     "date": "2025-12-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Maria L. aus Mannheim",
-    "date": "2025-12-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Emil M. aus Nürnberg",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Männliches Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Adrian Y. aus Dresden",
     "date": "2025-12-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Florian E. aus Würzburg",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Admiral Seriees Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Timo U. aus Mainz",
+    "date": "2025-12-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Nadine K. aus Mülheim an der Ruhr",
+    "date": "2025-12-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Männliches Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Valentin D. aus Recklinghausen",
     "date": "2025-12-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Anton E. aus Wuppertal",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Maria A. aus Augsburg",
     "date": "2025-12-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Felix X. aus Ulm",
-    "date": "2025-12-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Dominik B. aus Frankfurt",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Schweres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Erik K. aus Hamm",
     "date": "2025-12-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Tom M. aus Iserlohn",
-    "date": "2025-12-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Justus S. aus Chemnitz",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr top design. Das Logo ist dezent aber präsent integriert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Laura V. aus Moers",
     "date": "2025-12-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Timo M. aus Mönchengladbach",
+    "content": "Ein wirklich tolles Stück. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Lisa N. aus Regensburg",
     "date": "2025-12-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Mats K. aus Stuttgart",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Sven Y. aus Köln",
     "date": "2025-12-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Liam P. aus Hanau",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr admiral serie. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Monika W. aus Heilbronn",
+    "date": "2025-12-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Luxuses Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tobias W. aus Darmstadt",
     "date": "2025-12-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Katharina G. aus Solingen",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr männlich. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Florian P. aus Köln",
     "date": "2025-12-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Justus A. aus Krefeld",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr schwer. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Luis H. aus Bochum",
     "date": "2025-12-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Leon Q. aus Karlsruhe",
-    "date": "2025-12-13"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr luxus. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Niklas I. aus Augsburg",
+    "date": "2025-12-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Melanie I. aus Ludwigshafen",
-    "date": "2025-12-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Leon C. aus Leverkusen",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Top Designes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Patrick S. aus Mönchengladbach",
     "date": "2025-12-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Jannik S. aus Augsburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr top design. Die Bedienung der Drücker fühlt sich wertig an. Danke an Karinex für den tollen Service.",
+    "customer_name": "Uwe J. aus Essen",
     "date": "2025-12-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Luis N. aus Krefeld",
-    "date": "2025-12-10"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Schweres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Stefan X. aus Hamburg",
+    "date": "2025-12-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Philipp J. aus Rostock",
-    "date": "2025-12-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Leon D. aus Gera",
-    "date": "2025-12-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Sascha F. aus Oldenburg",
-    "date": "2025-12-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Henry O. aus Wiesbaden",
-    "date": "2025-12-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Paul Q. aus Braunschweig",
-    "date": "2025-12-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Noah V. aus Solingen",
-    "date": "2025-12-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Melanie F. aus Solingen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Johannes U. aus Heilbronn",
     "date": "2025-12-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Nicole W. aus Ludwigsburg",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr top design. Die Indizes sind sauber gesetzt und gut lesbar. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sven T. aus Köln",
     "date": "2025-12-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Moritz F. aus Ingolstadt",
-    "date": "2025-12-08"
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Max J. aus Bremen",
+    "date": "2025-12-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Tim M. aus Mainz",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr top design. Das Design ist zeitlos und passt zu fast allem. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Moritz W. aus Köln",
     "date": "2025-12-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Simon W. aus Nürnberg",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Luxuses Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Malte E. aus Augsburg",
+    "date": "2025-12-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr männlich. Die Kombination aus Materialien wirkt sehr hochwertig. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Alexander P. aus Esslingen",
     "date": "2025-12-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Jannik F. aus Augsburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Thomas X. aus Salzgitter",
     "date": "2025-12-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Dennis E. aus Koblenz",
-    "date": "2025-12-04"
+    "content": "Ein wirklich tolles Stück. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Leo W. aus Bielefeld",
+    "date": "2025-12-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Sabine L. aus Ludwigshafen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr luxus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Silke H. aus Mannheim",
+    "date": "2025-12-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr männlich. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Maximilian Q. aus Ludwigsburg",
+    "date": "2025-12-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Simon Q. aus Duisburg",
     "date": "2025-12-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Susanne N. aus Erlangen",
+    "content": "5 Sterne! Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Bernd R. aus Wolfsburg",
     "date": "2025-12-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Sarah E. aus Mülheim an der Ruhr",
+    "content": "Das Armband trägt sich sehr angenehm. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Männliches Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Leo E. aus Gütersloh",
     "date": "2025-12-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Valentin Q. aus Essen",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Schweres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Hannes B. aus Erlangen",
     "date": "2025-12-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Kevin W. aus Mülheim an der Ruhr",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Luxus hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Arne J. aus Mainz",
     "date": "2025-12-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Lenny Y. aus Paderborn",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr top design. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Lisa P. aus München",
     "date": "2025-12-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Stefanie H. aus Bergisch Gladbach",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Männliches Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Leon P. aus Kiel",
     "date": "2025-12-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Timo V. aus Augsburg",
+    "content": "Einfach edel. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jannik T. aus Oldenburg",
     "date": "2025-11-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Johannes D. aus Iserlohn",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr luxus. Die Bedienung der Drücker fühlt sich wertig an. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Oskar D. aus Wolfsburg",
     "date": "2025-11-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Anja P. aus Braunschweig",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Top Designes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Christoph Y. aus Duisburg",
     "date": "2025-11-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Sascha X. aus Osnabrück",
-    "date": "2025-11-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Jonas V. aus Leverkusen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Schweres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Manuela C. aus Bergisch Gladbach",
     "date": "2025-11-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Maria D. aus Hildesheim",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Finn C. aus Darmstadt",
     "date": "2025-11-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Erik Z. aus Wolfsburg",
-    "date": "2025-11-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Felix N. aus Braunschweig",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr top design. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Vincent V. aus Erfurt",
     "date": "2025-11-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Dennis T. aus Göttingen",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Anja X. aus Aachen",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Christina W. aus Osnabrück",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Bastian W. aus Gera",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Laura K. aus Wuppertal",
-    "date": "2025-11-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Nicole Y. aus Bremerhaven",
-    "date": "2025-11-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Christina U. aus Leverkusen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwer hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Männliches Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Marlon M. aus Neuss",
     "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Niklas O. aus Mainz",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr admiral serie. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sandra G. aus Moers",
     "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Jan Z. aus Mainz",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Anna N. aus Krefeld",
     "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Tom M. aus Gera",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr schwer. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Yannick M. aus Gütersloh",
     "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Ben C. aus Herne",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr männlich. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Bernd E. aus Regensburg",
+    "date": "2025-11-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr männlich. Die Indizes sind sauber gesetzt und gut lesbar. Danke an Karinex für den tollen Service.",
+    "customer_name": "Melanie H. aus Essen",
     "date": "2025-11-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Christoph X. aus Jena",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr top design. Die Zeiger bewegen sich sehr präzise. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Tom H. aus Hanau",
     "date": "2025-11-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Lisa U. aus Remscheid",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr luxus. Besonders das Zifferblatt reflektiert das Licht wunderschön. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Max T. aus Jena",
     "date": "2025-11-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Sascha G. aus Münster",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr admiral serie. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Hannes A. aus Pforzheim",
     "date": "2025-11-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Lisa F. aus Köln",
-    "date": "2025-11-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Matteo J. aus Iserlohn",
-    "date": "2025-11-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Julia O. aus Wuppertal",
-    "date": "2025-11-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Matteo L. aus Wuppertal",
-    "date": "2025-11-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Felix O. aus Chemnitz",
-    "date": "2025-11-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Nicole Z. aus Regensburg",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr admiral serie. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Niklas T. aus Witten",
     "date": "2025-11-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Erik Q. aus Fürth",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Bernd M. aus Witten",
     "date": "2025-11-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Nadine J. aus Mannheim",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr admiral serie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Timo O. aus Remscheid",
+    "date": "2025-11-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Lukas N. aus Leverkusen",
     "date": "2025-11-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Nadine E. aus Ingolstadt",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr top design. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Bernd R. aus Rostock",
+    "date": "2025-11-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Gerne wieder. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Julian L. aus Bergisch Gladbach",
+    "date": "2025-11-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Marlon Q. aus Ingolstadt",
+    "date": "2025-11-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Martina R. aus Augsburg",
     "date": "2025-11-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Henry Z. aus Heidelberg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwer. Die Bedienung der Drücker fühlt sich wertig an. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Matthias F. aus Düsseldorf",
     "date": "2025-11-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Henry U. aus Düsseldorf",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr admiral serie. Die Indizes sind sauber gesetzt und gut lesbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Stefan G. aus Mainz",
+    "date": "2025-11-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "David E. aus Erlangen",
     "date": "2025-11-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Lisa K. aus Hannover",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr top design. Die Bedienung der Drücker fühlt sich wertig an. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Jan W. aus Neuss",
     "date": "2025-11-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Jonas V. aus Bochum",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr schwer. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Anna K. aus Gütersloh",
     "date": "2025-11-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Susanne G. aus Oberhausen",
-    "date": "2025-11-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Luca K. aus Halle (Saale)",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Admiral Seriees Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sarah F. aus Paderborn",
     "date": "2025-11-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Philipp S. aus Erfurt",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Bastian L. aus Ingolstadt",
     "date": "2025-11-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Marlon H. aus Münster",
-    "date": "2025-11-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Kevin Z. aus Magdeburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr männlich. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Samuel F. aus Frankfurt",
     "date": "2025-11-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Kilian J. aus Kaiserslautern",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Matteo D. aus Erlangen",
     "date": "2025-11-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Henry V. aus Erlangen",
-    "date": "2025-11-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Tim T. aus Herne",
-    "date": "2025-11-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Yannick M. aus Fürth",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr top design. Besonders das Zifferblatt reflektiert das Licht wunderschön. Danke an Karinex für den tollen Service.",
+    "customer_name": "Ben V. aus Bergisch Gladbach",
     "date": "2025-11-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Timo I. aus Dresden",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr schwer. Die Bedienung der Drücker fühlt sich wertig an. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sabine O. aus Köln",
     "date": "2025-11-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Dominik Q. aus Bergisch Gladbach",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr männlich. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "David O. aus Salzgitter",
     "date": "2025-11-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Lisa R. aus Remscheid",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr schwer. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Marlon N. aus Recklinghausen",
     "date": "2025-11-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Andrea U. aus Oberhausen",
-    "date": "2025-11-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Malte S. aus Frankfurt",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Laura T. aus Hamm",
     "date": "2025-11-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Timo H. aus Salzgitter",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr schwer. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Kevin P. aus Heilbronn",
     "date": "2025-11-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Theo K. aus Saarbrücken",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Nicole G. aus Ulm",
     "date": "2025-11-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Moritz V. aus Heilbronn",
-    "date": "2025-11-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Paul N. aus Remscheid",
-    "date": "2025-11-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Anton J. aus Bielefeld",
-    "date": "2025-11-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Theo W. aus Mülheim an der Ruhr",
-    "date": "2025-11-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Tom P. aus Dresden",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Claudia X. aus Ludwigsburg",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Katharina V. aus Wolfsburg",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Liam H. aus Wuppertal",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Christoph M. aus Solingen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr schwer. Die Indizes sind sauber gesetzt und gut lesbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Laura P. aus Bremerhaven",
     "date": "2025-11-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Julia A. aus Trier",
+    "content": "Massiv und wertig. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Kerstin V. aus Duisburg",
     "date": "2025-11-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Marlon E. aus Heidelberg",
-    "date": "2025-11-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Leon C. aus Bremerhaven",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Admiral Seriees Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Manuela X. aus Mannheim",
     "date": "2025-11-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Jonas I. aus Fürth",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Männliches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Daniel Z. aus Karlsruhe",
+    "date": "2025-11-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Paul U. aus Lübeck",
+    "date": "2025-11-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr luxus. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Anja D. aus Recklinghausen",
     "date": "2025-11-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Claudia H. aus Aachen",
-    "date": "2025-11-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Niklas W. aus Offenbach",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Top Designes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kilian M. aus Mönchengladbach",
     "date": "2025-11-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Luca C. aus Mannheim",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr männlich. Die Indizes sind sauber gesetzt und gut lesbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Ben F. aus Erfurt",
     "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Julian E. aus Hamburg",
-    "date": "2025-11-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Luis F. aus Dresden",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr luxus. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Melanie W. aus Iserlohn",
     "date": "2025-11-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Liam U. aus Salzgitter",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr schwer. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Melanie H. aus Moers",
     "date": "2025-11-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Henry Z. aus Dresden",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr luxus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Anna O. aus Jena",
     "date": "2025-11-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Dominik U. aus Münster",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr männlich. Das Logo ist dezent aber präsent integriert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Katja A. aus Mannheim",
+    "date": "2025-11-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr top design. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Frank Y. aus Reutlingen",
     "date": "2025-11-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Vincent T. aus Jena",
-    "date": "2025-11-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Valentin L. aus Hanau",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Luxuses Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Samuel N. aus Magdeburg",
     "date": "2025-11-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Christina D. aus Bremen",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr luxus. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Jan K. aus Esslingen",
     "date": "2025-11-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Susanne Z. aus Frankfurt",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Liam Q. aus Reutlingen",
+    "date": "2025-11-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Lisa U. aus Ulm",
     "date": "2025-11-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Christina V. aus Gelsenkirchen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr admiral serie. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Stefan L. aus Saarbrücken",
     "date": "2025-11-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Paul J. aus Berlin",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Schweres Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Max O. aus Augsburg",
     "date": "2025-11-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Samuel I. aus Iserlohn",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Schweres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Alexander U. aus Osnabrück",
     "date": "2025-11-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Adrian G. aus Düsseldorf",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr admiral serie. Das Logo ist dezent aber präsent integriert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Henry Y. aus Heidelberg",
     "date": "2025-11-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Sabine O. aus Hanau",
+    "content": "Absolut zufrieden. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Patrick D. aus Wuppertal",
     "date": "2025-11-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Katharina V. aus Hamburg",
-    "date": "2025-11-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Nico J. aus Bochum",
-    "date": "2025-11-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Florian B. aus Mainz",
+    "content": "Top Qualität.",
+    "customer_name": "Samuel Q. aus Remscheid",
     "date": "2025-10-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Marlon Y. aus Bonn",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Susanne J. aus Krefeld",
+    "date": "2025-10-31"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr top design. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Noah X. aus Köln",
+    "date": "2025-10-31"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Admiral Seriees Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Bernd R. aus Augsburg",
+    "date": "2025-10-31"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Männliches Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Andreas V. aus Bremen",
     "date": "2025-10-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Dominik X. aus Mannheim",
-    "date": "2025-10-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Alexander R. aus Wuppertal",
-    "date": "2025-10-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Jannik P. aus Leverkusen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr top design. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Nico L. aus Siegen",
     "date": "2025-10-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Claudia G. aus Gelsenkirchen",
+    "content": "Ein wirklich tolles Stück. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Martina F. aus Bergisch Gladbach",
     "date": "2025-10-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Julian I. aus Offenbach",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr männlich. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kevin S. aus Siegen",
     "date": "2025-10-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Adrian I. aus Wolfsburg",
-    "date": "2025-10-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Timo W. aus Gera",
+    "content": "Die Optik ist einfach unschlagbar. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Männliches Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Christian N. aus Offenbach",
     "date": "2025-10-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Henry O. aus Iserlohn",
-    "date": "2025-10-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Liam N. aus Mülheim an der Ruhr",
-    "date": "2025-10-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Maria W. aus Solingen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr top design. Das Logo ist dezent aber präsent integriert. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Sascha N. aus Chemnitz",
     "date": "2025-10-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Julia I. aus Würzburg",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Heike C. aus Heilbronn",
     "date": "2025-10-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Marlon Y. aus Dresden",
-    "date": "2025-10-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Tom K. aus Osnabrück",
-    "date": "2025-10-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Monika R. aus Esslingen",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr top design. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Michael P. aus Mönchengladbach",
     "date": "2025-10-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Valentin Q. aus Gera",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr schwer. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Johannes P. aus Leipzig",
     "date": "2025-10-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Justus C. aus Aachen",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr top design. Das Kürzen des Metallarmbands ging problemlos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Nicole M. aus Lübeck",
     "date": "2025-10-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Erik Y. aus Wiesbaden",
-    "date": "2025-10-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Jan S. aus Erfurt",
-    "date": "2025-10-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Katharina U. aus Kiel",
-    "date": "2025-10-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Liam N. aus Aachen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr top design. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Christina X. aus Remscheid",
     "date": "2025-10-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Felix I. aus Darmstadt",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Admiral Seriees Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Dominik V. aus Augsburg",
     "date": "2025-10-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Christina I. aus Ludwigshafen",
+    "content": "Das Armband trägt sich sehr angenehm. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Schweres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Finn M. aus Neuss",
     "date": "2025-10-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Maximilian K. aus Heidelberg",
-    "date": "2025-10-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Arne Y. aus Essen",
-    "date": "2025-10-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Tanja M. aus Chemnitz",
-    "date": "2025-10-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Justus I. aus Darmstadt",
-    "date": "2025-10-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Noah S. aus Augsburg",
-    "date": "2025-10-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Tanja R. aus Freiburg",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Sascha A. aus Bremen",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Kilian A. aus Oberhausen",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Sascha T. aus Offenbach",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Vincent U. aus Erlangen",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Ben L. aus Augsburg",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr luxus. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Florian C. aus Trier",
     "date": "2025-10-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "David N. aus Frankfurt",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr schwer. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sascha M. aus Duisburg",
     "date": "2025-10-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Jonas D. aus Mannheim",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr männlich. Besonders das Zifferblatt reflektiert das Licht wunderschön. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Andrea X. aus Duisburg",
+    "date": "2025-10-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Kerstin Q. aus Oldenburg",
     "date": "2025-10-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Jonas E. aus Braunschweig",
-    "date": "2025-10-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Fabian U. aus Herne",
-    "date": "2025-10-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Marlon T. aus Wiesbaden",
-    "date": "2025-10-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Emil Q. aus Oldenburg",
-    "date": "2025-10-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Valentin N. aus Solingen",
-    "date": "2025-10-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Justus Q. aus Düsseldorf",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr schwer. Die Kombination aus Materialien wirkt sehr hochwertig. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Milan B. aus Paderborn",
     "date": "2025-10-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Alexander N. aus Leverkusen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Top Designes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Erik W. aus Bremen",
     "date": "2025-10-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Timo X. aus Oldenburg",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Top Designes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Tom Y. aus Mainz",
     "date": "2025-10-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Jan V. aus Münster",
+    "content": "Einfach edel.",
+    "customer_name": "Nadine M. aus Kiel",
+    "date": "2025-10-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Top Designes Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Max Q. aus Lübeck",
     "date": "2025-10-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Johannes I. aus Braunschweig",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Laura X. aus Mülheim an der Ruhr",
     "date": "2025-10-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Noah J. aus Hildesheim",
-    "date": "2025-10-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Luca S. aus Berlin",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr schwer. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Lisa S. aus Paderborn",
     "date": "2025-10-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Christoph P. aus Leverkusen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr top design. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Robin U. aus Trier",
+    "date": "2025-10-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr top design. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Kerstin V. aus Wolfsburg",
+    "date": "2025-10-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr schwer. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Uwe Y. aus Mannheim",
     "date": "2025-10-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Kilian A. aus Hanau",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr top design. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Emil G. aus Bielefeld",
+    "date": "2025-10-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Super verpackt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Daniel E. aus Heidelberg",
     "date": "2025-10-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Erik D. aus Fürth",
-    "date": "2025-10-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Anja Q. aus Wolfsburg",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Andreas E. aus Witten",
     "date": "2025-10-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Kilian T. aus Chemnitz",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr top design. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kevin S. aus Jena",
     "date": "2025-10-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Birgit C. aus Kiel",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr männlich. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Finn B. aus Hagen",
     "date": "2025-10-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Nico Y. aus Augsburg",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr schwer. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Birgit K. aus Bochum",
     "date": "2025-10-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Benedikt L. aus Augsburg",
-    "date": "2025-10-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Simon F. aus Berlin",
-    "date": "2025-10-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Tobias N. aus Jena",
+    "content": "Schneller Versand. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Tim T. aus Kassel",
     "date": "2025-10-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Florian A. aus Osnabrück",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Finn B. aus Krefeld",
     "date": "2025-10-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Emil F. aus Nürnberg",
-    "date": "2025-10-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Tobias H. aus Freiburg",
-    "date": "2025-10-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Maximilian W. aus Gelsenkirchen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr top design. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Nadine G. aus Heidelberg",
     "date": "2025-10-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Moritz L. aus Bottrop",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr top design. Das Logo ist dezent aber präsent integriert. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Henry J. aus Bochum",
     "date": "2025-10-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Ben W. aus Mülheim an der Ruhr",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Schweres Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Elias R. aus Kaiserslautern",
     "date": "2025-10-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Sascha F. aus Fürth",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr admiral serie. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Stefanie Y. aus Stuttgart",
     "date": "2025-10-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Birgit Z. aus Würzburg",
-    "date": "2025-10-07"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr schwer. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Paul E. aus Pforzheim",
+    "date": "2025-10-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Bastian Z. aus Recklinghausen",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwer. Das Design ist zeitlos und passt zu fast allem. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Jürgen G. aus Salzgitter",
+    "date": "2025-10-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Sebastian F. aus Potsdam",
     "date": "2025-10-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Maximilian V. aus Hamburg",
-    "date": "2025-10-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Max S. aus Reutlingen",
-    "date": "2025-10-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Mats B. aus Fürth",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Maximilian E. aus Jena",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Lenny Y. aus Hildesheim",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Susanne Q. aus Würzburg",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Simon H. aus Trier",
-    "date": "2025-10-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Melanie O. aus Berlin",
-    "date": "2025-10-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Birgit W. aus Hamm",
-    "date": "2025-10-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Luca E. aus Ludwigshafen",
-    "date": "2025-10-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Christina W. aus Witten",
+    "content": "Ein wirklich tolles Stück. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Oskar O. aus Bremerhaven",
     "date": "2025-10-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Emil K. aus Recklinghausen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr schwer. Das Logo ist dezent aber präsent integriert. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Justus C. aus Bielefeld",
     "date": "2025-10-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Lisa D. aus Iserlohn",
-    "date": "2025-10-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Nicole O. aus Regensburg",
-    "date": "2025-10-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Samuel F. aus Hanau",
-    "date": "2025-10-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Sarah W. aus Bremen",
-    "date": "2025-10-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Theo M. aus Mainz",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr top design. Das Logo ist dezent aber präsent integriert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Monika B. aus Heilbronn",
     "date": "2025-09-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Felix G. aus Halle (Saale)",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr top design. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Katja Q. aus Rostock",
     "date": "2025-09-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Valentin K. aus Bielefeld",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Johannes Z. aus Krefeld",
+    "date": "2025-09-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr schwer. Die Schließe am Armband wirkt sehr stabil und sicher. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Nadine R. aus Regensburg",
     "date": "2025-09-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Adrian Q. aus Wuppertal",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr luxus. Die Kombination aus Materialien wirkt sehr hochwertig. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Jan A. aus Salzgitter",
+    "date": "2025-09-29"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr männlich. Die Zeiger bewegen sich sehr präzise. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kerstin Y. aus Ingolstadt",
+    "date": "2025-09-29"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr luxus. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Samuel S. aus Herne",
     "date": "2025-09-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Milan S. aus Bremerhaven",
-    "date": "2025-09-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Justus V. aus Siegen",
+    "content": "Massiv und wertig. Danke an Karinex für den tollen Service.",
+    "customer_name": "David B. aus Dortmund",
     "date": "2025-09-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Dennis Q. aus Duisburg",
-    "date": "2025-09-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Malte J. aus Bergisch Gladbach",
-    "date": "2025-09-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Lisa A. aus Hamm",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Männliches Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Justus F. aus Jena",
     "date": "2025-09-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Tobias Q. aus Halle (Saale)",
+    "content": "Gerne wieder.",
+    "customer_name": "Martin D. aus Jena",
     "date": "2025-09-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Marlon Z. aus Dresden",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Monika J. aus Hanau",
     "date": "2025-09-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Niklas A. aus Koblenz",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr männlich. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Yannick T. aus Nürnberg",
     "date": "2025-09-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Andrea Y. aus Bonn",
-    "date": "2025-09-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Matteo H. aus Oldenburg",
-    "date": "2025-09-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Luis N. aus Mannheim",
-    "date": "2025-09-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Sarah V. aus Ludwigsburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Peter J. aus Osnabrück",
     "date": "2025-09-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Anja Z. aus Ludwigshafen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Top Designes Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Malte L. aus Bremerhaven",
     "date": "2025-09-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Noah O. aus Magdeburg",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Top Design hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Top Designes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "David V. aus Potsdam",
     "date": "2025-09-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Robin B. aus Oberhausen",
-    "date": "2025-09-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Anja R. aus Recklinghausen",
-    "date": "2025-09-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Malte I. aus Bremerhaven",
-    "date": "2025-09-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Nico B. aus Rostock",
-    "date": "2025-09-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Julian G. aus Münster",
-    "date": "2025-09-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Hannes R. aus Heilbronn",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Felix J. aus Bielefeld",
     "date": "2025-09-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Mats R. aus Regensburg",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Admiral Seriees Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Luca O. aus Ulm",
     "date": "2025-09-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Samuel D. aus Witten",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr admiral serie. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sarah K. aus Mülheim an der Ruhr",
+    "date": "2025-09-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Top Designes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sebastian O. aus Mülheim an der Ruhr",
+    "date": "2025-09-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Danke an Karinex für den tollen Service.",
+    "customer_name": "Benedikt K. aus Ulm",
     "date": "2025-09-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Niklas W. aus Bergisch Gladbach",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr schwer. Die Indizes sind sauber gesetzt und gut lesbar. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Nico Y. aus Bremen",
     "date": "2025-09-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Matteo L. aus Bremen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Luxuses Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Hannes G. aus Dresden",
     "date": "2025-09-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Petra E. aus Erlangen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Top Design hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Männliches Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Michael W. aus Hannover",
     "date": "2025-09-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Erik A. aus Freiburg",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr männlich. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "David T. aus Recklinghausen",
     "date": "2025-09-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Tim M. aus Solingen",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr admiral serie. Das Logo ist dezent aber präsent integriert. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Erik C. aus Leipzig",
     "date": "2025-09-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Petra D. aus Remscheid",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Schweres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Stefan E. aus Krefeld",
+    "date": "2025-09-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Katharina X. aus Trier",
+    "date": "2025-09-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Top Qualität. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Tim M. aus Leverkusen",
     "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Christina Z. aus Duisburg",
+    "content": "Boss enttäuscht einfach nie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Luxuses Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "David N. aus Bremen",
     "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "David T. aus Bottrop",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr admiral serie. Die Chronographen-Funktionen arbeiten einwandfrei. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Erik K. aus Berlin",
     "date": "2025-09-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Max H. aus Moers",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr admiral serie. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Matthias D. aus Erlangen",
     "date": "2025-09-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Christina I. aus Paderborn",
-    "date": "2025-09-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Kerstin F. aus Ludwigshafen",
-    "date": "2025-09-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Arne O. aus Erlangen",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Florian C. aus Halle (Saale)",
     "date": "2025-09-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Justus B. aus Hanau",
-    "date": "2025-09-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Leon S. aus Kassel",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Schweres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Adrian R. aus Bottrop",
     "date": "2025-09-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Dennis L. aus Kassel",
+    "content": "Massiv und wertig.",
+    "customer_name": "Heike R. aus Bergisch Gladbach",
     "date": "2025-09-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Oskar E. aus Mannheim",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Birgit W. aus Lübeck",
     "date": "2025-09-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Kerstin T. aus Remscheid",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr top design. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Henry Y. aus Göttingen",
+    "date": "2025-09-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Männlich hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Admiral Seriees Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sandra A. aus Magdeburg",
+    "date": "2025-09-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr männlich. Die Bedienung der Drücker fühlt sich wertig an. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Florian H. aus Regensburg",
     "date": "2025-09-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Claudia U. aus Wuppertal",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr top design. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Lukas V. aus Hagen",
     "date": "2025-09-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Julia N. aus Heilbronn",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Top Designes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Finn G. aus Bremen",
+    "date": "2025-09-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr schwer. Besonders das Zifferblatt reflektiert das Licht wunderschön. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Daniel E. aus Rostock",
     "date": "2025-09-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "David Q. aus Hamm",
+    "content": "Klasse Design. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Tobias I. aus Remscheid",
     "date": "2025-09-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Arne E. aus Jena",
+    "content": "Gerne wieder. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Ben K. aus Salzgitter",
     "date": "2025-09-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Lukas N. aus Koblenz",
+    "content": "Ein wirklich tolles Stück. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Luxus hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Männliches Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sabine O. aus Cottbus",
+    "date": "2025-09-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Admiral Seriees Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Maria X. aus Köln",
+    "date": "2025-09-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr top design. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Leon X. aus Mannheim",
     "date": "2025-09-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Kevin H. aus Bielefeld",
+    "content": "Die Optik ist einfach unschlagbar. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Top Design hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Matthias F. aus Mainz",
     "date": "2025-09-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Paul O. aus Regensburg",
-    "date": "2025-09-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Lukas P. aus Gelsenkirchen",
-    "date": "2025-09-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Jannik S. aus Magdeburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Luxuses Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Lukas S. aus Frankfurt",
     "date": "2025-09-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Luca C. aus Iserlohn",
-    "date": "2025-09-07"
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr schwer. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Martina T. aus Siegen",
+    "date": "2025-09-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Claudia W. aus Hamburg",
-    "date": "2025-09-07"
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr luxus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Justus K. aus Bonn",
+    "date": "2025-09-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Petra R. aus Göttingen",
-    "date": "2025-09-07"
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr schwer. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Anton D. aus Mannheim",
+    "date": "2025-09-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Bastian E. aus Pforzheim",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr luxus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Florian Y. aus Münster",
     "date": "2025-09-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Hannes X. aus Augsburg",
-    "date": "2025-09-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Dennis K. aus Düsseldorf",
-    "date": "2025-09-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Robin D. aus Bochum",
-    "date": "2025-09-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Dominik K. aus Lübeck",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr luxus. Die Indizes sind sauber gesetzt und gut lesbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Milan M. aus Köln",
     "date": "2025-09-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Felix L. aus Erfurt",
-    "date": "2025-09-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Hannes P. aus Schwerin",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr admiral serie. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Niklas V. aus Aachen",
     "date": "2025-09-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Claudia G. aus Erfurt",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr admiral serie. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lenny T. aus Erfurt",
+    "date": "2025-09-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Admiral Seriees Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Anton V. aus Wuppertal",
+    "date": "2025-09-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr männlich. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Maximilian Q. aus Bottrop",
+    "date": "2025-09-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Typisch Boss. Danke an Karinex für den tollen Service.",
+    "customer_name": "Thomas H. aus Chemnitz",
+    "date": "2025-09-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr top design. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Monika Z. aus Rostock",
+    "date": "2025-09-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr admiral serie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Danke an Karinex für den tollen Service.",
+    "customer_name": "Frank S. aus Berlin",
     "date": "2025-09-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Laura C. aus Magdeburg",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr schwer. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Bastian J. aus München",
     "date": "2025-09-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Moritz Z. aus Köln",
-    "date": "2025-09-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Nico N. aus Wiesbaden",
+    "content": "Das Armband trägt sich sehr angenehm. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Thomas L. aus Essen",
     "date": "2025-09-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Mats M. aus Hildesheim",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Schweres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "David E. aus Kassel",
+    "date": "2025-09-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Liam W. aus Hagen",
     "date": "2025-09-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Kerstin E. aus Mönchengladbach",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Thomas G. aus Düsseldorf",
     "date": "2025-09-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Jonas F. aus Trier",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr admiral serie. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Tobias L. aus Kiel",
     "date": "2025-09-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Tanja W. aus Hannover",
-    "date": "2025-09-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Christina Z. aus Ingolstadt",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr top design. Das Logo ist dezent aber präsent integriert. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Martina K. aus Iserlohn",
     "date": "2025-08-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Florian U. aus Siegen",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Luxuses Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Theo M. aus Hildesheim",
     "date": "2025-08-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Nadine B. aus Solingen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Luxuses Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Liam N. aus Mainz",
     "date": "2025-08-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Stefanie J. aus Ludwigshafen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Simon N. aus Gelsenkirchen",
     "date": "2025-08-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Niklas U. aus Mainz",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr schwer. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Anna W. aus Leipzig",
+    "date": "2025-08-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sven Y. aus Darmstadt",
     "date": "2025-08-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Maximilian H. aus Neuss",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr männlich. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Julia G. aus Rostock",
     "date": "2025-08-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Adrian L. aus Ulm",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Schweres Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Silke G. aus Osnabrück",
     "date": "2025-08-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Nicole E. aus Bottrop",
-    "date": "2025-08-29"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Luxuses Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Arne H. aus Neuss",
+    "date": "2025-08-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Lisa U. aus Siegen",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Johannes T. aus Heidelberg",
+    "date": "2025-08-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Martina W. aus Ingolstadt",
+    "date": "2025-08-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Simon Q. aus Cottbus",
+    "date": "2025-08-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr admiral serie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Sascha B. aus Bonn",
     "date": "2025-08-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Kilian F. aus Recklinghausen",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Männlich hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sascha L. aus Cottbus",
     "date": "2025-08-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Fabian Z. aus Siegen",
+    "content": "Klasse Design. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Theo Q. aus Dortmund",
+    "date": "2025-08-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr top design. Die Schließe am Armband wirkt sehr stabil und sicher. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sascha Q. aus Leipzig",
+    "date": "2025-08-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Männliches Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Nicole U. aus Darmstadt",
+    "date": "2025-08-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Jürgen S. aus Solingen",
     "date": "2025-08-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Marlon G. aus Aachen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr schwer. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Bernd N. aus Duisburg",
+    "date": "2025-08-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr luxus. Die Schließe am Armband wirkt sehr stabil und sicher. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Christian W. aus Moers",
     "date": "2025-08-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Susanne F. aus Göttingen",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Luxuses Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Lenny B. aus Witten",
+    "date": "2025-08-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr schwer. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Anna U. aus Oberhausen",
     "date": "2025-08-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Philipp B. aus Remscheid",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr männlich. Besonders das Zifferblatt reflektiert das Licht wunderschön. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Klaus E. aus Würzburg",
     "date": "2025-08-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Paul C. aus Neuss",
-    "date": "2025-08-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Melanie H. aus Siegen",
-    "date": "2025-08-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Nicole K. aus Chemnitz",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Tobias E. aus Kaiserslautern",
     "date": "2025-08-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "David S. aus Frankfurt",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Paul R. aus Leipzig",
     "date": "2025-08-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Sabine J. aus Salzgitter",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr luxus. Die Indizes sind sauber gesetzt und gut lesbar. Danke an Karinex für den tollen Service.",
+    "customer_name": "Maximilian U. aus Mainz",
+    "date": "2025-08-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr männlich. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Susanne Z. aus Wolfsburg",
+    "date": "2025-08-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Klasse Design. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Maria K. aus Gelsenkirchen",
     "date": "2025-08-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Maria Z. aus Essen",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr männlich. Die Zeiger bewegen sich sehr präzise. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Daniel V. aus Schwerin",
+    "date": "2025-08-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "David A. aus Augsburg",
+    "date": "2025-08-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Johannes V. aus Offenbach",
     "date": "2025-08-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Luca G. aus Ludwigsburg",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Schweres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Milan N. aus Recklinghausen",
+    "date": "2025-08-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr luxus. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Alexander M. aus Kiel",
+    "date": "2025-08-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr top design. Die Zeiger bewegen sich sehr präzise. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Lenny G. aus Göttingen",
+    "date": "2025-08-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Danke an Karinex für den tollen Service.",
+    "customer_name": "Dominik J. aus Krefeld",
+    "date": "2025-08-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Luxus hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Admiral Seriees Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Noah G. aus Neuss",
     "date": "2025-08-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Nadine Y. aus Mainz",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Nico X. aus Münster",
     "date": "2025-08-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Timo D. aus Essen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr schwer. Die Schließe am Armband wirkt sehr stabil und sicher. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tobias Q. aus Jena",
     "date": "2025-08-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Noah H. aus Potsdam",
+    "content": "Das Armband trägt sich sehr angenehm. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Top Designes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Emil E. aus Trier",
+    "date": "2025-08-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Danke an Karinex für den tollen Service.",
+    "customer_name": "Maria L. aus Heidelberg",
+    "date": "2025-08-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr admiral serie. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Elias Q. aus Heidelberg",
     "date": "2025-08-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Anton J. aus Frankfurt",
-    "date": "2025-08-17"
+    "content": "Massiv und wertig. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Alexander T. aus Mannheim",
+    "date": "2025-08-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Justus A. aus Neuss",
-    "date": "2025-08-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Noah P. aus Karlsruhe",
-    "date": "2025-08-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Valentin D. aus Schwerin",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr männlich. Die Kombination aus Materialien wirkt sehr hochwertig. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tobias E. aus Duisburg",
     "date": "2025-08-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Nadine W. aus Frankfurt",
-    "date": "2025-08-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Sarah G. aus Witten",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr admiral serie. Das Kürzen des Metallarmbands ging problemlos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Leon B. aus Hildesheim",
     "date": "2025-08-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Tim A. aus Aachen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr luxus. Die Chronographen-Funktionen arbeiten einwandfrei. Danke an Karinex für den tollen Service.",
+    "customer_name": "Benedikt F. aus Mülheim an der Ruhr",
+    "date": "2025-08-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Männliches Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Liam Q. aus Solingen",
+    "date": "2025-08-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr männlich. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Matteo P. aus Rostock",
+    "date": "2025-08-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr top design. Die Kombination aus Materialien wirkt sehr hochwertig. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Julian S. aus Witten",
+    "date": "2025-08-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr männlich. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Alexander G. aus Jena",
     "date": "2025-08-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Lenny P. aus Düsseldorf",
-    "date": "2025-08-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "David G. aus Bielefeld",
-    "date": "2025-08-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Luca N. aus Wiesbaden",
-    "date": "2025-08-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Robin P. aus Ingolstadt",
-    "date": "2025-08-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Jannik V. aus Erfurt",
-    "date": "2025-08-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Nico K. aus Dortmund",
-    "date": "2025-08-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Adrian E. aus Augsburg",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr luxus. Die Zeiger bewegen sich sehr präzise. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Markus A. aus Salzgitter",
     "date": "2025-08-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Leon V. aus Schwerin",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Dennis K. aus Mönchengladbach",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Paul I. aus Pforzheim",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Lukas J. aus Hanau",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Valentin F. aus Ludwigsburg",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Kevin Z. aus Solingen",
+    "content": "Absolut zufrieden. Danke an Karinex für den tollen Service.",
+    "customer_name": "Tom V. aus Darmstadt",
     "date": "2025-08-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Tim O. aus Offenbach",
-    "date": "2025-08-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Noah U. aus Rostock",
-    "date": "2025-08-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Arne Q. aus Mainz",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Schweres Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Maximilian H. aus Augsburg",
     "date": "2025-08-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Niklas O. aus Chemnitz",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Birgit H. aus Bottrop",
     "date": "2025-08-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Finn V. aus Dortmund",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Sarah H. aus Hannover",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Paul I. aus Augsburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Luxuses Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Mats M. aus Paderborn",
     "date": "2025-08-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Alexander A. aus Wiesbaden",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr schwer. Die Zeiger bewegen sich sehr präzise. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Susanne U. aus Salzgitter",
+    "date": "2025-08-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Sascha S. aus Bremen",
+    "date": "2025-08-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr schwer. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Matthias Z. aus Duisburg",
+    "date": "2025-08-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Luxuses Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Theo L. aus Kassel",
     "date": "2025-08-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Maximilian C. aus Hamburg",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Justus W. aus Chemnitz",
     "date": "2025-08-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Dennis Z. aus Krefeld",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Admiral Seriees Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Kilian V. aus Duisburg",
     "date": "2025-08-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Sabine P. aus Mannheim",
-    "date": "2025-08-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Paul D. aus Potsdam",
-    "date": "2025-08-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Stefanie H. aus Siegen",
-    "date": "2025-08-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Sarah R. aus Chemnitz",
-    "date": "2025-08-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Melanie U. aus Oberhausen",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Luis V. aus Nürnberg",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr luxus. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Yannick G. aus Stuttgart",
     "date": "2025-08-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Dennis J. aus Mannheim",
-    "date": "2025-08-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Susanne X. aus Remscheid",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr luxus. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Andreas B. aus Erfurt",
     "date": "2025-08-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Erik M. aus Braunschweig",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr schwer. Das Design ist zeitlos und passt zu fast allem. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Kilian Z. aus Gütersloh",
+    "date": "2025-08-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Top Designes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Lukas O. aus Göttingen",
     "date": "2025-07-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Henry B. aus Mannheim",
+    "content": "Schnelle Lieferung. Danke an Karinex für den tollen Service.",
+    "customer_name": "Lisa P. aus Regensburg",
     "date": "2025-07-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Samuel O. aus Köln",
-    "date": "2025-07-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Felix S. aus Krefeld",
-    "date": "2025-07-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Melanie O. aus Mönchengladbach",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr top design. Die Schließe am Armband wirkt sehr stabil und sicher. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Johannes L. aus Nürnberg",
     "date": "2025-07-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Leon V. aus Augsburg",
-    "date": "2025-07-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Milan L. aus Heidelberg",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr luxus. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Liam R. aus Leverkusen",
     "date": "2025-07-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Tom Z. aus Rostock",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Männliches Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Jürgen N. aus Oberhausen",
+    "date": "2025-07-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr männlich. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tobias F. aus Wuppertal",
+    "date": "2025-07-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr luxus. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Jannik H. aus Reutlingen",
+    "date": "2025-07-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr luxus. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Stefan R. aus Wuppertal",
     "date": "2025-07-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Andrea Z. aus Wuppertal",
-    "date": "2025-07-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Sarah Q. aus Erfurt",
-    "date": "2025-07-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Susanne R. aus Herne",
-    "date": "2025-07-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Kerstin G. aus Reutlingen",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr admiral serie. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Frank Z. aus Berlin",
     "date": "2025-07-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Benedikt L. aus Leverkusen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Admiral Seriees Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tobias P. aus Magdeburg",
     "date": "2025-07-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Jannik O. aus Berlin",
+    "content": "Sehr elegant. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Tim U. aus Stuttgart",
     "date": "2025-07-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Felix G. aus Kassel",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr admiral serie. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Maria U. aus Regensburg",
     "date": "2025-07-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Arne S. aus Hamm",
-    "date": "2025-07-22"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr admiral serie. Die Kombination aus Materialien wirkt sehr hochwertig. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "David U. aus Bremen",
+    "date": "2025-07-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Julia U. aus Nürnberg",
-    "date": "2025-07-22"
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Männliches Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Dennis Z. aus Hamm",
+    "date": "2025-07-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Felix N. aus Pforzheim",
-    "date": "2025-07-22"
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr admiral serie. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kevin L. aus Bielefeld",
+    "date": "2025-07-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Max R. aus Solingen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr admiral serie. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Andrea N. aus Heidelberg",
+    "date": "2025-07-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr schwer. Die Kombination aus Materialien wirkt sehr hochwertig. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Luis O. aus Duisburg",
+    "date": "2025-07-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr luxus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Nadine K. aus Moers",
     "date": "2025-07-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Jan Z. aus Salzgitter",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr männlich. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sarah T. aus Moers",
     "date": "2025-07-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Samuel S. aus Oberhausen",
-    "date": "2025-07-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Niklas A. aus Reutlingen",
-    "date": "2025-07-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Elias G. aus Leverkusen",
-    "date": "2025-07-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Henry C. aus Kaiserslautern",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Top Design hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Admiral Seriees Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sebastian U. aus Mainz",
     "date": "2025-07-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Anton T. aus Esslingen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Luxuses Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Valentin J. aus Köln",
     "date": "2025-07-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "David T. aus Ludwigsburg",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr admiral serie. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Jan E. aus Ludwigshafen",
     "date": "2025-07-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Robin W. aus Leipzig",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Luxuses Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Felix W. aus Herne",
     "date": "2025-07-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Kerstin Z. aus Braunschweig",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr luxus. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Monika J. aus Moers",
+    "date": "2025-07-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr top design. Die Indizes sind sauber gesetzt und gut lesbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Nico N. aus Erfurt",
+    "date": "2025-07-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr männlich. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Samuel M. aus Wuppertal",
+    "date": "2025-07-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sven D. aus Düsseldorf",
     "date": "2025-07-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Sascha K. aus Mannheim",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr admiral serie. Das Design ist zeitlos und passt zu fast allem. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Felix T. aus Kiel",
     "date": "2025-07-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Tobias O. aus Leverkusen",
-    "date": "2025-07-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Anna Z. aus Salzgitter",
-    "date": "2025-07-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Benedikt N. aus München",
-    "date": "2025-07-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Kilian L. aus Mönchengladbach",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Männliches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Manuela Y. aus Stuttgart",
     "date": "2025-07-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Emil K. aus Würzburg",
-    "date": "2025-07-16"
+    "content": "Die Optik ist einfach unschlagbar. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Top Designes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Florian A. aus Bergisch Gladbach",
+    "date": "2025-07-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Alexander P. aus Schwerin",
-    "date": "2025-07-16"
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr luxus. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Tobias F. aus Oberhausen",
+    "date": "2025-07-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Justus B. aus Kiel",
-    "date": "2025-07-16"
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Heike E. aus Kiel",
+    "date": "2025-07-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Fabian X. aus Offenbach",
-    "date": "2025-07-16"
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Luxuses Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Silke V. aus Salzgitter",
+    "date": "2025-07-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Monika A. aus Frankfurt",
-    "date": "2025-07-16"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr top design. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "David X. aus Recklinghausen",
+    "date": "2025-07-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Elias O. aus Wolfsburg",
-    "date": "2025-07-16"
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Top Designes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Samuel T. aus Solingen",
+    "date": "2025-07-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Tom X. aus Bielefeld",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwer. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Simon H. aus Neuss",
+    "date": "2025-07-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr männlich. Das Logo ist dezent aber präsent integriert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sebastian F. aus Braunschweig",
+    "date": "2025-07-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Top Design hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Luxuses Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Erik W. aus Herne",
+    "date": "2025-07-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwer hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Schweres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Klaus C. aus Trier",
     "date": "2025-07-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Tim F. aus Hildesheim",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Liam L. aus Halle (Saale)",
     "date": "2025-07-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Leon W. aus Witten",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Philipp E. aus Darmstadt",
     "date": "2025-07-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Sandra Z. aus Erfurt",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr luxus. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Paul H. aus München",
     "date": "2025-07-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Maria V. aus Ludwigshafen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Männliches Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Laura Z. aus Ludwigsburg",
+    "date": "2025-07-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Christian S. aus Mannheim",
     "date": "2025-07-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Samuel B. aus Iserlohn",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Kerstin B. aus Potsdam",
     "date": "2025-07-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Sascha W. aus Oberhausen",
-    "date": "2025-07-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Bastian G. aus Siegen",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr luxus. Die Schließe am Armband wirkt sehr stabil und sicher. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Andreas C. aus Wolfsburg",
     "date": "2025-07-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Jonas K. aus Esslingen",
-    "date": "2025-07-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Marlon Q. aus Magdeburg",
+    "content": "Das Armband trägt sich sehr angenehm. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Männlich hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Admiral Seriees Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sven J. aus Remscheid",
     "date": "2025-07-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Matteo H. aus Köln",
+    "content": "Die Optik ist einfach unschlagbar. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Schweres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Johannes K. aus Offenbach",
     "date": "2025-07-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Sascha A. aus Dortmund",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr männlich. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Milan R. aus Schwerin",
     "date": "2025-07-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Leo A. aus Düsseldorf",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Top Designes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Adrian F. aus Schwerin",
+    "date": "2025-07-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Jan H. aus Ulm",
+    "date": "2025-07-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Christina M. aus Oldenburg",
+    "date": "2025-07-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr schwer. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Jan E. aus Chemnitz",
     "date": "2025-07-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Fabian Q. aus Münster",
-    "date": "2025-07-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "David Y. aus Reutlingen",
-    "date": "2025-07-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Melanie F. aus Witten",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Männlich hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Justus D. aus Magdeburg",
     "date": "2025-07-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Tom P. aus Jena",
-    "date": "2025-07-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Dominik K. aus Leipzig",
+    "content": "Typisch Boss.",
+    "customer_name": "Erik R. aus Mannheim",
     "date": "2025-07-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Elias S. aus Hildesheim",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Männliches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Elias N. aus Koblenz",
     "date": "2025-07-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Katharina N. aus Kiel",
-    "date": "2025-07-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Anna U. aus Wolfsburg",
+    "content": "Klasse Design.",
+    "customer_name": "Lisa R. aus Mannheim",
     "date": "2025-07-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Timo H. aus Krefeld",
-    "date": "2025-07-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Katharina A. aus Herne",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sebastian U. aus Wiesbaden",
     "date": "2025-07-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Maria D. aus Nürnberg",
-    "date": "2025-07-01"
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Luxuses Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Anja U. aus Bochum",
+    "date": "2025-07-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Sarah K. aus Erlangen",
-    "date": "2025-07-01"
+    "content": "Das Armband trägt sich sehr angenehm. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Jan E. aus Bremerhaven",
+    "date": "2025-06-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Kevin B. aus Ludwigshafen",
-    "date": "2025-07-01"
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Männliches Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Silke G. aus Braunschweig",
+    "date": "2025-06-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Moritz L. aus Erfurt",
-    "date": "2025-07-01"
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr luxus. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Manuela A. aus Schwerin",
+    "date": "2025-06-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Jonas Y. aus Wuppertal",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Schweres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Lisa W. aus Freiburg",
+    "date": "2025-06-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr top design. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Lenny W. aus München",
     "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Adrian A. aus Kaiserslautern",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Luxuses Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Noah S. aus Witten",
     "date": "2025-06-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Kerstin U. aus Herne",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "David A. aus Reutlingen",
     "date": "2025-06-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Ben Y. aus Hamm",
-    "date": "2025-06-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Christoph X. aus Schwerin",
-    "date": "2025-06-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Sandra D. aus Mainz",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Julia U. aus Leverkusen",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Benedikt N. aus Krefeld",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Nadine Q. aus Mönchengladbach",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Anton X. aus Regensburg",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Tom U. aus Bremerhaven",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Robin D. aus Hannover",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Dominik Z. aus Herne",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Marlon L. aus Bielefeld",
     "date": "2025-06-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Stefanie O. aus Halle (Saale)",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr männlich. Die Indizes sind sauber gesetzt und gut lesbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Frank Q. aus Berlin",
+    "date": "2025-06-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr admiral serie. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Emil F. aus Recklinghausen",
+    "date": "2025-06-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Luxus hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Alexander R. aus Münster",
     "date": "2025-06-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Florian P. aus Braunschweig",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr top design. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Martina N. aus Koblenz",
+    "date": "2025-06-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Admiral Seriees Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Dominik R. aus Remscheid",
     "date": "2025-06-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Theo N. aus Salzgitter",
-    "date": "2025-06-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Vincent N. aus Lübeck",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Schweres Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Frank X. aus Kaiserslautern",
     "date": "2025-06-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Ben P. aus Osnabrück",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Schweres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Leo E. aus Ingolstadt",
     "date": "2025-06-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Stefanie B. aus Iserlohn",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr schwer. Die Kombination aus Materialien wirkt sehr hochwertig. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Leo A. aus Hagen",
     "date": "2025-06-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Tobias J. aus Witten",
-    "date": "2025-06-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Jan U. aus Krefeld",
+    "content": "Toller Hingucker. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Christina N. aus Regensburg",
     "date": "2025-06-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Dennis G. aus Hagen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwer hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Schweres Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lisa C. aus Nürnberg",
     "date": "2025-06-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Susanne U. aus Recklinghausen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lenny O. aus Siegen",
     "date": "2025-06-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Birgit C. aus Leipzig",
-    "date": "2025-06-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Johannes Q. aus Oldenburg",
-    "date": "2025-06-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Theo M. aus Bottrop",
-    "date": "2025-06-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Paul E. aus Witten",
-    "date": "2025-06-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Monika T. aus Pforzheim",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr admiral serie. Das Logo ist dezent aber präsent integriert. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Felix Q. aus Oberhausen",
     "date": "2025-06-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Kevin N. aus Hanau",
-    "date": "2025-06-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie P. aus Siegen",
+    "content": "Schnelle Lieferung.",
+    "customer_name": "Dominik C. aus Regensburg",
     "date": "2025-06-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Maximilian L. aus Bremerhaven",
-    "date": "2025-06-18"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr admiral serie. Die Kombination aus Materialien wirkt sehr hochwertig. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Klaus N. aus Nürnberg",
+    "date": "2025-06-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Lukas D. aus Erfurt",
-    "date": "2025-06-18"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr schwer. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Simon G. aus Osnabrück",
+    "date": "2025-06-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Valentin H. aus Duisburg",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "David X. aus Remscheid",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Claudia E. aus Witten",
-    "date": "2025-06-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Anja H. aus Hagen",
-    "date": "2025-06-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Birgit N. aus Fürth",
+    "content": "Jeden Cent wert.",
+    "customer_name": "Felix T. aus Gütersloh",
     "date": "2025-06-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Matteo K. aus Oldenburg",
-    "date": "2025-06-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Leo P. aus Schwerin",
-    "date": "2025-06-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Justus V. aus Oberhausen",
-    "date": "2025-06-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Sascha F. aus Berlin",
-    "date": "2025-06-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Sabine X. aus Ludwigshafen",
+    "content": "Das Armband trägt sich sehr angenehm. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Top Design hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sandra A. aus Osnabrück",
     "date": "2025-06-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Tom V. aus Hannover",
+    "content": "Die Optik ist einfach unschlagbar. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Top Designes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Emil L. aus Mülheim an der Ruhr",
     "date": "2025-06-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Samuel Y. aus Nürnberg",
-    "date": "2025-06-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Luca D. aus Karlsruhe",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr luxus. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Leon Z. aus Aachen",
     "date": "2025-06-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Claudia L. aus Kiel",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Danke an Karinex für den tollen Service.",
+    "customer_name": "Jonas S. aus Halle (Saale)",
     "date": "2025-06-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Maria E. aus Ludwigshafen",
-    "date": "2025-06-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Timo N. aus Würzburg",
-    "date": "2025-06-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Marlon A. aus Rostock",
-    "date": "2025-06-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Adrian Y. aus Augsburg",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr männlich. Die Zeiger bewegen sich sehr präzise. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Johannes A. aus Dresden",
     "date": "2025-06-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Jonas J. aus Augsburg",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Justus N. aus Remscheid",
     "date": "2025-06-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Arne O. aus Wiesbaden",
-    "date": "2025-06-11"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Männlich hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Admiral Seriees Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Hannes A. aus Aachen",
+    "date": "2025-06-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Anna F. aus Ingolstadt",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Luxus hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Jürgen V. aus Bremerhaven",
+    "date": "2025-06-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwer hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Luxuses Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Robin L. aus Oberhausen",
+    "date": "2025-06-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Luxuses Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Moritz I. aus Mönchengladbach",
+    "date": "2025-06-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr männlich. Die Zeiger bewegen sich sehr präzise. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Andreas E. aus Düsseldorf",
+    "date": "2025-06-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Admiral Seriees Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Hannes T. aus Solingen",
+    "date": "2025-06-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Simon N. aus Heidelberg",
     "date": "2025-06-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Alexander X. aus Erfurt",
+    "content": "Top Qualität. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Noah R. aus Fürth",
     "date": "2025-06-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Oskar R. aus Bremerhaven",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr luxus. Die Schließe am Armband wirkt sehr stabil und sicher. Danke an Karinex für den tollen Service.",
+    "customer_name": "Timo D. aus Wuppertal",
+    "date": "2025-06-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr admiral serie. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Malte P. aus Oldenburg",
     "date": "2025-06-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Valentin V. aus Iserlohn",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr schwer. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Alexander D. aus Oldenburg",
     "date": "2025-06-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Christoph D. aus Erfurt",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Tobias H. aus Dortmund",
     "date": "2025-06-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Kilian O. aus Heilbronn",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Schweres Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Elias W. aus Frankfurt",
     "date": "2025-06-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Liam F. aus Trier",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Männliches Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Lisa K. aus Fürth",
     "date": "2025-06-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Arne Y. aus Ingolstadt",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr schwer. Das Design ist zeitlos und passt zu fast allem. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Adrian A. aus Bochum",
     "date": "2025-06-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Henry R. aus Kiel",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr top design. Die Kombination aus Materialien wirkt sehr hochwertig. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Patrick H. aus Kaiserslautern",
     "date": "2025-06-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Moritz K. aus Neuss",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr männlich. Die Zeiger bewegen sich sehr präzise. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Ben N. aus Kaiserslautern",
     "date": "2025-06-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Maximilian H. aus Berlin",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Luxuses Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Mats R. aus Braunschweig",
     "date": "2025-06-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Birgit N. aus Ludwigshafen",
-    "date": "2025-06-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Leo Y. aus Würzburg",
-    "date": "2025-06-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Jannik N. aus Halle (Saale)",
-    "date": "2025-06-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Adrian C. aus Hildesheim",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr männlich. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Emil V. aus Erfurt",
     "date": "2025-06-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Petra L. aus Lübeck",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Admiral Seriees Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Paul H. aus Berlin",
+    "date": "2025-06-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Admiral Seriees Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Alexander M. aus Ingolstadt",
+    "date": "2025-06-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Schweres Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sascha H. aus Koblenz",
+    "date": "2025-06-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Felix M. aus Wolfsburg",
+    "date": "2025-06-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Hervorragend. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Luca Q. aus Gera",
     "date": "2025-05-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Julia A. aus Trier",
-    "date": "2025-05-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Henry A. aus Berlin",
-    "date": "2025-05-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Christina Q. aus Saarbrücken",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Männliches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Jan O. aus Salzgitter",
     "date": "2025-05-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Tom C. aus Hamburg",
-    "date": "2025-05-29"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Admiral Seriees Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Matthias G. aus Leverkusen",
+    "date": "2025-05-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Sarah H. aus Augsburg",
-    "date": "2025-05-29"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Andrea P. aus Offenbach",
+    "date": "2025-05-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Arne X. aus Stuttgart",
-    "date": "2025-05-28"
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr top design. Das Kürzen des Metallarmbands ging problemlos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Dominik W. aus Hannover",
+    "date": "2025-05-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Kilian X. aus Gera",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr luxus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Emil Y. aus Oberhausen",
+    "date": "2025-05-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr admiral serie. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Martina N. aus Karlsruhe",
     "date": "2025-05-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Samuel O. aus Hamm",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Jürgen G. aus Wolfsburg",
     "date": "2025-05-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Alexander S. aus Gütersloh",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr männlich. Auch nach längerem Tragen spürt man sie kaum am Arm. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Laura W. aus Hildesheim",
     "date": "2025-05-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Anja M. aus Halle (Saale)",
-    "date": "2025-05-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Melanie F. aus Braunschweig",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Oskar I. aus Ulm",
     "date": "2025-05-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Lukas I. aus Gelsenkirchen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Top Designes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Andreas N. aus Gütersloh",
     "date": "2025-05-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Kerstin E. aus Magdeburg",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Top Designes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Andreas K. aus Ingolstadt",
+    "date": "2025-05-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr männlich. Die Schließe am Armband wirkt sehr stabil und sicher. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sebastian P. aus Witten",
+    "date": "2025-05-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Alexander N. aus Remscheid",
     "date": "2025-05-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Yannick W. aus Münster",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr männlich. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Lenny L. aus Osnabrück",
     "date": "2025-05-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Sandra J. aus Freiburg",
-    "date": "2025-05-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Dominik K. aus Oldenburg",
-    "date": "2025-05-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Elias J. aus Hagen",
-    "date": "2025-05-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Matteo N. aus Köln",
-    "date": "2025-05-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Luis H. aus Gera",
-    "date": "2025-05-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Monika H. aus Heidelberg",
-    "date": "2025-05-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Oskar T. aus Dortmund",
+    "content": "Super verpackt.",
+    "customer_name": "Simon Z. aus Krefeld",
     "date": "2025-05-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Leo B. aus Wiesbaden",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Schweres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Milan V. aus Potsdam",
     "date": "2025-05-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Finn U. aus Schwerin",
+    "content": "Ein wirklich tolles Stück. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Admiral Seriees Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Susanne R. aus Hanau",
+    "date": "2025-05-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Typisch Boss. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Michael O. aus Göttingen",
     "date": "2025-05-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Sascha K. aus Trier",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr luxus. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Felix F. aus Bremen",
     "date": "2025-05-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Samuel H. aus Bochum",
-    "date": "2025-05-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Theo A. aus Duisburg",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr schwer. Die Zeiger bewegen sich sehr präzise. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Paul E. aus Frankfurt",
     "date": "2025-05-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Jan O. aus Kiel",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Arne D. aus Aachen",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Maximilian S. aus Darmstadt",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Kevin Y. aus Berlin",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Lisa O. aus Potsdam",
+    "content": "Besser als erwartet.",
+    "customer_name": "Noah P. aus Witten",
     "date": "2025-05-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Noah V. aus Offenbach",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr schwer. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Oskar A. aus Frankfurt",
+    "date": "2025-05-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr admiral serie. Die Chronographen-Funktionen arbeiten einwandfrei. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Andreas F. aus Salzgitter",
+    "date": "2025-05-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Männliches Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Julia V. aus Bielefeld",
     "date": "2025-05-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Katharina A. aus Hagen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Daniel J. aus Ulm",
+    "date": "2025-05-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Luxus hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Männliches Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Daniel A. aus Hamburg",
     "date": "2025-05-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Justus X. aus Düsseldorf",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Tobias D. aus Kassel",
     "date": "2025-05-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Lukas X. aus Frankfurt",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Schweres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Julia X. aus Magdeburg",
+    "date": "2025-05-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr admiral serie. Die Bedienung der Drücker fühlt sich wertig an. Danke an Karinex für den tollen Service.",
+    "customer_name": "Philipp M. aus Hannover",
     "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Tim M. aus Solingen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr luxus. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Alexander M. aus Offenbach",
     "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Malte O. aus Ludwigsburg",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Andrea J. aus Dresden",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Tom L. aus Jena",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Robin M. aus Ingolstadt",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Top Design hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Simon N. aus Mainz",
     "date": "2025-05-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Anton H. aus Offenbach",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Thomas J. aus Frankfurt",
+    "date": "2025-05-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "5 Sterne!",
+    "customer_name": "Philipp M. aus Magdeburg",
     "date": "2025-05-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Laura W. aus Fürth",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Laura X. aus Karlsruhe",
+    "date": "2025-05-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Felix H. aus Ulm",
+    "date": "2025-05-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Jannik W. aus Oldenburg",
+    "date": "2025-05-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Admiral Seriees Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Susanne Y. aus Essen",
     "date": "2025-05-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Benedikt W. aus Köln",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr admiral serie. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lukas Z. aus Chemnitz",
     "date": "2025-05-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Erik D. aus Bergisch Gladbach",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr luxus. Besonders das Zifferblatt reflektiert das Licht wunderschön. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Uwe V. aus Magdeburg",
+    "date": "2025-05-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Top Designes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Jan P. aus Duisburg",
+    "date": "2025-05-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schneller Versand. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Samuel K. aus Recklinghausen",
+    "date": "2025-05-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Top Designes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Robin W. aus Aachen",
+    "date": "2025-05-11"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr schwer. Das Kürzen des Metallarmbands ging problemlos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Martina K. aus Mannheim",
     "date": "2025-05-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Anton L. aus Moers",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr admiral serie. Die Schließe am Armband wirkt sehr stabil und sicher. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Nico L. aus Recklinghausen",
     "date": "2025-05-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Leo A. aus Osnabrück",
-    "date": "2025-05-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Anna F. aus Heidelberg",
-    "date": "2025-05-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Anton P. aus Münster",
-    "date": "2025-05-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Theo O. aus Osnabrück",
-    "date": "2025-05-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Lenny Q. aus Hannover",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr top design. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Bastian Y. aus Schwerin",
     "date": "2025-05-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Maximilian B. aus Offenbach",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Sarah U. aus Heilbronn",
     "date": "2025-05-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Oskar J. aus Duisburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr schwer. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Milan Q. aus Bergisch Gladbach",
+    "date": "2025-05-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Christina U. aus Remscheid",
+    "date": "2025-05-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr schwer. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Thomas C. aus Bochum",
+    "date": "2025-05-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Ben O. aus Regensburg",
+    "date": "2025-05-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Admiral Seriees Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Martina P. aus Krefeld",
     "date": "2025-05-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "David J. aus Magdeburg",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Top Design hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Top Designes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Fabian W. aus Darmstadt",
     "date": "2025-05-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Katharina M. aus Aachen",
+    "content": "Ein wirklich tolles Stück. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Martin S. aus Bremerhaven",
     "date": "2025-05-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Jan H. aus Recklinghausen",
-    "date": "2025-05-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Maria D. aus Hanau",
-    "date": "2025-05-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Luis S. aus Bielefeld",
-    "date": "2025-05-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Alexander J. aus Herne",
-    "date": "2025-05-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Philipp V. aus Hamburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr männlich. Die Bedienung der Drücker fühlt sich wertig an. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Tom N. aus Jena",
     "date": "2025-05-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Nico D. aus Ulm",
-    "date": "2025-05-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Vincent L. aus Bottrop",
-    "date": "2025-05-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Henry R. aus Gera",
-    "date": "2025-05-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Timo Z. aus München",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr männlich. Die Zeiger bewegen sich sehr präzise. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Patrick L. aus Ulm",
     "date": "2025-05-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Tim Y. aus Darmstadt",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Maria G. aus Hannover",
     "date": "2025-05-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Sarah X. aus Frankfurt",
-    "date": "2025-05-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Kevin V. aus Bonn",
-    "date": "2025-05-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Anna N. aus Heilbronn",
-    "date": "2025-05-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Leon Z. aus Köln",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr admiral serie. Die Schließe am Armband wirkt sehr stabil und sicher. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Malte V. aus Solingen",
     "date": "2025-05-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Arne M. aus Heidelberg",
-    "date": "2025-05-01"
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr admiral serie. Die Indizes sind sauber gesetzt und gut lesbar. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Anja Y. aus Lübeck",
+    "date": "2025-05-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Maximilian S. aus Oldenburg",
-    "date": "2025-05-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Theo A. aus Düsseldorf",
-    "date": "2025-05-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Laura B. aus Hildesheim",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Top Designes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Niklas W. aus Aachen",
     "date": "2025-04-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Philipp R. aus Saarbrücken",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr männlich. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Andreas M. aus Fürth",
     "date": "2025-04-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Nicole J. aus Solingen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr luxus. Die Chronographen-Funktionen arbeiten einwandfrei. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Laura J. aus Wuppertal",
     "date": "2025-04-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Katharina Y. aus Augsburg",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr admiral serie. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Fabian U. aus Düsseldorf",
     "date": "2025-04-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Elias V. aus Hildesheim",
-    "date": "2025-04-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Andrea L. aus Mannheim",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr luxus. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Luis L. aus Pforzheim",
     "date": "2025-04-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Dennis R. aus Gelsenkirchen",
-    "date": "2025-04-28"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Schweres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Michael V. aus Mönchengladbach",
+    "date": "2025-04-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Max K. aus Bergisch Gladbach",
-    "date": "2025-04-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Bastian U. aus Offenbach",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr schwer. Das Kürzen des Metallarmbands ging problemlos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sabine C. aus Heidelberg",
     "date": "2025-04-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Kilian R. aus Iserlohn",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr männlich. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Jan V. aus Schwerin",
     "date": "2025-04-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Valentin O. aus Gera",
-    "date": "2025-04-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Luca V. aus Kiel",
-    "date": "2025-04-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Florian T. aus Wolfsburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Adrian H. aus Hannover",
     "date": "2025-04-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Maria D. aus Gelsenkirchen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Top Designes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Emil M. aus Mannheim",
+    "date": "2025-04-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr top design. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Alexander F. aus Frankfurt",
+    "date": "2025-04-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Männliches Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Noah P. aus Fürth",
     "date": "2025-04-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Milan Z. aus Ludwigshafen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr schwer. Das Design ist zeitlos und passt zu fast allem. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Dominik A. aus Wiesbaden",
+    "date": "2025-04-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Luxuses Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tim C. aus Ulm",
+    "date": "2025-04-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Danke an Karinex für den tollen Service.",
+    "customer_name": "Paul G. aus Oldenburg",
+    "date": "2025-04-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr schwer. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Anton T. aus Bonn",
+    "date": "2025-04-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Jonas Z. aus Kiel",
     "date": "2025-04-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Anna W. aus Wuppertal",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Top Design hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Männliches Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Ben L. aus Reutlingen",
     "date": "2025-04-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Emil V. aus Pforzheim",
+    "content": "Preis-Leistung stimmt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Arne D. aus Wolfsburg",
     "date": "2025-04-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie P. aus Rostock",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr schwer. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Malte R. aus Darmstadt",
+    "date": "2025-04-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Danke an Karinex für den tollen Service.",
+    "customer_name": "Leo E. aus Siegen",
+    "date": "2025-04-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Toller Hingucker.",
+    "customer_name": "Stefan T. aus Fürth",
+    "date": "2025-04-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr männlich. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Johannes D. aus Bergisch Gladbach",
     "date": "2025-04-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Katharina V. aus Stuttgart",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr admiral serie. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sandra T. aus Ludwigsburg",
+    "date": "2025-04-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr top design. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Benedikt I. aus Iserlohn",
+    "date": "2025-04-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr männlich. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Jannik F. aus Berlin",
     "date": "2025-04-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Julia O. aus Frankfurt",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr admiral serie. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Matthias V. aus Jena",
+    "date": "2025-04-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr luxus. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Stefan F. aus Ludwigshafen",
+    "date": "2025-04-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr männlich. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Sarah H. aus Leverkusen",
+    "date": "2025-04-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr luxus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Danke an Karinex für den tollen Service.",
+    "customer_name": "Jürgen O. aus Recklinghausen",
+    "date": "2025-04-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Top Design hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Admiral Seriees Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sven M. aus Köln",
+    "date": "2025-04-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr männlich. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Jonas K. aus Hanau",
+    "date": "2025-04-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Top Design hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Markus G. aus Krefeld",
+    "date": "2025-04-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Männliches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Jannik E. aus Mülheim an der Ruhr",
+    "date": "2025-04-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Top Design hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Christian X. aus Hamburg",
+    "date": "2025-04-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Nadine Z. aus Remscheid",
     "date": "2025-04-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Sabine F. aus Heidelberg",
-    "date": "2025-04-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Sascha Z. aus Dortmund",
-    "date": "2025-04-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Christina N. aus Gera",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Noah A. aus Gelsenkirchen",
     "date": "2025-04-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Jan K. aus Gütersloh",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr luxus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Frank X. aus Berlin",
+    "date": "2025-04-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr männlich. Die Schließe am Armband wirkt sehr stabil und sicher. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Adrian V. aus Braunschweig",
+    "date": "2025-04-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr luxus. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Vincent J. aus Kiel",
     "date": "2025-04-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Sascha M. aus Salzgitter",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Luxuses Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Johannes L. aus Hannover",
     "date": "2025-04-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Niklas I. aus Kassel",
-    "date": "2025-04-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Birgit W. aus Düsseldorf",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr admiral serie. Die Indizes sind sauber gesetzt und gut lesbar. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Martin P. aus Oldenburg",
     "date": "2025-04-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Nico S. aus Duisburg",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Patrick M. aus Lübeck",
     "date": "2025-04-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Samuel D. aus Herne",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr luxus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sabine I. aus München",
     "date": "2025-04-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Arne Z. aus Jena",
-    "date": "2025-04-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Christina C. aus Dortmund",
-    "date": "2025-04-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Moritz T. aus Erlangen",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr männlich. Die Kombination aus Materialien wirkt sehr hochwertig. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sandra O. aus Bochum",
     "date": "2025-04-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Dennis D. aus Erfurt",
-    "date": "2025-04-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Dennis B. aus Mannheim",
-    "date": "2025-04-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Florian E. aus Solingen",
-    "date": "2025-04-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Oskar F. aus Düsseldorf",
-    "date": "2025-04-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Robin D. aus Düsseldorf",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Oskar A. aus München",
     "date": "2025-04-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Jannik J. aus Herne",
+    "content": "Sehr elegant. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Valentin Q. aus Trier",
+    "date": "2025-04-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr luxus. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Moritz J. aus Kassel",
+    "date": "2025-04-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Top Designes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sascha E. aus Stuttgart",
     "date": "2025-04-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Alexander J. aus Oberhausen",
+    "content": "Preis-Leistung stimmt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Andreas Y. aus Berlin",
     "date": "2025-04-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Melanie R. aus Lübeck",
-    "date": "2025-04-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Nico W. aus Lübeck",
-    "date": "2025-04-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Vincent A. aus Augsburg",
-    "date": "2025-04-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Valentin F. aus Köln",
-    "date": "2025-04-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Arne X. aus Freiburg",
-    "date": "2025-04-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Ben F. aus Jena",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr männlich. Das Design ist zeitlos und passt zu fast allem. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Maximilian J. aus Mülheim an der Ruhr",
     "date": "2025-04-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Laura N. aus Potsdam",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Benedikt M. aus Aachen",
     "date": "2025-04-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "David H. aus Koblenz",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Schweres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Sascha V. aus Wuppertal",
+    "date": "2025-04-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Luxuses Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Martin N. aus Erfurt",
     "date": "2025-04-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Birgit L. aus Gera",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Luxuses Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Uwe B. aus Hanau",
     "date": "2025-04-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie R. aus Wiesbaden",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Julia Z. aus Gera",
     "date": "2025-04-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Maria E. aus Krefeld",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr luxus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Christian W. aus Nürnberg",
     "date": "2025-04-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Laura U. aus Gelsenkirchen",
-    "date": "2025-04-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Julian J. aus Kiel",
-    "date": "2025-04-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Sandra V. aus Ingolstadt",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Luxus hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Peter X. aus Bonn",
     "date": "2025-04-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Finn Y. aus Münster",
+    "content": "Passt perfekt.",
+    "customer_name": "Sarah Q. aus Rostock",
     "date": "2025-04-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Malte R. aus Kaiserslautern",
+    "content": "Einfach edel. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Heike W. aus Hanau",
+    "date": "2025-04-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr männlich. Das Logo ist dezent aber präsent integriert. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Kerstin T. aus Oberhausen",
+    "date": "2025-04-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Alles perfekt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Nico Y. aus Gütersloh",
+    "date": "2025-04-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr schwer. Die Schließe am Armband wirkt sehr stabil und sicher. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tom O. aus Potsdam",
+    "date": "2025-03-31"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Schweres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Maria J. aus Erfurt",
+    "date": "2025-03-31"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Luxuses Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Theo F. aus Köln",
     "date": "2025-03-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Maria B. aus München",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr schwer. Die Kombination aus Materialien wirkt sehr hochwertig. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Jürgen O. aus Hildesheim",
+    "date": "2025-03-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr schwer. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Theo D. aus Kiel",
     "date": "2025-03-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Henry L. aus Köln",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr admiral serie. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Danke an Karinex für den tollen Service.",
+    "customer_name": "Fabian Q. aus Koblenz",
     "date": "2025-03-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Stefanie K. aus Würzburg",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Luxuses Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Katharina I. aus Dortmund",
     "date": "2025-03-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Emil U. aus Braunschweig",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr männlich. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Bernd Q. aus Jena",
     "date": "2025-03-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Oskar Y. aus Lübeck",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Top Designes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Matthias Q. aus Bochum",
     "date": "2025-03-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Florian W. aus Nürnberg",
+    "content": "Boss enttäuscht einfach nie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Männliches Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Florian H. aus Münster",
+    "date": "2025-03-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Anja B. aus Reutlingen",
+    "date": "2025-03-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr luxus. Das Logo ist dezent aber präsent integriert. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Nadine F. aus Recklinghausen",
     "date": "2025-03-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Julian G. aus Oldenburg",
-    "date": "2025-03-26"
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr luxus. Auch nach längerem Tragen spürt man sie kaum am Arm. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Leo M. aus Krefeld",
+    "date": "2025-03-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Lenny E. aus Mönchengladbach",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Henry V. aus Herne",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Leo Q. aus Heidelberg",
+    "content": "Typisch Boss. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Jan P. aus München",
     "date": "2025-03-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Matteo E. aus Cottbus",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Männlich hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Männliches Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Patrick L. aus Karlsruhe",
     "date": "2025-03-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Sarah B. aus Bielefeld",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Top Design hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Tim R. aus Braunschweig",
+    "date": "2025-03-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr schwer. Das Kürzen des Metallarmbands ging problemlos. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Christoph A. aus Chemnitz",
     "date": "2025-03-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Christina V. aus Magdeburg",
+    "content": "Toller Hingucker. Danke an Karinex für den tollen Service.",
+    "customer_name": "Luis O. aus Darmstadt",
     "date": "2025-03-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Ben L. aus Neuss",
-    "date": "2025-03-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Simon Z. aus Wuppertal",
+    "content": "Sehr elegant.",
+    "customer_name": "Silke F. aus Hamm",
     "date": "2025-03-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Malte D. aus Wolfsburg",
-    "date": "2025-03-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Milan A. aus Bielefeld",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Admiral Seriees Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Henry Q. aus Potsdam",
     "date": "2025-03-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Theo Q. aus Esslingen",
+    "content": "Die Optik ist einfach unschlagbar. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Thomas F. aus Oberhausen",
     "date": "2025-03-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Arne Z. aus Offenbach",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Florian C. aus Koblenz",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Elias L. aus Siegen",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Maria D. aus Saarbrücken",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr luxus. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Alexander L. aus Lübeck",
     "date": "2025-03-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Matteo R. aus Leverkusen",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr luxus. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Jonas V. aus Göttingen",
     "date": "2025-03-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Andrea I. aus Erlangen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Top Design hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Männliches Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Petra P. aus Moers",
     "date": "2025-03-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Christoph F. aus Gelsenkirchen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr top design. Die Indizes sind sauber gesetzt und gut lesbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Klaus P. aus Darmstadt",
     "date": "2025-03-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Lisa A. aus Gelsenkirchen",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr top design. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Moritz I. aus Trier",
     "date": "2025-03-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Alexander U. aus Mönchengladbach",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr männlich. Das Design ist zeitlos und passt zu fast allem. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Thomas B. aus Augsburg",
     "date": "2025-03-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Oskar F. aus Remscheid",
-    "date": "2025-03-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Johannes X. aus Frankfurt",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr luxus. Die Kombination aus Materialien wirkt sehr hochwertig. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Samuel G. aus Mannheim",
     "date": "2025-03-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Jonas O. aus Heidelberg",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Admiral Seriees Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Leon D. aus Dresden",
     "date": "2025-03-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Kerstin N. aus Bottrop",
-    "date": "2025-03-19"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr schwer. Auch nach längerem Tragen spürt man sie kaum am Arm. Danke an Karinex für den tollen Service.",
+    "customer_name": "Maximilian Q. aus Essen",
+    "date": "2025-03-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Nadine L. aus Hanau",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Katja Z. aus Dortmund",
+    "date": "2025-03-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Männliches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Kerstin Q. aus Hildesheim",
     "date": "2025-03-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Christoph S. aus Duisburg",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Admiral Seriees Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Sven Z. aus Krefeld",
+    "date": "2025-03-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Preis-Leistung stimmt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Noah V. aus Potsdam",
     "date": "2025-03-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Dominik W. aus Mönchengladbach",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Schwer hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Manuela Q. aus Hannover",
     "date": "2025-03-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Monika Q. aus Solingen",
-    "date": "2025-03-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Justus Z. aus Iserlohn",
+    "content": "Toller Hingucker. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Alexander J. aus Solingen",
     "date": "2025-03-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Mats C. aus Gera",
-    "date": "2025-03-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Dominik U. aus Hannover",
-    "date": "2025-03-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Katharina P. aus Gelsenkirchen",
+    "content": "Wunderschöne Uhr.",
+    "customer_name": "Florian V. aus Wuppertal",
     "date": "2025-03-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Oskar S. aus Wiesbaden",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Top Designes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Sandra O. aus Wolfsburg",
     "date": "2025-03-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Liam Y. aus Koblenz",
+    "content": "Boss enttäuscht einfach nie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Top Designes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Erik Z. aus Braunschweig",
+    "date": "2025-03-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr luxus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Nico G. aus Mainz",
     "date": "2025-03-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Alexander J. aus Gera",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr admiral serie. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Valentin V. aus Erlangen",
+    "date": "2025-03-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr luxus. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Christoph E. aus Stuttgart",
+    "date": "2025-03-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr männlich. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Kevin T. aus Gelsenkirchen",
+    "date": "2025-03-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Sarah F. aus Bottrop",
     "date": "2025-03-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Anja L. aus Solingen",
-    "date": "2025-03-12"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr admiral serie. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Max J. aus Wiesbaden",
+    "date": "2025-03-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Jannik U. aus Moers",
-    "date": "2025-03-12"
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr männlich. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Matthias O. aus Bielefeld",
+    "date": "2025-03-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Simon B. aus Saarbrücken",
-    "date": "2025-03-12"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Top Designes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Florian Z. aus Gera",
+    "date": "2025-03-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Florian N. aus Salzgitter",
-    "date": "2025-03-12"
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr top design. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Lukas D. aus Frankfurt",
+    "date": "2025-03-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "David P. aus Pforzheim",
-    "date": "2025-03-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Kilian J. aus Würzburg",
-    "date": "2025-03-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Kevin C. aus Hagen",
-    "date": "2025-03-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Florian F. aus Hamburg",
-    "date": "2025-03-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Yannick G. aus Magdeburg",
-    "date": "2025-03-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Petra X. aus Lübeck",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Andrea J. aus Duisburg",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Henry T. aus Regensburg",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Katharina D. aus Witten",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Melanie L. aus Berlin",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Max I. aus Regensburg",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Schwer. Würde ich wieder kaufen.",
-    "customer_name": "Noah V. aus Göttingen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Anna N. aus Gütersloh",
     "date": "2025-03-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Lenny E. aus Erfurt",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr admiral serie. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Kerstin G. aus Wuppertal",
+    "date": "2025-03-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr admiral serie. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Elias C. aus Potsdam",
+    "date": "2025-03-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr admiral serie. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Erik E. aus Trier",
+    "date": "2025-03-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr top design. Die Schließe am Armband wirkt sehr stabil und sicher. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Alexander O. aus Kiel",
+    "date": "2025-03-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr top design. Die Schließe am Armband wirkt sehr stabil und sicher. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Florian R. aus Magdeburg",
+    "date": "2025-03-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr männlich. Das Logo ist dezent aber präsent integriert. Danke an Karinex für den tollen Service.",
+    "customer_name": "Matthias S. aus Wolfsburg",
     "date": "2025-03-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Adrian U. aus Offenbach",
+    "content": "Schon beim Auspacken merkt man die Qualität. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Jan G. aus Salzgitter",
+    "date": "2025-03-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Luxuses Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "David C. aus Remscheid",
+    "date": "2025-03-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr luxus. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Christian J. aus Koblenz",
+    "date": "2025-03-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Männlich hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Männliches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Paul C. aus Jena",
     "date": "2025-03-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Timo T. aus Wuppertal",
-    "date": "2025-03-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Yannick A. aus Ludwigshafen",
-    "date": "2025-03-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Valentin E. aus Stuttgart",
-    "date": "2025-03-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Niklas U. aus Chemnitz",
-    "date": "2025-03-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Tim O. aus Pforzheim",
+    "content": "Hervorragend.",
+    "customer_name": "Martin Y. aus Mannheim",
     "date": "2025-03-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Yannick U. aus Potsdam",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr admiral serie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Jan K. aus Köln",
     "date": "2025-03-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Oskar P. aus Frankfurt",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tobias Z. aus Mainz",
     "date": "2025-03-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Christoph I. aus Berlin",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Lisa Y. aus Dortmund",
     "date": "2025-03-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Anna D. aus Moers",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr schwer. Die Schließe am Armband wirkt sehr stabil und sicher. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "David U. aus Solingen",
     "date": "2025-03-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Finn Q. aus Dortmund",
+    "content": "Die Optik ist einfach unschlagbar. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Luxus hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Anna L. aus Salzgitter",
+    "date": "2025-03-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Liam T. aus Koblenz",
+    "date": "2025-03-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Milan C. aus Wuppertal",
     "date": "2025-03-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Sascha C. aus Moers",
-    "date": "2025-03-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Paul Z. aus Cottbus",
+    "content": "Jeden Cent wert. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Anja O. aus Rostock",
     "date": "2025-02-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Noah P. aus Augsburg",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Männlich hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Admiral Seriees Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kevin C. aus Cottbus",
     "date": "2025-02-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Nico D. aus Mainz",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Finn O. aus Neuss",
     "date": "2025-02-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Sandra W. aus Herne",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr top design. Die Zeiger bewegen sich sehr präzise. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sebastian M. aus Reutlingen",
+    "date": "2025-02-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr top design. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sabine Z. aus Würzburg",
+    "date": "2025-02-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr schwer. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "David C. aus Mainz",
     "date": "2025-02-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Jannik Q. aus Augsburg",
+    "content": "Die Optik ist einfach unschlagbar. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Top Designes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Moritz T. aus Koblenz",
     "date": "2025-02-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Männlich. Klare Kaufempfehlung.",
-    "customer_name": "Laura O. aus Aachen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Andrea L. aus Moers",
     "date": "2025-02-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Nico Y. aus Recklinghausen",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr admiral serie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Anton V. aus Kaiserslautern",
     "date": "2025-02-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Luxus. Ein echter Hingucker.",
-    "customer_name": "Florian Z. aus Trier",
+    "content": "Besser als erwartet. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Milan B. aus Hildesheim",
     "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Sascha S. aus Dresden",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Luxuses Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Alexander P. aus Freiburg",
     "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Leon J. aus Oldenburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Luxus hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sascha Q. aus Gelsenkirchen",
+    "date": "2025-02-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr top design. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Kerstin G. aus Offenbach",
+    "date": "2025-02-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Top Design hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Hannes L. aus Cottbus",
     "date": "2025-02-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Niklas X. aus Freiburg",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Luxus hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Heike F. aus Mönchengladbach",
     "date": "2025-02-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Luxus gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Fabian S. aus Hannover",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr luxus. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Klaus Q. aus Hamm",
     "date": "2025-02-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Henry D. aus Leverkusen",
-    "date": "2025-02-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Liam L. aus Münster",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr schwer. Die Zeiger bewegen sich sehr präzise. Danke an Karinex für den tollen Service.",
+    "customer_name": "Christina D. aus Regensburg",
     "date": "2025-02-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Nadine G. aus Frankfurt",
-    "date": "2025-02-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Christoph O. aus Gelsenkirchen",
-    "date": "2025-02-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Andrea G. aus Mönchengladbach",
-    "date": "2025-02-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Theo S. aus Lübeck",
-    "date": "2025-02-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Julian Y. aus Moers",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwer. Die Kombination aus Materialien wirkt sehr hochwertig. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sebastian Z. aus Potsdam",
     "date": "2025-02-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Malte S. aus Wiesbaden",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Männlich hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Luxuses Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tom R. aus Hagen",
     "date": "2025-02-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Schwer. Sehr zufrieden.",
-    "customer_name": "Milan G. aus Hamm",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr schwer. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sabine F. aus Salzgitter",
     "date": "2025-02-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Lisa S. aus Trier",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr luxus. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Matteo Q. aus Jena",
+    "date": "2025-02-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Dominik R. aus Ulm",
+    "date": "2025-02-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr admiral serie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Niklas U. aus Remscheid",
     "date": "2025-02-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Christina W. aus Recklinghausen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Luxuses Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Petra V. aus Neuss",
     "date": "2025-02-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwer gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Hannes E. aus Hamm",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr admiral serie. Die Schließe am Armband wirkt sehr stabil und sicher. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Benedikt A. aus Bochum",
     "date": "2025-02-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Luxus. 5 Sterne.",
-    "customer_name": "Lukas J. aus Pforzheim",
-    "date": "2025-02-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Anton E. aus Iserlohn",
-    "date": "2025-02-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Petra Z. aus Hamburg",
-    "date": "2025-02-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Adrian Z. aus Lübeck",
+    "content": "Super verpackt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Kevin J. aus Stuttgart",
     "date": "2025-02-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Top Design. Passt perfekt.",
-    "customer_name": "Paul E. aus Reutlingen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Top Design hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Top Designes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Bastian Q. aus Mannheim",
     "date": "2025-02-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Julia E. aus Bergisch Gladbach",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr top design. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Vincent N. aus Göttingen",
     "date": "2025-02-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Susanne E. aus Offenbach",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr top design. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Julian I. aus Hamburg",
     "date": "2025-02-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Maximilian R. aus Neuss",
-    "date": "2025-02-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Milan V. aus Paderborn",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Top Design hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Christoph P. aus Schwerin",
     "date": "2025-02-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Johannes R. aus Regensburg",
-    "date": "2025-02-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Maria M. aus Krefeld",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Finn Z. aus Gütersloh",
     "date": "2025-02-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwer gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Kerstin I. aus Mönchengladbach",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr schwer. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Nicole L. aus Erlangen",
+    "date": "2025-02-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr luxus. Die Zeiger bewegen sich sehr präzise. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Theo X. aus Mülheim an der Ruhr",
     "date": "2025-02-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Felix P. aus Iserlohn",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Birgit Z. aus Hannover",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Top Design gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Valentin O. aus Aachen",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Petra U. aus Dortmund",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Milan J. aus Lübeck",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Luxuses Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Ben U. aus Cottbus",
     "date": "2025-02-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Anja A. aus Stuttgart",
+    "content": "5 Sterne! Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Monika Y. aus Gelsenkirchen",
     "date": "2025-02-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Sascha D. aus Kiel",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Anja G. aus Jena",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Justus D. aus Bielefeld",
-    "date": "2025-02-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Adrian U. aus Wuppertal",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr männlich. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Katharina R. aus Hamburg",
     "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Claudia V. aus Esslingen",
-    "date": "2025-02-10"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Admiral Seriees Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Dennis G. aus Kassel",
+    "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Anja S. aus Regensburg",
-    "date": "2025-02-10"
+    "content": "Alles perfekt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Milan G. aus Bielefeld",
+    "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Arne S. aus Chemnitz",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Luxus hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Luxuses Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Erik O. aus Paderborn",
+    "date": "2025-02-11"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr top design. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Luca W. aus Paderborn",
+    "date": "2025-02-11"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Männliches Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sascha Q. aus Esslingen",
     "date": "2025-02-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Florian Z. aus Remscheid",
-    "date": "2025-02-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Jonas F. aus Solingen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr top design. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Andreas J. aus Reutlingen",
     "date": "2025-02-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Kevin L. aus Iserlohn",
-    "date": "2025-02-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Benedikt C. aus Salzgitter",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr admiral serie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Kevin H. aus Mainz",
     "date": "2025-02-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Marlon X. aus Bergisch Gladbach",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Luxus hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Luxuses Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Finn S. aus Hildesheim",
+    "date": "2025-02-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Top Designes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Monika C. aus Reutlingen",
+    "date": "2025-02-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tim U. aus Göttingen",
+    "date": "2025-02-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Admiral Seriees Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "David K. aus Aachen",
     "date": "2025-02-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Andrea F. aus Schwerin",
-    "date": "2025-02-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Männlich. Würde ich wieder kaufen.",
-    "customer_name": "Andrea T. aus Chemnitz",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr admiral serie. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Michael W. aus Ulm",
     "date": "2025-02-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwer gefällt mir sehr. Das Design ist Top Design. Kann ich empfehlen.",
-    "customer_name": "Milan D. aus Mülheim an der Ruhr",
-    "date": "2025-02-03"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr admiral serie. Das Logo ist dezent aber präsent integriert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Noah Z. aus Würzburg",
+    "date": "2025-02-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Luxus gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Niklas D. aus Schwerin",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr männlich. Die Bedienung der Drücker fühlt sich wertig an. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Noah M. aus Leipzig",
+    "date": "2025-02-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Sehr elegant. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sabine Z. aus Iserlohn",
     "date": "2025-02-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Theo R. aus Mannheim",
-    "date": "2025-02-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Samuel Y. aus Bonn",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr admiral serie. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Luca Q. aus Bonn",
     "date": "2025-01-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Kilian G. aus Dortmund",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr männlich. Besonders das Zifferblatt reflektiert das Licht wunderschön. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Katja C. aus Rostock",
+    "date": "2025-01-31"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr männlich. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Lukas W. aus Essen",
     "date": "2025-01-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Melanie M. aus Ludwigshafen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Männlich hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Top Designes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Arne J. aus Solingen",
     "date": "2025-01-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Adrian K. aus Augsburg",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Max V. aus Hanau",
     "date": "2025-01-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Klare Kaufempfehlung.",
-    "customer_name": "Philipp K. aus Leverkusen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwer hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Christian S. aus Offenbach",
     "date": "2025-01-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Sehr zufrieden.",
-    "customer_name": "Tim W. aus Braunschweig",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr männlich. Die Schließe am Armband wirkt sehr stabil und sicher. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Luis D. aus Göttingen",
     "date": "2025-01-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Valentin S. aus Gera",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Männlich hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Top Designes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Julian V. aus Hamburg",
     "date": "2025-01-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Luxus gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Simon L. aus Wiesbaden",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Leo B. aus Duisburg",
+    "date": "2025-01-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Top Design hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Danke an Karinex für den tollen Service.",
+    "customer_name": "Monika W. aus Hildesheim",
+    "date": "2025-01-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Männlich hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Leo B. aus Chemnitz",
+    "date": "2025-01-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Top Design hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Laura Q. aus Ulm",
     "date": "2025-01-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Yannick K. aus Wuppertal",
-    "date": "2025-01-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Schwer. 5 Sterne.",
-    "customer_name": "Lenny E. aus Bonn",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwer hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Finn T. aus Leipzig",
     "date": "2025-01-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Susanne D. aus Freiburg",
-    "date": "2025-01-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Top Design gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Philipp T. aus Solingen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Admiral Serie hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Männliches Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Uwe V. aus Oldenburg",
     "date": "2025-01-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Marlon L. aus Salzgitter",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr luxus. Die Zeiger bewegen sich sehr präzise. Danke an Karinex für den tollen Service.",
+    "customer_name": "Markus Z. aus Bielefeld",
+    "date": "2025-01-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr luxus. Die Kombination aus Materialien wirkt sehr hochwertig. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Nico Y. aus Bonn",
     "date": "2025-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Susanne N. aus Heidelberg",
-    "date": "2025-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Sarah D. aus Mülheim an der Ruhr",
-    "date": "2025-01-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Männlich gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "Felix X. aus Esslingen",
-    "date": "2025-01-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Top Design gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Julia E. aus Wuppertal",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Matteo G. aus Oldenburg",
-    "date": "2025-01-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Birgit D. aus Heidelberg",
-    "date": "2025-01-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Kevin B. aus Krefeld",
-    "date": "2025-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Kilian R. aus Kiel",
-    "date": "2025-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Luxus gefällt mir sehr. Das Design ist Top Design. Jeden Cent wert.",
-    "customer_name": "Tanja H. aus Esslingen",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Schwer. Ein echter Hingucker.",
-    "customer_name": "Fabian K. aus Wolfsburg",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Justus M. aus Duisburg",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Jeden Cent wert.",
-    "customer_name": "Noah F. aus Kiel",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Justus V. aus Leipzig",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Top Design gefällt mir sehr. Das Design ist Top Design. 5 Sterne.",
-    "customer_name": "Benedikt G. aus Nürnberg",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Bastian Y. aus Leipzig",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Männlich gefällt mir sehr. Das Design ist Top Design. Klare Kaufempfehlung.",
-    "customer_name": "Philipp Y. aus Bottrop",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Männlich gefällt mir sehr. Das Design ist Schwer. Kann ich empfehlen.",
-    "customer_name": "Sascha S. aus Mönchengladbach",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Luxus gefällt mir sehr. Das Design ist Luxus. Klare Kaufempfehlung.",
-    "customer_name": "Jannik D. aus Schwerin",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwer gefällt mir sehr. Das Design ist Männlich. 5 Sterne.",
-    "customer_name": "Erik D. aus Neuss",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Sarah C. aus Duisburg",
-    "date": "2025-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Schwer. Passt perfekt.",
-    "customer_name": "Lukas H. aus Iserlohn",
-    "date": "2025-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Sehr zufrieden.",
-    "customer_name": "Moritz G. aus Augsburg",
-    "date": "2025-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Jeden Cent wert.",
-    "customer_name": "Oskar K. aus Düsseldorf",
-    "date": "2025-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Top Design gefällt mir sehr. Das Design ist Männlich. Sehr zufrieden.",
-    "customer_name": "Birgit F. aus Kaiserslautern",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Admiral Serie. 5 Sterne.",
-    "customer_name": "Lukas L. aus Magdeburg",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Männlich gefällt mir sehr. Das Design ist Luxus. Passt perfekt.",
-    "customer_name": "Monika O. aus Wolfsburg",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Admiral Serie gefällt mir sehr. Das Design ist Schwer. Klare Kaufempfehlung.",
-    "customer_name": "Dennis V. aus Gelsenkirchen",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwer gefällt mir sehr. Das Design ist Top Design. Würde ich wieder kaufen.",
-    "customer_name": "Philipp N. aus Dresden",
-    "date": "2025-01-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Monika V. aus Essen",
-    "date": "2025-01-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Ein echter Hingucker.",
-    "customer_name": "Alexander T. aus Hamburg",
-    "date": "2025-01-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwer gefällt mir sehr. Das Design ist Männlich. Kann ich empfehlen.",
-    "customer_name": "Matteo P. aus Wiesbaden",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Top Design. Ein echter Hingucker.",
-    "customer_name": "Johannes J. aus Heilbronn",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Kann ich empfehlen.",
-    "customer_name": "Yannick O. aus Nürnberg",
-    "date": "2025-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Top Design gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Kerstin N. aus Schwerin",
-    "date": "2025-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Admiral Serie gefällt mir sehr. Das Design ist Luxus. Kann ich empfehlen.",
-    "customer_name": "Adrian T. aus Erfurt",
-    "date": "2025-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwer gefällt mir sehr. Das Design ist Top Design. Sehr zufrieden.",
-    "customer_name": "Matteo Z. aus Lübeck",
-    "date": "2025-01-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Admiral Serie gefällt mir sehr. Das Design ist Männlich. Ein echter Hingucker.",
-    "customer_name": "Mats H. aus Krefeld",
-    "date": "2025-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Top Design gefällt mir sehr. Das Design ist Männlich. Passt perfekt.",
-    "customer_name": "David Y. aus Wiesbaden",
-    "date": "2025-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Simon K. aus Siegen",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Würde ich wieder kaufen.",
-    "customer_name": "Vincent C. aus Osnabrück",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Männlich gefällt mir sehr. Das Design ist Admiral Serie. Jeden Cent wert.",
-    "customer_name": "Sarah W. aus Regensburg",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Luxus gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Justus C. aus Bonn",
-    "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Top Design gefällt mir sehr. Das Design ist Schwer. Jeden Cent wert.",
-    "customer_name": "Claudia K. aus Mainz",
-    "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Top Design gefällt mir sehr. Das Design ist Luxus. Würde ich wieder kaufen.",
-    "customer_name": "Paul U. aus Frankfurt",
-    "date": "2025-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwer gefällt mir sehr. Das Design ist Admiral Serie. Passt perfekt.",
-    "customer_name": "Tom M. aus Reutlingen",
-    "date": "2025-01-01"
   }
 ];

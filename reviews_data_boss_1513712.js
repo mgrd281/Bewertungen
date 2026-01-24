@@ -2,6238 +2,2178 @@ const REVIEWS_DATA = [
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Marlon D. aus Siegen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Jung hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Super Preises Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Moritz H. aus Reutlingen",
     "date": "2026-01-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Hannes J. aus Hanau",
-    "date": "2026-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Jan K. aus Mannheim",
-    "date": "2026-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Anja V. aus Bochum",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr trend. Das Design ist zeitlos und passt zu fast allem. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Benedikt D. aus Magdeburg",
     "date": "2026-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Petra F. aus Münster",
+    "content": "Wunderschöne Uhr. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Florian C. aus Fürth",
     "date": "2026-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Julia E. aus Hannover",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Trend hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Julia F. aus Solingen",
+    "date": "2026-01-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Junges Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Manuela U. aus Cottbus",
     "date": "2026-01-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Philipp W. aus Essen",
-    "date": "2026-01-21"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Trend hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Trendes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Simon D. aus Bremen",
+    "date": "2026-01-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Samuel R. aus Freiburg",
-    "date": "2026-01-21"
+    "content": "Sehr elegant. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Bastian E. aus München",
+    "date": "2026-01-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Malte W. aus Paderborn",
-    "date": "2026-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Nadine Y. aus Siegen",
-    "date": "2026-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Samuel P. aus Siegen",
-    "date": "2026-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Luca C. aus Mönchengladbach",
-    "date": "2026-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Sabine M. aus Fürth",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr modisch. Das Logo ist dezent aber präsent integriert. Danke an Karinex für den tollen Service.",
+    "customer_name": "Lukas O. aus Hamm",
     "date": "2026-01-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Dennis Z. aus Hagen",
-    "date": "2026-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Kevin Q. aus Jena",
-    "date": "2026-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Ben N. aus Koblenz",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr jung. Auch nach längerem Tragen spürt man sie kaum am Arm. Danke an Karinex für den tollen Service.",
+    "customer_name": "Susanne G. aus Berlin",
     "date": "2026-01-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Jan R. aus Mainz",
-    "date": "2026-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Max X. aus Karlsruhe",
+    "content": "Besser als erwartet. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tobias U. aus Köln",
     "date": "2026-01-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Ben S. aus Heidelberg",
-    "date": "2026-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Stefanie X. aus Cottbus",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr schwarz-gold. Die Zeiger bewegen sich sehr präzise. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Bastian U. aus Wolfsburg",
     "date": "2026-01-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Maximilian E. aus Gera",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Modisch hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Super Preises Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Arne B. aus Aachen",
+    "date": "2026-01-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr super preis. Die Zeiger bewegen sich sehr präzise. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Kerstin E. aus Rostock",
+    "date": "2026-01-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr trend. Die Indizes sind sauber gesetzt und gut lesbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Christoph F. aus Heilbronn",
     "date": "2026-01-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Mats W. aus Leipzig",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr jung. Die Zeiger bewegen sich sehr präzise. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Finn I. aus Bielefeld",
     "date": "2026-01-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Anna J. aus Witten",
-    "date": "2026-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Julian O. aus Frankfurt",
-    "date": "2026-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Finn R. aus Ludwigshafen",
-    "date": "2026-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Marlon F. aus Braunschweig",
-    "date": "2026-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Stefanie H. aus Ingolstadt",
-    "date": "2026-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Melanie Z. aus Wolfsburg",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr jung. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sebastian C. aus Cottbus",
     "date": "2026-01-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Yannick R. aus Iserlohn",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Super Preises Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Theo T. aus Kiel",
+    "date": "2026-01-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Gerne wieder. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tobias W. aus Ulm",
     "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Jonas V. aus Ulm",
+    "content": "Jeden Cent wert.",
+    "customer_name": "Johannes Y. aus Siegen",
     "date": "2026-01-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Andrea T. aus Saarbrücken",
-    "date": "2026-01-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Max D. aus Duisburg",
-    "date": "2026-01-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Milan V. aus Wolfsburg",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Marlon S. aus Duisburg",
     "date": "2026-01-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Leo Q. aus Hamburg",
-    "date": "2026-01-04"
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Modisches Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Maria F. aus Bochum",
+    "date": "2026-01-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Birgit D. aus Potsdam",
-    "date": "2026-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Moritz T. aus Leipzig",
-    "date": "2026-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Susanne H. aus Berlin",
-    "date": "2026-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Lisa M. aus Aachen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr trend. Besonders das Zifferblatt reflektiert das Licht wunderschön. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Henry C. aus Pforzheim",
     "date": "2026-01-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "David L. aus Kaiserslautern",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr trend. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Emil T. aus Darmstadt",
     "date": "2026-01-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Sabine G. aus Krefeld",
-    "date": "2026-01-01"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr modisch. Die Zeiger bewegen sich sehr präzise. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Liam S. aus Berlin",
+    "date": "2025-12-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Sascha O. aus Koblenz",
-    "date": "2026-01-01"
+    "content": "Absolut zufrieden.",
+    "customer_name": "Leon C. aus Kiel",
+    "date": "2025-12-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Birgit M. aus Münster",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr jung. Das Design ist zeitlos und passt zu fast allem. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sven L. aus Pforzheim",
     "date": "2025-12-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Fabian D. aus Karlsruhe",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr jung. Das Glas scheint sehr robust gegen Kratzer zu sein. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Tobias H. aus Regensburg",
     "date": "2025-12-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Matteo T. aus Erfurt",
-    "date": "2025-12-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Liam H. aus Ulm",
-    "date": "2025-12-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Laura Y. aus Darmstadt",
-    "date": "2025-12-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Benedikt D. aus Wiesbaden",
-    "date": "2025-12-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Susanne Q. aus Magdeburg",
-    "date": "2025-12-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Sarah S. aus Gera",
-    "date": "2025-12-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Lenny B. aus Frankfurt",
-    "date": "2025-12-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Mats I. aus Offenbach",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Jung hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Trendes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Michael U. aus Kiel",
     "date": "2025-12-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Bastian J. aus Regensburg",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Junges Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Jan Y. aus Leipzig",
     "date": "2025-12-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Leon Q. aus Regensburg",
-    "date": "2025-12-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Petra Y. aus Karlsruhe",
-    "date": "2025-12-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Claudia O. aus Recklinghausen",
-    "date": "2025-12-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Tom C. aus Erfurt",
-    "date": "2025-12-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Julian J. aus Offenbach",
-    "date": "2025-12-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Tobias J. aus Osnabrück",
-    "date": "2025-12-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Bastian K. aus Neuss",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Stefanie Y. aus Hamm",
     "date": "2025-12-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Felix P. aus Mülheim an der Ruhr",
-    "date": "2025-12-22"
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Modisches Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Peter S. aus Dresden",
+    "date": "2025-12-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Felix E. aus Göttingen",
-    "date": "2025-12-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Julia Q. aus Hamburg",
+    "content": "Die Optik ist einfach unschlagbar. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Schwarz-Goldes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Kerstin A. aus Pforzheim",
     "date": "2025-12-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Sandra Y. aus Berlin",
-    "date": "2025-12-20"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr modisch. Die Indizes sind sauber gesetzt und gut lesbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Silke A. aus Berlin",
+    "date": "2025-12-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Yannick F. aus Kiel",
-    "date": "2025-12-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Jonas B. aus Bielefeld",
-    "date": "2025-12-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Laura R. aus Kiel",
-    "date": "2025-12-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Jonas R. aus Chemnitz",
+    "content": "Gerne wieder.",
+    "customer_name": "Heike K. aus Kaiserslautern",
     "date": "2025-12-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Sabine B. aus Erfurt",
-    "date": "2025-12-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Felix V. aus Ulm",
-    "date": "2025-12-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Claudia H. aus Bonn",
+    "content": "Die Optik ist einfach unschlagbar. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Trend hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Luis G. aus Gelsenkirchen",
     "date": "2025-12-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Finn Y. aus Karlsruhe",
-    "date": "2025-12-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Tanja D. aus Witten",
-    "date": "2025-12-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Stefanie P. aus Oldenburg",
-    "date": "2025-12-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Noah G. aus Saarbrücken",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr modisch. Die Bedienung der Drücker fühlt sich wertig an. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Jannik C. aus Remscheid",
     "date": "2025-12-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Kerstin R. aus München",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr schwarz-gold. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Tobias I. aus Trier",
     "date": "2025-12-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Anton V. aus Aachen",
-    "date": "2025-12-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Petra B. aus Pforzheim",
-    "date": "2025-12-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Melanie T. aus Köln",
-    "date": "2025-12-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Sabine J. aus Hagen",
-    "date": "2025-12-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Bastian Z. aus Bremen",
-    "date": "2025-12-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Moritz J. aus Wolfsburg",
-    "date": "2025-12-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Robin I. aus Wolfsburg",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Junges Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Theo E. aus Hagen",
     "date": "2025-12-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Julian H. aus Pforzheim",
-    "date": "2025-12-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Nico O. aus Hildesheim",
-    "date": "2025-12-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Matteo V. aus Potsdam",
-    "date": "2025-12-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Julian J. aus Stuttgart",
-    "date": "2025-12-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Mats I. aus Hanau",
+    "content": "Die Optik ist einfach unschlagbar. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Trend hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Ben M. aus Stuttgart",
     "date": "2025-12-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Vincent K. aus Hanau",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Super Preises Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Matteo S. aus Moers",
     "date": "2025-12-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Sascha H. aus Duisburg",
-    "date": "2025-12-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Dennis B. aus Cottbus",
-    "date": "2025-12-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Lukas Q. aus Rostock",
-    "date": "2025-12-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Johannes F. aus Magdeburg",
-    "date": "2025-12-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Sabine Z. aus Münster",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr super preis. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Philipp X. aus Freiburg",
     "date": "2025-12-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Anna R. aus Würzburg",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr trend. Die Bedienung der Drücker fühlt sich wertig an. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Elias J. aus Hildesheim",
     "date": "2025-12-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Dominik B. aus Leipzig",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Markus W. aus Hamburg",
     "date": "2025-12-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Finn G. aus Saarbrücken",
+    "content": "Schnelle Lieferung. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Philipp N. aus Solingen",
     "date": "2025-12-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Malte K. aus Iserlohn",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr schwarz-gold. Die Chronographen-Funktionen arbeiten einwandfrei. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Fabian M. aus Bremen",
+    "date": "2025-12-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Martin X. aus Fürth",
     "date": "2025-12-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Paul N. aus Schwerin",
-    "date": "2025-12-05"
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr trend. Auch nach längerem Tragen spürt man sie kaum am Arm. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Marlon I. aus Mainz",
+    "date": "2025-12-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Arne D. aus Freiburg",
+    "content": "Die Optik ist einfach unschlagbar. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Trend hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Danke an Karinex für den tollen Service.",
+    "customer_name": "Tobias B. aus Kiel",
     "date": "2025-12-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Theo K. aus Chemnitz",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr jung. Die Bedienung der Drücker fühlt sich wertig an. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Uwe Z. aus Oberhausen",
     "date": "2025-12-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Monika A. aus Saarbrücken",
-    "date": "2025-12-01"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Vincent P. aus Mainz",
+    "date": "2025-12-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Julia K. aus Trier",
-    "date": "2025-12-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Florian J. aus Bonn",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr modisch. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sabine X. aus Halle (Saale)",
     "date": "2025-11-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Lenny I. aus Oldenburg",
-    "date": "2025-11-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Paul A. aus Kassel",
-    "date": "2025-11-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Tobias H. aus Ludwigsburg",
-    "date": "2025-11-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Nadine Q. aus Oberhausen",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr trend. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Dennis R. aus Potsdam",
     "date": "2025-11-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Sascha O. aus Potsdam",
-    "date": "2025-11-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Fabian H. aus Salzgitter",
-    "date": "2025-11-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Anton Q. aus München",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr jung. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Kilian E. aus Leipzig",
     "date": "2025-11-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Florian N. aus Trier",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Malte K. aus Hanau",
-    "date": "2025-11-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Simon L. aus Wuppertal",
-    "date": "2025-11-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Susanne D. aus Berlin",
-    "date": "2025-11-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Benedikt Z. aus Dresden",
-    "date": "2025-11-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Anna X. aus Rostock",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Trendes Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Klaus F. aus Mönchengladbach",
     "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Henry Q. aus Remscheid",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr jung. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Martina Z. aus Rostock",
     "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Moritz W. aus Fürth",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Trend hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Super Preises Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Patrick M. aus Hanau",
     "date": "2025-11-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Arne Q. aus Bottrop",
-    "date": "2025-11-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Paul Z. aus Mönchengladbach",
-    "date": "2025-11-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Julian Q. aus Recklinghausen",
-    "date": "2025-11-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Tim Y. aus Krefeld",
-    "date": "2025-11-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Hannes F. aus Offenbach",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr super preis. Die Kombination aus Materialien wirkt sehr hochwertig. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sabine R. aus Reutlingen",
     "date": "2025-11-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Malte Y. aus Duisburg",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Trend hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Danke an Karinex für den tollen Service.",
+    "customer_name": "Klaus G. aus Rostock",
     "date": "2025-11-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Alexander O. aus Kiel",
-    "date": "2025-11-24"
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr trend. Das Kürzen des Metallarmbands ging problemlos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Lenny Z. aus Potsdam",
+    "date": "2025-11-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Andrea V. aus Reutlingen",
-    "date": "2025-11-21"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr trend. Die Schließe am Armband wirkt sehr stabil und sicher. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jan R. aus Mannheim",
+    "date": "2025-11-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Tim C. aus Bergisch Gladbach",
-    "date": "2025-11-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Vincent R. aus Regensburg",
-    "date": "2025-11-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Jannik F. aus Esslingen",
+    "content": "Einfach edel. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Alexander X. aus Magdeburg",
     "date": "2025-11-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Finn S. aus Pforzheim",
-    "date": "2025-11-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Nico I. aus Erfurt",
-    "date": "2025-11-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Vincent F. aus Münster",
-    "date": "2025-11-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Valentin A. aus Leverkusen",
-    "date": "2025-11-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Lukas P. aus Wolfsburg",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Schwarz-Goldes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Luca A. aus Würzburg",
     "date": "2025-11-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Nadine S. aus Mönchengladbach",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Danke an Karinex für den tollen Service.",
+    "customer_name": "Marlon Z. aus Hannover",
     "date": "2025-11-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Anna G. aus Oldenburg",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr super preis. Das Design ist zeitlos und passt zu fast allem. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Nicole U. aus Augsburg",
+    "date": "2025-11-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Danke an Karinex für den tollen Service.",
+    "customer_name": "Alexander K. aus Hanau",
     "date": "2025-11-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Elias Y. aus Dresden",
-    "date": "2025-11-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Andrea J. aus Stuttgart",
-    "date": "2025-11-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Sarah M. aus Solingen",
-    "date": "2025-11-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Max W. aus Salzgitter",
-    "date": "2025-11-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Tanja G. aus Dortmund",
-    "date": "2025-11-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Timo C. aus Duisburg",
-    "date": "2025-11-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Johannes F. aus Pforzheim",
-    "date": "2025-11-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Leo S. aus Leverkusen",
-    "date": "2025-11-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Julia A. aus Ulm",
-    "date": "2025-11-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Laura I. aus Mönchengladbach",
-    "date": "2025-11-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Oskar G. aus Chemnitz",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr schwarz-gold. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Johannes P. aus Krefeld",
     "date": "2025-11-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Paul C. aus Chemnitz",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Arne S. aus Solingen",
-    "date": "2025-11-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Birgit I. aus Rostock",
-    "date": "2025-11-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Samuel H. aus Rostock",
-    "date": "2025-11-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Adrian H. aus Wolfsburg",
-    "date": "2025-11-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Maria J. aus Offenbach",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr modisch. Das Design ist zeitlos und passt zu fast allem. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Paul Y. aus Bremen",
     "date": "2025-11-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Bastian X. aus Dortmund",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr jung. Besonders das Zifferblatt reflektiert das Licht wunderschön. Danke an Karinex für den tollen Service.",
+    "customer_name": "Nicole C. aus Rostock",
     "date": "2025-11-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Simon R. aus Hamm",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr jung. Die Kombination aus Materialien wirkt sehr hochwertig. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sarah U. aus Bochum",
     "date": "2025-11-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Marlon J. aus Jena",
-    "date": "2025-11-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Kilian Y. aus Oberhausen",
-    "date": "2025-11-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Theo J. aus Erlangen",
-    "date": "2025-11-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Tanja S. aus Neuss",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr trend. Die Kombination aus Materialien wirkt sehr hochwertig. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Nadine M. aus Essen",
     "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Finn G. aus Magdeburg",
-    "date": "2025-11-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Susanne E. aus Gera",
-    "date": "2025-11-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Anton A. aus Witten",
-    "date": "2025-11-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Sabine T. aus Magdeburg",
-    "date": "2025-11-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Tom I. aus Heilbronn",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Kerstin S. aus Kassel",
     "date": "2025-11-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Nico W. aus Göttingen",
-    "date": "2025-11-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Moritz M. aus Hannover",
-    "date": "2025-11-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Elias R. aus Köln",
-    "date": "2025-11-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Anna R. aus Berlin",
-    "date": "2025-11-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Theo H. aus Bochum",
-    "date": "2025-11-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Kerstin I. aus Münster",
-    "date": "2025-11-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Katharina J. aus Karlsruhe",
-    "date": "2025-11-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Hannes M. aus Darmstadt",
-    "date": "2025-11-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Sabine Z. aus Hamm",
-    "date": "2025-11-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Henry C. aus Mainz",
-    "date": "2025-11-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Liam Y. aus Witten",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Jung hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Dominik L. aus Heidelberg",
     "date": "2025-10-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Moritz G. aus Bonn",
+    "content": "Das Armband trägt sich sehr angenehm. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Trend hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Junges Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Frank X. aus Bremen",
     "date": "2025-10-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Hannes R. aus Kaiserslautern",
-    "date": "2025-10-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Malte X. aus Leipzig",
-    "date": "2025-10-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Ben V. aus Moers",
-    "date": "2025-10-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Kilian T. aus Erlangen",
-    "date": "2025-10-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Oskar F. aus Krefeld",
-    "date": "2025-10-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Birgit T. aus Lübeck",
-    "date": "2025-10-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Timo R. aus Kassel",
-    "date": "2025-10-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Hannes S. aus Wuppertal",
-    "date": "2025-10-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Andrea A. aus Bochum",
-    "date": "2025-10-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Luca Q. aus Ludwigsburg",
-    "date": "2025-10-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Finn O. aus Rostock",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Jung hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Henry G. aus Leipzig",
     "date": "2025-10-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Anja V. aus Mannheim",
-    "date": "2025-10-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Andrea A. aus Lübeck",
-    "date": "2025-10-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Ben J. aus Rostock",
-    "date": "2025-10-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Lenny F. aus Berlin",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr super preis. Besonders das Zifferblatt reflektiert das Licht wunderschön. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Julian Z. aus Regensburg",
     "date": "2025-10-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Tanja S. aus Kiel",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr super preis. Die Kombination aus Materialien wirkt sehr hochwertig. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Valentin Z. aus Offenbach",
     "date": "2025-10-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Noah X. aus Recklinghausen",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr modisch. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Valentin P. aus Trier",
     "date": "2025-10-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Matteo V. aus Hannover",
-    "date": "2025-10-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Kevin W. aus Hagen",
-    "date": "2025-10-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Simon B. aus Kiel",
-    "date": "2025-10-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Justus U. aus Bochum",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr trend. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Sascha H. aus Cottbus",
     "date": "2025-10-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Malte Q. aus Kiel",
+    "content": "Boss enttäuscht einfach nie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Schwarz-Goldes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Finn Q. aus Ingolstadt",
     "date": "2025-10-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Julian S. aus Hamm",
-    "date": "2025-10-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Monika V. aus Hanau",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Tim O. aus Mönchengladbach",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Tobias C. aus Trier",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Bastian J. aus Ulm",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Samuel S. aus Herne",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Yannick D. aus Kassel",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Theo J. aus Hamburg",
-    "date": "2025-10-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Monika O. aus Mönchengladbach",
-    "date": "2025-10-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Jannik V. aus Paderborn",
-    "date": "2025-10-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Noah S. aus Herne",
-    "date": "2025-10-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Julian Q. aus Frankfurt",
-    "date": "2025-10-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Alexander P. aus Kaiserslautern",
-    "date": "2025-10-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Marlon L. aus Würzburg",
-    "date": "2025-10-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Adrian Q. aus Rostock",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Bastian T. aus Gütersloh",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Trend hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jannik H. aus Berlin",
     "date": "2025-10-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Arne N. aus Potsdam",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr trend. Besonders das Zifferblatt reflektiert das Licht wunderschön. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Emil U. aus Hildesheim",
     "date": "2025-10-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Dennis E. aus Aachen",
-    "date": "2025-10-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Yannick L. aus Neuss",
-    "date": "2025-10-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Christina E. aus Offenbach",
-    "date": "2025-10-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Petra U. aus Hannover",
-    "date": "2025-10-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Kerstin W. aus Esslingen",
+    "content": "Hervorragend.",
+    "customer_name": "Fabian S. aus Osnabrück",
     "date": "2025-10-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Christoph M. aus Schwerin",
-    "date": "2025-10-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Maria K. aus Trier",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr schwarz-gold. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Moritz N. aus Wiesbaden",
     "date": "2025-10-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Tobias T. aus Siegen",
-    "date": "2025-10-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Nico T. aus Oldenburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr modisch. Die Kombination aus Materialien wirkt sehr hochwertig. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Bastian U. aus Kaiserslautern",
     "date": "2025-10-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Felix L. aus Leipzig",
-    "date": "2025-10-10"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr super preis. Die Schließe am Armband wirkt sehr stabil und sicher. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Dennis Z. aus Paderborn",
+    "date": "2025-10-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Milan Q. aus Hildesheim",
-    "date": "2025-10-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Monika M. aus Chemnitz",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Jung hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Manuela A. aus Berlin",
     "date": "2025-10-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Birgit F. aus Potsdam",
-    "date": "2025-10-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Max R. aus Paderborn",
-    "date": "2025-10-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Jan M. aus Ludwigshafen",
-    "date": "2025-10-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Sandra P. aus Trier",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr super preis. Die Kombination aus Materialien wirkt sehr hochwertig. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Leo P. aus Offenbach",
     "date": "2025-10-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Luis D. aus Potsdam",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Kerstin R. aus Bielefeld",
     "date": "2025-10-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Leon H. aus Recklinghausen",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Trend hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Lukas O. aus Recklinghausen",
     "date": "2025-10-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Bastian C. aus Kaiserslautern",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr trend. Das Logo ist dezent aber präsent integriert. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Liam U. aus Karlsruhe",
+    "date": "2025-10-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Modisches Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Melanie G. aus Mannheim",
     "date": "2025-10-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Felix G. aus Duisburg",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Timo C. aus Bergisch Gladbach",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Niklas F. aus Recklinghausen",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Lukas H. aus Solingen",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Valentin X. aus Cottbus",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Jonas A. aus Erlangen",
-    "date": "2025-10-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Valentin W. aus Esslingen",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr modisch. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lisa Z. aus Hamburg",
     "date": "2025-10-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Lisa A. aus Dresden",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr modisch. Das Kürzen des Metallarmbands ging problemlos. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Malte S. aus Mainz",
     "date": "2025-10-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Henry W. aus Kaiserslautern",
-    "date": "2025-10-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Elias G. aus Bielefeld",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Junges Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Leo F. aus Leipzig",
     "date": "2025-09-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Anton W. aus Augsburg",
-    "date": "2025-09-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Oskar G. aus Trier",
-    "date": "2025-09-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Luca W. aus Siegen",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwarz-gold. Die Zeiger bewegen sich sehr präzise. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Felix E. aus Cottbus",
     "date": "2025-09-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Elias E. aus Bergisch Gladbach",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Modisches Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Simon V. aus Frankfurt",
     "date": "2025-09-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Dominik E. aus Gütersloh",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr super preis. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Finn O. aus Rostock",
     "date": "2025-09-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Monika W. aus Köln",
-    "date": "2025-09-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Dennis N. aus Heilbronn",
-    "date": "2025-09-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Christoph D. aus Moers",
-    "date": "2025-09-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Julia W. aus Pforzheim",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr schwarz-gold. Die Kombination aus Materialien wirkt sehr hochwertig. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Samuel O. aus Jena",
     "date": "2025-09-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Nico L. aus Bielefeld",
-    "date": "2025-09-28"
+    "content": "Super verpackt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Thomas Q. aus Oldenburg",
+    "date": "2025-09-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Dominik D. aus Trier",
-    "date": "2025-09-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Marlon L. aus Duisburg",
-    "date": "2025-09-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Arne S. aus Frankfurt",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr trend. Das Design ist zeitlos und passt zu fast allem. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jonas G. aus Offenbach",
     "date": "2025-09-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Liam L. aus Hamburg",
+    "content": "Toller Hingucker.",
+    "customer_name": "Elias Z. aus Kassel",
+    "date": "2025-09-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwarz-gold. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Samuel S. aus Münster",
     "date": "2025-09-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Bastian T. aus Fürth",
-    "date": "2025-09-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Jannik S. aus Kiel",
+    "content": "Massiv und wertig. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Martin A. aus Regensburg",
     "date": "2025-09-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Luis A. aus Neuss",
-    "date": "2025-09-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Niklas M. aus Darmstadt",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Trendes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Paul Y. aus Heidelberg",
     "date": "2025-09-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Sandra W. aus Moers",
+    "content": "Sehr elegant. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Frank C. aus Gera",
+    "date": "2025-09-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schneller Versand.",
+    "customer_name": "Ben X. aus Münster",
     "date": "2025-09-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Valentin N. aus Cottbus",
-    "date": "2025-09-21"
+    "content": "Ein wirklich tolles Stück. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Modisches Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Alexander K. aus Remscheid",
+    "date": "2025-09-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Noah B. aus Duisburg",
-    "date": "2025-09-21"
+    "content": "Ein wirklich tolles Stück. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Junges Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Matthias H. aus Karlsruhe",
+    "date": "2025-09-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Kevin C. aus Mülheim an der Ruhr",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr modisch. Die Indizes sind sauber gesetzt und gut lesbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Fabian B. aus Halle (Saale)",
     "date": "2025-09-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Andrea E. aus Hildesheim",
-    "date": "2025-09-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Katharina V. aus Pforzheim",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Super Preises Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Ben V. aus Essen",
     "date": "2025-09-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Finn X. aus Recklinghausen",
-    "date": "2025-09-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Maria K. aus Göttingen",
-    "date": "2025-09-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Luca R. aus Magdeburg",
-    "date": "2025-09-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Tanja V. aus Ulm",
-    "date": "2025-09-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Liam R. aus Oberhausen",
-    "date": "2025-09-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Anna W. aus Bochum",
+    "content": "Toller Hingucker. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Arne A. aus Braunschweig",
     "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Vincent L. aus Augsburg",
-    "date": "2025-09-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Luca Z. aus Paderborn",
-    "date": "2025-09-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Monika L. aus Solingen",
-    "date": "2025-09-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Birgit U. aus Iserlohn",
-    "date": "2025-09-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Dennis L. aus Fürth",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr trend. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Manuela C. aus Würzburg",
     "date": "2025-09-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Kevin I. aus Solingen",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr modisch. Das Glas scheint sehr robust gegen Kratzer zu sein. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Christoph G. aus Aachen",
     "date": "2025-09-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Katharina X. aus Erlangen",
-    "date": "2025-09-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Finn A. aus Wuppertal",
-    "date": "2025-09-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Leon P. aus Leverkusen",
-    "date": "2025-09-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Tobias F. aus Oberhausen",
-    "date": "2025-09-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Tanja R. aus Frankfurt",
-    "date": "2025-09-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Robin E. aus Neuss",
-    "date": "2025-09-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Yannick A. aus Stuttgart",
-    "date": "2025-09-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Timo B. aus Darmstadt",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Schwarz-Goldes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Sandra Q. aus Ludwigsburg",
     "date": "2025-09-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Ben Y. aus Saarbrücken",
-    "date": "2025-09-14"
+    "content": "Besser als erwartet.",
+    "customer_name": "Anja J. aus Dortmund",
+    "date": "2025-09-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Justus Y. aus Krefeld",
-    "date": "2025-09-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Susanne Q. aus Remscheid",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tom S. aus München",
     "date": "2025-09-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Matteo T. aus Witten",
-    "date": "2025-09-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Mats H. aus Krefeld",
-    "date": "2025-09-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Justus P. aus Moers",
-    "date": "2025-09-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Jan V. aus Nürnberg",
-    "date": "2025-09-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Katharina O. aus Freiburg",
-    "date": "2025-09-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Sabine L. aus Karlsruhe",
-    "date": "2025-09-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Niklas B. aus Moers",
-    "date": "2025-09-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Julia I. aus Trier",
-    "date": "2025-09-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Erik A. aus Fürth",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Jung hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Junges Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Monika C. aus Ludwigsburg",
     "date": "2025-09-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Finn V. aus Mannheim",
-    "date": "2025-09-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Oskar W. aus Kassel",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Modisches Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Frank E. aus Düsseldorf",
     "date": "2025-09-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Simon F. aus Darmstadt",
-    "date": "2025-09-07"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr schwarz-gold. Die Kombination aus Materialien wirkt sehr hochwertig. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Birgit S. aus Augsburg",
+    "date": "2025-09-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Sabine J. aus Solingen",
+    "content": "Das Armband trägt sich sehr angenehm. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Jung hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sven O. aus Mönchengladbach",
+    "date": "2025-09-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Hervorragend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Benedikt F. aus Rostock",
     "date": "2025-09-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Nicole P. aus Reutlingen",
-    "date": "2025-09-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Sascha R. aus Schwerin",
-    "date": "2025-09-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Maria T. aus Wuppertal",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Modisch hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Daniel U. aus Bottrop",
     "date": "2025-09-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Arne M. aus Cottbus",
-    "date": "2025-09-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Maria S. aus Duisburg",
-    "date": "2025-09-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Laura Z. aus Nürnberg",
-    "date": "2025-09-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Samuel R. aus Halle (Saale)",
-    "date": "2025-09-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Susanne S. aus Leverkusen",
-    "date": "2025-09-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Emil K. aus Siegen",
-    "date": "2025-09-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Tobias L. aus Gütersloh",
-    "date": "2025-09-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Niklas X. aus Witten",
-    "date": "2025-09-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Milan A. aus Krefeld",
-    "date": "2025-08-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Julia I. aus Hannover",
-    "date": "2025-08-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Jannik D. aus Gütersloh",
-    "date": "2025-08-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Petra K. aus Bielefeld",
-    "date": "2025-08-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Malte Z. aus Potsdam",
-    "date": "2025-08-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Theo K. aus Iserlohn",
-    "date": "2025-08-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Leo U. aus München",
-    "date": "2025-08-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Sascha H. aus Münster",
-    "date": "2025-08-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Stefanie B. aus Düsseldorf",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Jung hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Trendes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Dominik G. aus Ulm",
     "date": "2025-08-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Anton K. aus Mülheim an der Ruhr",
+    "content": "Ein wirklich tolles Stück. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Heike Y. aus Krefeld",
     "date": "2025-08-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Maximilian E. aus Hamm",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Jung hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Junges Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Stefanie N. aus Regensburg",
     "date": "2025-08-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Sabine F. aus Moers",
-    "date": "2025-08-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Nadine J. aus Essen",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr modisch. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Nico F. aus Gütersloh",
     "date": "2025-08-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie J. aus Halle (Saale)",
-    "date": "2025-08-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Leon U. aus Rostock",
-    "date": "2025-08-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Monika U. aus Bremen",
-    "date": "2025-08-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Jan O. aus Moers",
-    "date": "2025-08-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Sabine G. aus Pforzheim",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Bernd A. aus Solingen",
     "date": "2025-08-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Finn G. aus Hanau",
-    "date": "2025-08-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Maximilian N. aus Ingolstadt",
-    "date": "2025-08-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Kilian U. aus Oldenburg",
-    "date": "2025-08-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Paul U. aus Münster",
-    "date": "2025-08-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Jannik O. aus Wuppertal",
-    "date": "2025-08-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Christoph N. aus Trier",
-    "date": "2025-08-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Nico M. aus Berlin",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Trend hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Arne D. aus Regensburg",
     "date": "2025-08-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Vincent N. aus Hildesheim",
-    "date": "2025-08-21"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Trend hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Florian N. aus Gütersloh",
+    "date": "2025-08-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Tanja Q. aus Recklinghausen",
-    "date": "2025-08-21"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Trend hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Junges Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Nadine N. aus Solingen",
+    "date": "2025-08-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Robin F. aus Chemnitz",
-    "date": "2025-08-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Monika J. aus Göttingen",
-    "date": "2025-08-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Bastian T. aus Herne",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Junges Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Bernd X. aus Nürnberg",
     "date": "2025-08-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Matteo K. aus Siegen",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr schwarz-gold. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Simon O. aus Schwerin",
     "date": "2025-08-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Malte L. aus Bremen",
-    "date": "2025-08-19"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr super preis. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Erik I. aus Saarbrücken",
+    "date": "2025-08-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Bastian K. aus Erfurt",
-    "date": "2025-08-19"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr super preis. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Luca Q. aus Freiburg",
+    "date": "2025-08-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Adrian G. aus Bochum",
-    "date": "2025-08-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Emil K. aus München",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Modisches Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Matteo W. aus Kassel",
     "date": "2025-08-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Sascha V. aus Iserlohn",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr modisch. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Katharina D. aus Iserlohn",
     "date": "2025-08-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Birgit K. aus Siegen",
-    "date": "2025-08-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Elias S. aus Augsburg",
-    "date": "2025-08-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Mats L. aus Bremerhaven",
-    "date": "2025-08-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Jannik X. aus Mönchengladbach",
-    "date": "2025-08-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Anja W. aus Gütersloh",
-    "date": "2025-08-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Susanne Y. aus Hamburg",
-    "date": "2025-08-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Sarah G. aus Aachen",
-    "date": "2025-08-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Dennis F. aus Darmstadt",
-    "date": "2025-08-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Leo X. aus Mülheim an der Ruhr",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr schwarz-gold. Die Chronographen-Funktionen arbeiten einwandfrei. Danke an Karinex für den tollen Service.",
+    "customer_name": "Thomas Z. aus Bonn",
     "date": "2025-08-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "David D. aus Saarbrücken",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Trend hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Modisches Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Lukas V. aus Cottbus",
     "date": "2025-08-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Moritz J. aus Wolfsburg",
+    "content": "Absolut zufrieden. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Nico P. aus Moers",
     "date": "2025-08-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Fabian D. aus Oldenburg",
-    "date": "2025-08-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Robin M. aus Berlin",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr trend. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Andrea U. aus Bremen",
     "date": "2025-08-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Anja G. aus Dresden",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr trend. Die Zeiger bewegen sich sehr präzise. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Jürgen Y. aus Cottbus",
     "date": "2025-08-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Anna W. aus Reutlingen",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr super preis. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Thomas G. aus Essen",
     "date": "2025-08-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Vincent V. aus Bottrop",
-    "date": "2025-08-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Nadine N. aus Mannheim",
+    "content": "Das Armband trägt sich sehr angenehm. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Super Preises Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Luca D. aus Berlin",
     "date": "2025-08-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Timo D. aus Dortmund",
-    "date": "2025-08-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Tim O. aus Ingolstadt",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "David R. aus Bremen",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Florian Z. aus Oberhausen",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Claudia D. aus Bochum",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr jung. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Kerstin L. aus Bochum",
     "date": "2025-08-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Jan L. aus Cottbus",
-    "date": "2025-08-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Vincent C. aus Erlangen",
-    "date": "2025-08-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Max J. aus Bremen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Jung hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Simon O. aus Bochum",
     "date": "2025-08-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Sandra X. aus Hildesheim",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Tim B. aus Freiburg",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Alexander H. aus Stuttgart",
-    "date": "2025-08-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Johannes I. aus Dresden",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr super preis. Die Kombination aus Materialien wirkt sehr hochwertig. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Jan S. aus Ludwigshafen",
     "date": "2025-08-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Vincent R. aus Remscheid",
-    "date": "2025-08-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Leo Q. aus Mülheim an der Ruhr",
+    "content": "Ein wirklich tolles Stück. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Jung hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Benedikt C. aus Trier",
     "date": "2025-08-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Timo Z. aus Hamburg",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Leo N. aus Gütersloh",
-    "date": "2025-08-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Erik U. aus Hamburg",
-    "date": "2025-08-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Petra U. aus Neuss",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr schwarz-gold. Die Schließe am Armband wirkt sehr stabil und sicher. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Jürgen M. aus Osnabrück",
     "date": "2025-08-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Sabine E. aus Bremen",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr modisch. Die Indizes sind sauber gesetzt und gut lesbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Mats H. aus Offenbach",
     "date": "2025-08-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Hannes S. aus Gera",
-    "date": "2025-08-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Katharina H. aus Bremerhaven",
-    "date": "2025-08-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Lukas P. aus Hannover",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Felix C. aus Göttingen",
     "date": "2025-07-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Anja C. aus Leipzig",
-    "date": "2025-07-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Petra G. aus Moers",
-    "date": "2025-07-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Hannes Z. aus Münster",
-    "date": "2025-07-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Claudia M. aus Darmstadt",
-    "date": "2025-07-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Julian G. aus Dortmund",
-    "date": "2025-07-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Yannick A. aus Wolfsburg",
-    "date": "2025-07-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Noah K. aus Ludwigsburg",
-    "date": "2025-07-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "David V. aus Bielefeld",
-    "date": "2025-07-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Susanne M. aus Hannover",
-    "date": "2025-07-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Birgit S. aus Neuss",
-    "date": "2025-07-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Ben U. aus Kaiserslautern",
-    "date": "2025-07-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Erik L. aus Ludwigshafen",
+    "content": "Super verpackt.",
+    "customer_name": "Peter W. aus Augsburg",
     "date": "2025-07-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Max I. aus München",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr jung. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Noah A. aus Fürth",
+    "date": "2025-07-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Modisch hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Vincent N. aus Solingen",
+    "date": "2025-07-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr schwarz-gold. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Birgit J. aus Gera",
+    "date": "2025-07-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "5 Sterne! Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kilian H. aus Dortmund",
     "date": "2025-07-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Leo T. aus Hagen",
-    "date": "2025-07-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Christoph O. aus Mannheim",
-    "date": "2025-07-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Claudia D. aus Ulm",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr super preis. Das Logo ist dezent aber präsent integriert. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Yannick S. aus Regensburg",
     "date": "2025-07-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Lenny N. aus Mönchengladbach",
+    "content": "Die Optik ist einfach unschlagbar. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Trend hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Super Preises Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Finn Q. aus Karlsruhe",
     "date": "2025-07-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Julian I. aus Erfurt",
-    "date": "2025-07-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Sandra U. aus Solingen",
+    "content": "Ein wirklich tolles Stück. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Jung hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Andrea H. aus Hannover",
     "date": "2025-07-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Sarah W. aus Ulm",
-    "date": "2025-07-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Moritz N. aus Düsseldorf",
+    "content": "Das Armband trägt sich sehr angenehm. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Trend hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Super Preises Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Heike I. aus Rostock",
     "date": "2025-07-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Lukas Z. aus Hildesheim",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Benedikt C. aus Ingolstadt",
     "date": "2025-07-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Marlon Z. aus Köln",
-    "date": "2025-07-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Simon B. aus Hannover",
-    "date": "2025-07-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Oskar P. aus Bremerhaven",
-    "date": "2025-07-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Marlon S. aus Bielefeld",
+    "content": "Ein wirklich tolles Stück. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Super Preis hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Trendes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Timo S. aus Bochum",
     "date": "2025-07-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Tobias Y. aus Münster",
-    "date": "2025-07-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Andrea W. aus Hamm",
-    "date": "2025-07-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Maximilian E. aus Moers",
-    "date": "2025-07-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Jonas Y. aus Hildesheim",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Jung hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Modisches Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "David O. aus Essen",
     "date": "2025-07-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Malte P. aus Bochum",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr super preis. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Kerstin U. aus Bochum",
     "date": "2025-07-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Leon C. aus Frankfurt",
-    "date": "2025-07-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Mats T. aus Herne",
-    "date": "2025-07-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Robin H. aus Ingolstadt",
-    "date": "2025-07-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Moritz C. aus Erfurt",
-    "date": "2025-07-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Niklas O. aus Mainz",
-    "date": "2025-07-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Vincent I. aus Paderborn",
-    "date": "2025-07-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Emil A. aus Braunschweig",
-    "date": "2025-07-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Matteo O. aus Cottbus",
-    "date": "2025-07-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Elias W. aus Freiburg",
-    "date": "2025-07-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Liam X. aus Augsburg",
-    "date": "2025-07-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Jonas O. aus Pforzheim",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Jung hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Alexander W. aus Trier",
     "date": "2025-07-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Robin O. aus Pforzheim",
-    "date": "2025-07-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Johannes J. aus Koblenz",
-    "date": "2025-07-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Kerstin O. aus Kaiserslautern",
+    "content": "Top Qualität. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Timo C. aus Osnabrück",
     "date": "2025-07-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Marlon S. aus Oberhausen",
-    "date": "2025-07-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Maximilian U. aus Osnabrück",
-    "date": "2025-07-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Paul S. aus Esslingen",
-    "date": "2025-07-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Adrian V. aus Ludwigshafen",
+    "content": "Die Optik ist einfach unschlagbar. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Jung hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Trendes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Leo X. aus Düsseldorf",
     "date": "2025-07-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Christina X. aus Nürnberg",
-    "date": "2025-07-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Justus Q. aus Bottrop",
-    "date": "2025-07-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Sandra T. aus Hagen",
-    "date": "2025-07-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Vincent Z. aus Herne",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr schwarz-gold. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "David U. aus Köln",
     "date": "2025-07-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Tobias N. aus Fürth",
-    "date": "2025-07-09"
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Johannes B. aus Witten",
+    "date": "2025-07-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Timo X. aus Münster",
-    "date": "2025-07-09"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwarz-gold. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Arne R. aus Magdeburg",
+    "date": "2025-07-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Tanja H. aus Augsburg",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr modisch. Das Design ist zeitlos und passt zu fast allem. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Uwe J. aus Mannheim",
+    "date": "2025-07-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr schwarz-gold. Die Schließe am Armband wirkt sehr stabil und sicher. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Tom F. aus Hannover",
+    "date": "2025-07-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Trend hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Monika W. aus Karlsruhe",
+    "date": "2025-07-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr modisch. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Henry A. aus Wuppertal",
+    "date": "2025-07-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Johannes E. aus Düsseldorf",
+    "date": "2025-07-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Trendes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Liam Q. aus Dresden",
     "date": "2025-07-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Vincent D. aus Gütersloh",
-    "date": "2025-07-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Ben Y. aus Heilbronn",
-    "date": "2025-07-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Arne P. aus Münster",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr jung. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Niklas X. aus Reutlingen",
     "date": "2025-07-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Vincent O. aus Hagen",
-    "date": "2025-07-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Nadine E. aus Bremerhaven",
-    "date": "2025-07-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Lukas V. aus Ludwigshafen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr modisch. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Liam S. aus Krefeld",
     "date": "2025-07-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Tom G. aus Rostock",
+    "content": "Schnelle Lieferung.",
+    "customer_name": "Manuela S. aus Heilbronn",
     "date": "2025-07-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Niklas M. aus Hamm",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr trend. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Monika S. aus Esslingen",
     "date": "2025-07-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Jannik R. aus Bremen",
-    "date": "2025-07-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Petra Q. aus Herne",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Trend hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Vincent X. aus Mönchengladbach",
     "date": "2025-07-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Katharina H. aus Osnabrück",
+    "content": "Das Armband trägt sich sehr angenehm. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Trend hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Lisa B. aus Augsburg",
     "date": "2025-06-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Melanie S. aus Neuss",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Modisch hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Modisches Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Frank Z. aus Siegen",
     "date": "2025-06-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Nico U. aus Ludwigsburg",
-    "date": "2025-06-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Julia Z. aus Schwerin",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Super Preis hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Junges Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Sabine G. aus Hannover",
     "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Mats P. aus Bremerhaven",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr schwarz-gold. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Laura X. aus Oldenburg",
     "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Kevin C. aus Neuss",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr jung. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Johannes G. aus Oberhausen",
     "date": "2025-06-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Julian N. aus Darmstadt",
-    "date": "2025-06-27"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Junges Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Andreas U. aus Herne",
+    "date": "2025-06-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Maximilian F. aus Wiesbaden",
-    "date": "2025-06-23"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Super Preis hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Tobias I. aus Essen",
+    "date": "2025-06-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Jannik H. aus Berlin",
+    "content": "Passt perfekt.",
+    "customer_name": "Niklas S. aus Berlin",
+    "date": "2025-06-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Super Preis hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Peter Y. aus Osnabrück",
+    "date": "2025-06-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr modisch. Das Kürzen des Metallarmbands ging problemlos. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Yannick Y. aus Ulm",
+    "date": "2025-06-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Trendes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Patrick N. aus Gelsenkirchen",
     "date": "2025-06-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Julian Z. aus Saarbrücken",
-    "date": "2025-06-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Sascha A. aus Recklinghausen",
-    "date": "2025-06-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Sandra Y. aus Wolfsburg",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Super Preises Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Matthias T. aus Dortmund",
     "date": "2025-06-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Jan N. aus Nürnberg",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr trend. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Manuela M. aus Jena",
+    "date": "2025-06-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Max N. aus Paderborn",
     "date": "2025-06-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Luca R. aus Moers",
-    "date": "2025-06-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Johannes J. aus Cottbus",
-    "date": "2025-06-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Niklas Y. aus Kaiserslautern",
-    "date": "2025-06-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Tim U. aus Lübeck",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr modisch. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Kerstin E. aus Düsseldorf",
     "date": "2025-06-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Birgit E. aus Salzgitter",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Leo V. aus Oberhausen",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Tanja G. aus Siegen",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Simon B. aus Chemnitz",
-    "date": "2025-06-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Lisa I. aus Mannheim",
-    "date": "2025-06-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Nicole H. aus Braunschweig",
-    "date": "2025-06-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Samuel S. aus Recklinghausen",
-    "date": "2025-06-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Monika Q. aus Jena",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr trend. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Uwe H. aus Würzburg",
     "date": "2025-06-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Kilian T. aus Potsdam",
-    "date": "2025-06-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Leon V. aus Witten",
-    "date": "2025-06-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Tim I. aus Düsseldorf",
-    "date": "2025-06-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "David H. aus Bergisch Gladbach",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr super preis. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Leo E. aus Wiesbaden",
     "date": "2025-06-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Kerstin H. aus Aachen",
-    "date": "2025-06-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Lukas B. aus Hamburg",
-    "date": "2025-06-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Timo D. aus Osnabrück",
-    "date": "2025-06-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Tim S. aus Duisburg",
-    "date": "2025-06-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Maximilian A. aus Chemnitz",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr jung. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Benedikt D. aus München",
     "date": "2025-06-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Theo C. aus Duisburg",
-    "date": "2025-06-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Susanne Z. aus Oberhausen",
+    "content": "Die Optik ist einfach unschlagbar. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Jung hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Trendes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Kevin E. aus Trier",
     "date": "2025-06-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Elias O. aus Cottbus",
-    "date": "2025-06-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Nadine V. aus Saarbrücken",
-    "date": "2025-06-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Adrian M. aus Würzburg",
-    "date": "2025-06-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Bastian H. aus Ludwigshafen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr trend. Die Kombination aus Materialien wirkt sehr hochwertig. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Florian R. aus Siegen",
     "date": "2025-06-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Philipp A. aus Herne",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Patrick Y. aus Nürnberg",
     "date": "2025-06-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Bastian E. aus Göttingen",
-    "date": "2025-06-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Monika O. aus Augsburg",
-    "date": "2025-06-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Julian B. aus Neuss",
-    "date": "2025-06-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Matteo X. aus Heilbronn",
-    "date": "2025-06-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Yannick R. aus Wuppertal",
-    "date": "2025-06-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Anja X. aus Cottbus",
-    "date": "2025-06-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Samuel O. aus Ulm",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Trend hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Danke an Karinex für den tollen Service.",
+    "customer_name": "Matteo E. aus Mülheim an der Ruhr",
     "date": "2025-06-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Anja B. aus Schwerin",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr jung. Das Logo ist dezent aber präsent integriert. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Johannes L. aus Fürth",
     "date": "2025-06-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Christoph C. aus Osnabrück",
-    "date": "2025-06-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Jonas K. aus Bergisch Gladbach",
-    "date": "2025-06-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Leo W. aus Mainz",
-    "date": "2025-06-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Laura X. aus Witten",
-    "date": "2025-06-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Justus D. aus Recklinghausen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Jan O. aus Dresden",
     "date": "2025-06-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Sabine T. aus Schwerin",
-    "date": "2025-06-03"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr jung. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Arne J. aus Dresden",
+    "date": "2025-06-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Dominik A. aus Potsdam",
-    "date": "2025-06-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Christoph H. aus Kiel",
-    "date": "2025-06-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Sabine T. aus Bergisch Gladbach",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Thomas N. aus Hanau",
     "date": "2025-05-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Oskar Q. aus Hamm",
+    "content": "Boss enttäuscht einfach nie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Super Preises Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Henry R. aus Hanau",
     "date": "2025-05-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Johannes H. aus Dresden",
-    "date": "2025-05-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Monika I. aus Erfurt",
-    "date": "2025-05-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Alexander X. aus Heilbronn",
-    "date": "2025-05-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Julian Z. aus Ingolstadt",
-    "date": "2025-05-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Claudia E. aus Erlangen",
+    "content": "Boss enttäuscht einfach nie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Trendes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Michael N. aus Leverkusen",
     "date": "2025-05-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Oskar L. aus Kassel",
-    "date": "2025-05-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Timo B. aus Kassel",
-    "date": "2025-05-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Kilian T. aus Osnabrück",
-    "date": "2025-05-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Christoph G. aus Cottbus",
-    "date": "2025-05-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Hannes A. aus Fürth",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr jung. Die Bedienung der Drücker fühlt sich wertig an. Danke an Karinex für den tollen Service.",
+    "customer_name": "Florian A. aus Schwerin",
     "date": "2025-05-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Anton I. aus Bottrop",
-    "date": "2025-05-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Laura Y. aus Köln",
-    "date": "2025-05-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Nico P. aus Mülheim an der Ruhr",
-    "date": "2025-05-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Alexander L. aus Wolfsburg",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr jung. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Anja O. aus Mainz",
     "date": "2025-05-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Philipp E. aus Dortmund",
-    "date": "2025-05-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Noah W. aus Hanau",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr jung. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Henry Q. aus Würzburg",
     "date": "2025-05-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Maria H. aus Halle (Saale)",
+    "content": "Einfach edel.",
+    "customer_name": "Benedikt S. aus Leverkusen",
     "date": "2025-05-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Sabine B. aus Bochum",
-    "date": "2025-05-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Mats P. aus Karlsruhe",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Jung hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Trendes Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Noah S. aus Bielefeld",
     "date": "2025-05-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Dominik P. aus Ulm",
-    "date": "2025-05-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Philipp C. aus Wolfsburg",
-    "date": "2025-05-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Petra B. aus Remscheid",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Modisch hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Schwarz-Goldes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Andrea M. aus Regensburg",
     "date": "2025-05-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Nico U. aus Hamm",
-    "date": "2025-05-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Timo J. aus Gelsenkirchen",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Leo O. aus Stuttgart",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Sandra P. aus Darmstadt",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Finn X. aus Nürnberg",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Timo T. aus Darmstadt",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Vincent S. aus Leverkusen",
-    "date": "2025-05-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Finn Z. aus Ludwigsburg",
-    "date": "2025-05-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Maria N. aus Oberhausen",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Ben O. aus Ludwigsburg",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Finn M. aus Kiel",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Justus Z. aus Würzburg",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Anton Q. aus Ludwigshafen",
-    "date": "2025-05-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Vincent H. aus Salzgitter",
+    "content": "Alles perfekt.",
+    "customer_name": "Lisa Y. aus Neuss",
     "date": "2025-05-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Julian B. aus Paderborn",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Trendes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Heike M. aus Leipzig",
+    "date": "2025-05-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Trend hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Theo P. aus Würzburg",
     "date": "2025-05-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Florian N. aus Mainz",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Modisches Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Alexander K. aus Koblenz",
     "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Monika N. aus Herne",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr super preis. Das Logo ist dezent aber präsent integriert. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Peter E. aus Mannheim",
     "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Moritz V. aus Köln",
-    "date": "2025-05-15"
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Trend hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Emil J. aus Braunschweig",
+    "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Liam L. aus Wiesbaden",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Andrea D. aus Würzburg",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Dominik U. aus Osnabrück",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Elias K. aus Nürnberg",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Tim G. aus Siegen",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Noah Z. aus Esslingen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Super Preis hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Finn I. aus Köln",
     "date": "2025-05-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Birgit B. aus Rostock",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Trend hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Maximilian I. aus Gera",
     "date": "2025-05-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Moritz I. aus Bremen",
-    "date": "2025-05-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Monika K. aus Hannover",
-    "date": "2025-05-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Susanne Q. aus Recklinghausen",
-    "date": "2025-05-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Timo Y. aus Chemnitz",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr schwarz-gold. Das Kürzen des Metallarmbands ging problemlos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Emil K. aus Moers",
     "date": "2025-05-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Leon M. aus Dresden",
-    "date": "2025-05-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Elias X. aus Kaiserslautern",
-    "date": "2025-05-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Matteo G. aus Mönchengladbach",
+    "content": "Typisch Boss.",
+    "customer_name": "Timo M. aus Wolfsburg",
     "date": "2025-05-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Timo D. aus Leverkusen",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr jung. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Alexander H. aus Ludwigshafen",
     "date": "2025-05-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Claudia D. aus Leipzig",
-    "date": "2025-05-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Timo A. aus Köln",
-    "date": "2025-05-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Jonas W. aus Fürth",
-    "date": "2025-05-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Susanne V. aus Bottrop",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Maximilian N. aus Hannover",
     "date": "2025-05-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Bastian S. aus Darmstadt",
-    "date": "2025-05-07"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Trend hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Erik E. aus Cottbus",
+    "date": "2025-05-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Katharina S. aus Jena",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Super Preises Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Christoph A. aus Köln",
+    "date": "2025-05-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr trend. Die Indizes sind sauber gesetzt und gut lesbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Paul R. aus Berlin",
     "date": "2025-05-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Luca X. aus Jena",
+    "content": "Das Armband trägt sich sehr angenehm. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Super Preis hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Junges Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Samuel G. aus Bergisch Gladbach",
     "date": "2025-05-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Stefanie I. aus Leverkusen",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr trend. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Christian E. aus Duisburg",
     "date": "2025-05-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Justus P. aus Mönchengladbach",
-    "date": "2025-05-05"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Schwarz-Goldes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Lisa V. aus Remscheid",
+    "date": "2025-05-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Valentin U. aus Leipzig",
-    "date": "2025-05-05"
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr modisch. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "David I. aus Hagen",
+    "date": "2025-05-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Timo R. aus Göttingen",
-    "date": "2025-05-03"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Schwarz-Goldes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Markus T. aus Paderborn",
+    "date": "2025-05-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Liam D. aus Lübeck",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr jung. Das Logo ist dezent aber präsent integriert. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Christina K. aus Aachen",
     "date": "2025-05-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Justus S. aus Esslingen",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr modisch. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Alexander F. aus Gelsenkirchen",
     "date": "2025-05-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "David B. aus Kiel",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr modisch. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sebastian X. aus Witten",
+    "date": "2025-05-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Klaus G. aus Iserlohn",
     "date": "2025-05-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Maximilian X. aus Gera",
-    "date": "2025-05-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Susanne X. aus Heidelberg",
-    "date": "2025-05-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Adrian F. aus Ulm",
-    "date": "2025-05-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Jan W. aus Leipzig",
-    "date": "2025-04-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Claudia F. aus Gelsenkirchen",
-    "date": "2025-04-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Dennis T. aus Schwerin",
-    "date": "2025-04-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Katharina E. aus Fürth",
-    "date": "2025-04-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Moritz D. aus Bergisch Gladbach",
-    "date": "2025-04-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Anton I. aus Essen",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Simon V. aus Kaiserslautern",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Samuel F. aus Paderborn",
+    "content": "Gerne wieder. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Jonas C. aus Karlsruhe",
     "date": "2025-04-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Maximilian P. aus Bremen",
-    "date": "2025-04-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Mats I. aus Frankfurt",
-    "date": "2025-04-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Liam W. aus Essen",
-    "date": "2025-04-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Sarah Z. aus Düsseldorf",
-    "date": "2025-04-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Niklas S. aus Duisburg",
-    "date": "2025-04-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Stefanie V. aus Magdeburg",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Super Preises Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Julia W. aus Köln",
     "date": "2025-04-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Jan L. aus Frankfurt",
+    "content": "Sehr elegant.",
+    "customer_name": "Matteo O. aus Aachen",
     "date": "2025-04-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "David B. aus Chemnitz",
-    "date": "2025-04-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Theo N. aus Hildesheim",
-    "date": "2025-04-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Luca U. aus Moers",
-    "date": "2025-04-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Yannick L. aus Recklinghausen",
-    "date": "2025-04-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Tom N. aus Stuttgart",
-    "date": "2025-04-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Justus K. aus Regensburg",
-    "date": "2025-04-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Niklas N. aus Remscheid",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Liam W. aus Cottbus",
     "date": "2025-04-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Stefanie J. aus Leipzig",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr super preis. Das Kürzen des Metallarmbands ging problemlos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Malte Z. aus Mainz",
     "date": "2025-04-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Leo G. aus Stuttgart",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sascha W. aus Hamburg",
     "date": "2025-04-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Robin M. aus Lübeck",
-    "date": "2025-04-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Luis R. aus Gütersloh",
-    "date": "2025-04-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Max B. aus Berlin",
-    "date": "2025-04-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Lenny B. aus Würzburg",
-    "date": "2025-04-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Lenny I. aus Fürth",
-    "date": "2025-04-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Malte V. aus Darmstadt",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr modisch. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Patrick K. aus Leipzig",
     "date": "2025-04-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Paul F. aus Bremerhaven",
-    "date": "2025-04-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Sandra S. aus Ludwigshafen",
-    "date": "2025-04-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Jonas V. aus Nürnberg",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr trend. Das Logo ist dezent aber präsent integriert. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Florian U. aus Fürth",
     "date": "2025-04-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Valentin T. aus Heilbronn",
-    "date": "2025-04-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Ben P. aus Münster",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr schwarz-gold. Die Kombination aus Materialien wirkt sehr hochwertig. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Stefan M. aus Münster",
     "date": "2025-04-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Dominik R. aus Moers",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr modisch. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Julia M. aus Mainz",
     "date": "2025-04-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Valentin S. aus Göttingen",
-    "date": "2025-04-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Matteo M. aus Düsseldorf",
-    "date": "2025-04-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Emil C. aus Hamburg",
-    "date": "2025-04-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Ben W. aus Würzburg",
-    "date": "2025-04-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Robin P. aus Schwerin",
-    "date": "2025-04-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "David M. aus Chemnitz",
-    "date": "2025-04-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Oskar I. aus Göttingen",
+    "content": "Alles perfekt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Nico U. aus Gelsenkirchen",
     "date": "2025-04-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Oskar F. aus Kassel",
-    "date": "2025-04-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Nadine S. aus Moers",
-    "date": "2025-04-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Anna I. aus Bremerhaven",
-    "date": "2025-04-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Sascha Y. aus Salzgitter",
-    "date": "2025-04-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Erik U. aus Erfurt",
-    "date": "2025-04-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Leo H. aus Wiesbaden",
-    "date": "2025-04-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Ben R. aus Mannheim",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr super preis. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Anja O. aus Aachen",
     "date": "2025-04-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Monika Y. aus Gera",
-    "date": "2025-04-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Nicole D. aus Duisburg",
-    "date": "2025-04-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Fabian V. aus Frankfurt",
-    "date": "2025-04-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Timo C. aus Herne",
-    "date": "2025-04-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Yannick W. aus Hagen",
-    "date": "2025-04-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Finn S. aus Hamm",
-    "date": "2025-04-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Luca P. aus Heilbronn",
-    "date": "2025-04-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Maximilian V. aus Bonn",
+    "content": "Einfach edel. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Petra P. aus Ludwigsburg",
     "date": "2025-04-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Ben F. aus Bielefeld",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Jung hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Junges Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sebastian F. aus Recklinghausen",
     "date": "2025-04-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Ben Q. aus Hagen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Jung hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Anton L. aus Münster",
     "date": "2025-04-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Christoph N. aus Ludwigshafen",
-    "date": "2025-04-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Benedikt Y. aus Bonn",
-    "date": "2025-04-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Maria A. aus Osnabrück",
-    "date": "2025-04-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Sarah I. aus Wolfsburg",
-    "date": "2025-04-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Maria Z. aus Frankfurt",
-    "date": "2025-04-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "David Z. aus Bergisch Gladbach",
-    "date": "2025-04-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Nico T. aus Kaiserslautern",
-    "date": "2025-04-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Stefanie S. aus Wolfsburg",
-    "date": "2025-04-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Kevin C. aus Schwerin",
-    "date": "2025-04-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Katharina D. aus Potsdam",
-    "date": "2025-04-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Luis F. aus Erfurt",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Christian F. aus Aachen",
     "date": "2025-04-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Jannik E. aus Kaiserslautern",
-    "date": "2025-04-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Noah X. aus Kaiserslautern",
-    "date": "2025-04-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Jan W. aus Augsburg",
-    "date": "2025-04-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Jonas P. aus Heilbronn",
-    "date": "2025-04-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Simon G. aus Leverkusen",
-    "date": "2025-04-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Lukas G. aus Köln",
-    "date": "2025-04-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Sabine I. aus Augsburg",
-    "date": "2025-04-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Maria H. aus Krefeld",
-    "date": "2025-04-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Stefanie H. aus Augsburg",
-    "date": "2025-03-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Niklas M. aus Hamburg",
-    "date": "2025-03-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Theo H. aus Schwerin",
-    "date": "2025-03-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Birgit D. aus Kassel",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Jung hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Schwarz-Goldes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Kevin Y. aus Regensburg",
     "date": "2025-03-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Sabine E. aus Saarbrücken",
-    "date": "2025-03-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Tanja H. aus Wolfsburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwarz-gold. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Matteo Z. aus Krefeld",
     "date": "2025-03-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Sascha G. aus Frankfurt",
-    "date": "2025-03-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Lisa F. aus Mannheim",
-    "date": "2025-03-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Petra T. aus Cottbus",
-    "date": "2025-03-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Niklas G. aus Cottbus",
-    "date": "2025-03-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Bastian V. aus Chemnitz",
-    "date": "2025-03-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Tobias V. aus Münster",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Liam M. aus Erlangen",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Alexander J. aus Braunschweig",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Yannick N. aus Hildesheim",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Emil B. aus Köln",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Samuel M. aus Ludwigshafen",
-    "date": "2025-03-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Yannick Y. aus Bielefeld",
-    "date": "2025-03-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Tanja L. aus Saarbrücken",
-    "date": "2025-03-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Susanne J. aus Augsburg",
-    "date": "2025-03-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Andrea E. aus Kiel",
-    "date": "2025-03-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Luis P. aus Krefeld",
-    "date": "2025-03-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Nadine W. aus Gütersloh",
-    "date": "2025-03-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Mats O. aus Heidelberg",
-    "date": "2025-03-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Ben Z. aus Wolfsburg",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr super preis. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Jannik M. aus Hagen",
     "date": "2025-03-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Birgit F. aus Bremen",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Matteo P. aus Würzburg",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Bastian G. aus Ludwigshafen",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Sandra X. aus Halle (Saale)",
-    "date": "2025-03-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Nico D. aus Wolfsburg",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr super preis. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Stefanie Q. aus Dortmund",
     "date": "2025-03-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Kevin U. aus Bottrop",
-    "date": "2025-03-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Kilian R. aus Ingolstadt",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Tobias Q. aus Heilbronn",
     "date": "2025-03-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Samuel E. aus Chemnitz",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Super Preis hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Schwarz-Goldes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Tobias A. aus Lübeck",
     "date": "2025-03-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Fabian B. aus Salzgitter",
-    "date": "2025-03-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Bastian W. aus Leipzig",
-    "date": "2025-03-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Julia M. aus Rostock",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Modisch hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Vincent V. aus Iserlohn",
     "date": "2025-03-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Philipp X. aus Hildesheim",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Trend hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Schwarz-Goldes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Nadine G. aus Potsdam",
     "date": "2025-03-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Sascha M. aus Hannover",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr schwarz-gold. Die Indizes sind sauber gesetzt und gut lesbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Paul F. aus Recklinghausen",
+    "date": "2025-03-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Klasse Design. Danke an Karinex für den tollen Service.",
+    "customer_name": "Kilian M. aus Bremerhaven",
     "date": "2025-03-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Julian A. aus Heilbronn",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr jung. Die Indizes sind sauber gesetzt und gut lesbar. Danke an Karinex für den tollen Service.",
+    "customer_name": "Julian H. aus Düsseldorf",
     "date": "2025-03-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Stefanie C. aus Oberhausen",
-    "date": "2025-03-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Lukas Y. aus Hildesheim",
-    "date": "2025-03-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Christoph N. aus Bottrop",
-    "date": "2025-03-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Noah W. aus Bottrop",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Modisches Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Simon V. aus Herne",
     "date": "2025-03-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Erik X. aus Trier",
-    "date": "2025-03-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Max C. aus Jena",
-    "date": "2025-03-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Moritz Z. aus Remscheid",
-    "date": "2025-03-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Simon W. aus Frankfurt",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Trend hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Marlon I. aus Leverkusen",
     "date": "2025-03-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Monika D. aus Gera",
-    "date": "2025-03-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Valentin Z. aus Braunschweig",
-    "date": "2025-03-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Leon Q. aus Frankfurt",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Trend hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Junges Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Martin B. aus Pforzheim",
     "date": "2025-03-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Valentin Q. aus Düsseldorf",
-    "date": "2025-03-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Paul L. aus Magdeburg",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Super Preis hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Alexander R. aus Leverkusen",
     "date": "2025-03-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Benedikt D. aus Remscheid",
-    "date": "2025-03-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Dominik E. aus Reutlingen",
-    "date": "2025-03-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Max F. aus Schwerin",
-    "date": "2025-03-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Lenny C. aus Herne",
-    "date": "2025-03-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Erik U. aus Hanau",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "David V. aus Leipzig",
+    "content": "Die Optik ist einfach unschlagbar. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Junges Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Adrian O. aus Hamburg",
     "date": "2025-03-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Oskar V. aus Dortmund",
-    "date": "2025-03-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Christina A. aus Braunschweig",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Trend hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Junges Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Mats I. aus Mönchengladbach",
     "date": "2025-03-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Fabian P. aus Dortmund",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr schwarz-gold. Das Design ist zeitlos und passt zu fast allem. Danke an Karinex für den tollen Service.",
+    "customer_name": "Thomas U. aus Würzburg",
+    "date": "2025-03-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Trend hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Schwarz-Goldes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Daniel N. aus Freiburg",
     "date": "2025-03-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Hannes X. aus Wuppertal",
-    "date": "2025-03-05"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr super preis. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Thomas F. aus Kaiserslautern",
+    "date": "2025-03-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Bastian L. aus Essen",
-    "date": "2025-03-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Claudia H. aus Dresden",
-    "date": "2025-03-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Erik K. aus Essen",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Jung hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Valentin Y. aus Bremerhaven",
     "date": "2025-03-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Lenny U. aus Hannover",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Schwarz-Goldes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Leon H. aus Magdeburg",
     "date": "2025-03-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Liam M. aus Hagen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Modisch hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Trendes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Matthias P. aus Nürnberg",
     "date": "2025-03-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Jung gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Nadine Q. aus Osnabrück",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr super preis. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Susanne J. aus Bochum",
     "date": "2025-02-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Emil M. aus Trier",
-    "date": "2025-02-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Julia Z. aus Hildesheim",
-    "date": "2025-02-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Leon V. aus Reutlingen",
-    "date": "2025-02-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Marlon V. aus Frankfurt",
-    "date": "2025-02-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Tom M. aus Potsdam",
-    "date": "2025-02-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Melanie J. aus Leverkusen",
-    "date": "2025-02-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Jung gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Alexander S. aus Gütersloh",
-    "date": "2025-02-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Petra P. aus Gelsenkirchen",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Dennis I. aus Wuppertal",
     "date": "2025-02-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Monika R. aus Gelsenkirchen",
+    "content": "Wunderschöne Uhr.",
+    "customer_name": "Elias M. aus Gütersloh",
+    "date": "2025-02-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Timo J. aus Aachen",
     "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Stefanie S. aus Gütersloh",
-    "date": "2025-02-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Andrea Z. aus Ludwigsburg",
-    "date": "2025-02-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Andrea K. aus Recklinghausen",
-    "date": "2025-02-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Birgit N. aus Regensburg",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Jung hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Leon F. aus Oldenburg",
     "date": "2025-02-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Tobias G. aus Wiesbaden",
-    "date": "2025-02-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Dominik F. aus Herne",
-    "date": "2025-02-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Christoph M. aus Hildesheim",
-    "date": "2025-02-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Paul I. aus Esslingen",
+    "content": "Passt perfekt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Stefan A. aus Offenbach",
     "date": "2025-02-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Leon L. aus Ludwigshafen",
-    "date": "2025-02-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Philipp E. aus Köln",
-    "date": "2025-02-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Tom J. aus Solingen",
-    "date": "2025-02-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Luis W. aus Gera",
-    "date": "2025-02-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Super Preis. Ein echter Hingucker.",
-    "customer_name": "Alexander D. aus Krefeld",
-    "date": "2025-02-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Monika L. aus Bielefeld",
-    "date": "2025-02-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Kilian P. aus Pforzheim",
-    "date": "2025-02-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Ben Y. aus Mainz",
+    "content": "Das Armband trägt sich sehr angenehm. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Trend hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Vincent U. aus Bielefeld",
     "date": "2025-02-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Sascha V. aus Ulm",
-    "date": "2025-02-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Sandra V. aus Jena",
-    "date": "2025-02-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Tanja K. aus Lübeck",
+    "content": "Hervorragend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Luis C. aus Magdeburg",
     "date": "2025-02-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Christina M. aus Bremerhaven",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Katja P. aus Witten",
     "date": "2025-02-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Vincent V. aus Bonn",
+    "content": "Ein wirklich tolles Stück. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Super Preis hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Florian Q. aus Essen",
+    "date": "2025-02-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Super Preis hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Leon C. aus Berlin",
     "date": "2025-02-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Christoph X. aus Freiburg",
-    "date": "2025-02-17"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Schwarz-Gold hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Daniel X. aus Krefeld",
+    "date": "2025-02-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Finn N. aus Köln",
-    "date": "2025-02-17"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr jung. Das Design ist zeitlos und passt zu fast allem. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Sandra K. aus Regensburg",
+    "date": "2025-02-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Sascha H. aus Hagen",
-    "date": "2025-02-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Tobias A. aus Halle (Saale)",
-    "date": "2025-02-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Luca R. aus Düsseldorf",
-    "date": "2025-02-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Felix O. aus Darmstadt",
-    "date": "2025-02-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Passt perfekt.",
-    "customer_name": "Nicole S. aus Ingolstadt",
-    "date": "2025-02-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Petra G. aus Remscheid",
-    "date": "2025-02-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Erik Q. aus Regensburg",
-    "date": "2025-02-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Noah E. aus Wuppertal",
+    "content": "Das Armband trägt sich sehr angenehm. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Jung hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Julia E. aus Freiburg",
     "date": "2025-02-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Sarah Y. aus Erfurt",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Tim Z. aus Remscheid",
     "date": "2025-02-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Trend gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Sandra V. aus Ludwigshafen",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Yannick Z. aus Siegen",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Max D. aus Rostock",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Theo A. aus Cottbus",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Sarah N. aus Osnabrück",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr trend. Die Kombination aus Materialien wirkt sehr hochwertig. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lenny R. aus Braunschweig",
     "date": "2025-02-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Tanja Y. aus Berlin",
-    "date": "2025-02-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Laura S. aus Siegen",
-    "date": "2025-02-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Klare Kaufempfehlung.",
-    "customer_name": "Dominik X. aus Mönchengladbach",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Hannes Q. aus Magdeburg",
     "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Sandra L. aus Bonn",
-    "date": "2025-02-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Susanne X. aus Karlsruhe",
-    "date": "2025-02-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Anja I. aus Saarbrücken",
-    "date": "2025-02-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Katharina W. aus Gütersloh",
-    "date": "2025-02-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Philipp L. aus Rostock",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Super Preis hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Schwarz-Goldes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Christoph A. aus Wuppertal",
     "date": "2025-02-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Dominik C. aus Würzburg",
-    "date": "2025-02-10"
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr schwarz-gold. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Nico Y. aus Hanau",
+    "date": "2025-02-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Super Preis. Jeden Cent wert.",
-    "customer_name": "Jonas A. aus Würzburg",
-    "date": "2025-02-10"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Modisch hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Schwarz-Goldes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Arne V. aus Berlin",
+    "date": "2025-02-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Matteo K. aus Duisburg",
-    "date": "2025-02-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Birgit W. aus Berlin",
-    "date": "2025-02-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Luca E. aus Ludwigsburg",
-    "date": "2025-02-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Luis U. aus Moers",
-    "date": "2025-02-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Maximilian K. aus Erlangen",
-    "date": "2025-02-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Kann ich empfehlen.",
-    "customer_name": "Kerstin B. aus Dresden",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr modisch. Die Zeiger bewegen sich sehr präzise. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Nadine Q. aus Wuppertal",
     "date": "2025-02-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Henry A. aus Freiburg",
-    "date": "2025-02-06"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr schwarz-gold. Die Indizes sind sauber gesetzt und gut lesbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Tom F. aus Ludwigshafen",
+    "date": "2025-02-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Christina J. aus Iserlohn",
-    "date": "2025-02-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Trend. Klare Kaufempfehlung.",
-    "customer_name": "Anton O. aus Hanau",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr jung. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tobias U. aus Köln",
     "date": "2025-02-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Elias Z. aus Heilbronn",
-    "date": "2025-02-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Ben H. aus Bielefeld",
-    "date": "2025-02-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Tobias H. aus Osnabrück",
-    "date": "2025-02-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Kevin E. aus Koblenz",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr super preis. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Martina E. aus Oldenburg",
     "date": "2025-02-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Julia A. aus Remscheid",
-    "date": "2025-02-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Finn A. aus Neuss",
-    "date": "2025-02-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Oskar N. aus Trier",
-    "date": "2025-02-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Nadine Q. aus Bielefeld",
-    "date": "2025-02-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Julia Q. aus Magdeburg",
+    "content": "Top Qualität.",
+    "customer_name": "Malte L. aus Fürth",
     "date": "2025-02-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Timo Z. aus Hamm",
-    "date": "2025-02-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Julia K. aus Gera",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Modisch hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "David R. aus Reutlingen",
     "date": "2025-01-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Susanne C. aus Freiburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr super preis. Besonders das Zifferblatt reflektiert das Licht wunderschön. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Adrian V. aus Kaiserslautern",
     "date": "2025-01-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Claudia J. aus Hanau",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Jung hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Super Preises Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Simon W. aus Wiesbaden",
     "date": "2025-01-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Nico V. aus Moers",
-    "date": "2025-01-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Nicole J. aus Hanau",
-    "date": "2025-01-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Sandra Q. aus Karlsruhe",
-    "date": "2025-01-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Christina L. aus Jena",
-    "date": "2025-01-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Super Preis gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Jan Y. aus Rostock",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Jung hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Schwarz-Goldes Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Felix X. aus Magdeburg",
     "date": "2025-01-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Jung gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Anja L. aus Rostock",
-    "date": "2025-01-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Valentin X. aus Freiburg",
-    "date": "2025-01-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie I. aus Wiesbaden",
-    "date": "2025-01-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Kann ich empfehlen.",
-    "customer_name": "Nicole Z. aus Cottbus",
-    "date": "2025-01-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Sascha O. aus Salzgitter",
-    "date": "2025-01-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Bastian X. aus Jena",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr schwarz-gold. Auch nach längerem Tragen spürt man sie kaum am Arm. Danke an Karinex für den tollen Service.",
+    "customer_name": "Mats N. aus Regensburg",
     "date": "2025-01-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Jonas Y. aus Recklinghausen",
-    "date": "2025-01-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. 5 Sterne.",
-    "customer_name": "Ben X. aus Remscheid",
-    "date": "2025-01-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Philipp S. aus Kassel",
-    "date": "2025-01-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Claudia G. aus Leipzig",
-    "date": "2025-01-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Robin B. aus Hannover",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr trend. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Florian B. aus Mainz",
     "date": "2025-01-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Maximilian B. aus Schwerin",
-    "date": "2025-01-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Andrea G. aus Lübeck",
-    "date": "2025-01-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Jung. Würde ich wieder kaufen.",
-    "customer_name": "Christoph C. aus Würzburg",
-    "date": "2025-01-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Luca G. aus Witten",
+    "content": "Die Optik ist einfach unschlagbar. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Modisch hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Benedikt K. aus Krefeld",
     "date": "2025-01-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Anna E. aus Krefeld",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr trend. Die Schließe am Armband wirkt sehr stabil und sicher. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Tobias P. aus Augsburg",
     "date": "2025-01-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Würde ich wieder kaufen.",
-    "customer_name": "Adrian L. aus Kassel",
-    "date": "2025-01-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Anja O. aus Hamburg",
-    "date": "2025-01-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Super Preis. Würde ich wieder kaufen.",
-    "customer_name": "Lukas F. aus Gelsenkirchen",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Jung hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Heike N. aus Stuttgart",
     "date": "2025-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Klare Kaufempfehlung.",
-    "customer_name": "Simon F. aus Lübeck",
-    "date": "2025-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Sascha B. aus Krefeld",
-    "date": "2025-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Super Preis gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Marlon R. aus Bielefeld",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Christoph V. aus Leipzig",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Super Preis gefällt mir sehr. Das Design ist Trend. Jeden Cent wert.",
-    "customer_name": "Julian T. aus Mainz",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Christoph N. aus Trier",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Modisch gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Simon W. aus Reutlingen",
-    "date": "2025-01-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Paul K. aus Salzgitter",
-    "date": "2025-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Petra F. aus Würzburg",
-    "date": "2025-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Modisch gefällt mir sehr. Das Design ist Jung. Jeden Cent wert.",
-    "customer_name": "Alexander R. aus Frankfurt",
-    "date": "2025-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Birgit A. aus Hamburg",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Sehr zufrieden.",
-    "customer_name": "Simon S. aus Hanau",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Lenny Y. aus Würzburg",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Schwarz-Gold. Ein echter Hingucker.",
-    "customer_name": "Monika K. aus Duisburg",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Christoph K. aus Braunschweig",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Anja E. aus München",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Modisch. Sehr zufrieden.",
-    "customer_name": "Erik G. aus Halle (Saale)",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Erik D. aus Pforzheim",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "David E. aus Düsseldorf",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Modisch gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Leo J. aus Münster",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Kann ich empfehlen.",
-    "customer_name": "Elias J. aus Hannover",
-    "date": "2025-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Benedikt Q. aus Bergisch Gladbach",
-    "date": "2025-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Jung gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Robin H. aus Kassel",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Trend. 5 Sterne.",
-    "customer_name": "Noah P. aus Solingen",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Leon P. aus Bonn",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Jung gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Valentin D. aus Wiesbaden",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Trend gefällt mir sehr. Das Design ist Jung. 5 Sterne.",
-    "customer_name": "Petra N. aus Kaiserslautern",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Trend gefällt mir sehr. Das Design ist Modisch. Jeden Cent wert.",
-    "customer_name": "Susanne X. aus Ludwigshafen",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Modisch gefällt mir sehr. Das Design ist Jung. Passt perfekt.",
-    "customer_name": "Susanne D. aus Karlsruhe",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Trend gefällt mir sehr. Das Design ist Trend. Sehr zufrieden.",
-    "customer_name": "Stefanie W. aus Dresden",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Klare Kaufempfehlung.",
-    "customer_name": "Leon F. aus Moers",
-    "date": "2025-01-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Schwarz-Gold gefällt mir sehr. Das Design ist Super Preis. Sehr zufrieden.",
-    "customer_name": "Philipp N. aus Würzburg",
-    "date": "2025-01-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Super Preis gefällt mir sehr. Das Design ist Jung. Sehr zufrieden.",
-    "customer_name": "Florian F. aus Rostock",
-    "date": "2025-01-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Leon Z. aus Braunschweig",
-    "date": "2025-01-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Erik G. aus Wolfsburg",
-    "date": "2025-01-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Jung gefällt mir sehr. Das Design ist Modisch. Kann ich empfehlen.",
-    "customer_name": "Lukas E. aus Gelsenkirchen",
-    "date": "2025-01-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Super Preis. 5 Sterne.",
-    "customer_name": "Luis J. aus Ludwigsburg",
-    "date": "2025-01-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Modisch gefällt mir sehr. Das Design ist Schwarz-Gold. Jeden Cent wert.",
-    "customer_name": "Max V. aus Essen",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Leo Q. aus Hannover",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Trend gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Nico U. aus Regensburg",
-    "date": "2025-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Schwarz-Gold gefällt mir sehr. Das Design ist Jung. Ein echter Hingucker.",
-    "customer_name": "Adrian R. aus Heidelberg",
-    "date": "2025-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Trend gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Max Q. aus Darmstadt",
-    "date": "2025-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Schwarz-Gold. Würde ich wieder kaufen.",
-    "customer_name": "Marlon B. aus Wolfsburg",
-    "date": "2025-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Modisch gefällt mir sehr. Das Design ist Trend. Kann ich empfehlen.",
-    "customer_name": "Theo R. aus Mülheim an der Ruhr",
-    "date": "2025-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Trend gefällt mir sehr. Das Design ist Modisch. Würde ich wieder kaufen.",
-    "customer_name": "Elias W. aus Jena",
-    "date": "2025-01-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Modisch gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Sabine B. aus Würzburg",
-    "date": "2025-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. 5 Sterne.",
-    "customer_name": "Marlon U. aus Witten",
-    "date": "2025-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Jung gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Julian B. aus Remscheid",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Super Preis gefällt mir sehr. Das Design ist Schwarz-Gold. Passt perfekt.",
-    "customer_name": "Julian S. aus Essen",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Modisch gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Kevin C. aus Rostock",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Super Preis gefällt mir sehr. Das Design ist Jung. Klare Kaufempfehlung.",
-    "customer_name": "Henry H. aus Mönchengladbach",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Trend gefällt mir sehr. Das Design ist Trend. Passt perfekt.",
-    "customer_name": "Maria F. aus Krefeld",
-    "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Schwarz-Gold gefällt mir sehr. Das Design ist Modisch. Ein echter Hingucker.",
-    "customer_name": "Maria X. aus Rostock",
-    "date": "2025-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Modisch gefällt mir sehr. Das Design ist Trend. Ein echter Hingucker.",
-    "customer_name": "Sandra Z. aus Oberhausen",
-    "date": "2025-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Jung gefällt mir sehr. Das Design ist Super Preis. Passt perfekt.",
-    "customer_name": "Julia A. aus Ingolstadt",
-    "date": "2025-01-01"
   }
 ];

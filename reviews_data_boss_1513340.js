@@ -2,4747 +2,2584 @@ const REVIEWS_DATA = [
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Christoph B. aus Bremerhaven",
-    "date": "2026-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Benedikt E. aus Regensburg",
-    "date": "2026-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Susanne I. aus Erlangen",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr elegant. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Danke an Karinex für den tollen Service.",
+    "customer_name": "Matthias H. aus Hannover",
     "date": "2026-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Dominik I. aus Köln",
-    "date": "2026-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Nicole E. aus München",
-    "date": "2026-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Finn R. aus Remscheid",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr tolle uhr. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sarah M. aus Mainz",
     "date": "2026-01-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Philipp K. aus Münster",
+    "content": "Top Qualität.",
+    "customer_name": "Luis G. aus Oldenburg",
+    "date": "2026-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Jannik C. aus Pforzheim",
+    "date": "2026-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Gold-Blaues Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Max F. aus Cottbus",
+    "date": "2026-01-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr klassiker. Die Schließe am Armband wirkt sehr stabil und sicher. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Liam Q. aus Mülheim an der Ruhr",
+    "date": "2026-01-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Passt perfekt.",
+    "customer_name": "Kerstin X. aus Kaiserslautern",
     "date": "2026-01-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Susanne K. aus Saarbrücken",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Danke an Karinex für den tollen Service.",
+    "customer_name": "Laura C. aus Aachen",
     "date": "2026-01-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Noah B. aus Oberhausen",
-    "date": "2026-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Justus K. aus Kaiserslautern",
-    "date": "2026-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Melanie Z. aus Gera",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr hingucker. Auch nach längerem Tragen spürt man sie kaum am Arm. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Christian W. aus Leverkusen",
     "date": "2026-01-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Maria A. aus Ulm",
-    "date": "2026-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Benedikt J. aus Freiburg",
-    "date": "2026-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Dennis R. aus Halle (Saale)",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Klassiker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Hinguckeres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Justus Y. aus Mülheim an der Ruhr",
     "date": "2026-01-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Bastian R. aus Gera",
+    "content": "Schnelle Lieferung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Susanne C. aus Recklinghausen",
     "date": "2026-01-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Christoph A. aus Bochum",
-    "date": "2026-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Tobias Q. aus Ingolstadt",
-    "date": "2026-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Nadine L. aus Nürnberg",
-    "date": "2026-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Sarah J. aus Hildesheim",
+    "content": "Top Qualität. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sarah D. aus Siegen",
     "date": "2026-01-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Melanie T. aus Bonn",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Klassikeres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Samuel N. aus Kassel",
     "date": "2026-01-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Emil H. aus Trier",
+    "content": "Ein wirklich tolles Stück. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sarah V. aus Heilbronn",
     "date": "2026-01-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Liam Y. aus Koblenz",
-    "date": "2026-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Luis A. aus Magdeburg",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr tolle uhr. Die Schließe am Armband wirkt sehr stabil und sicher. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Arne I. aus Göttingen",
     "date": "2026-01-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Emil Z. aus Herne",
+    "content": "Schon beim Auspacken merkt man die Qualität. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Gold-Blaues Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Lukas G. aus Wiesbaden",
     "date": "2026-01-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Sascha F. aus Schwerin",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Elegant hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Peter E. aus Nürnberg",
     "date": "2026-01-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Liam G. aus Ludwigshafen",
-    "date": "2026-01-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Laura T. aus Ludwigsburg",
+    "content": "Die Optik ist einfach unschlagbar. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Kevin W. aus Stuttgart",
     "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Lenny M. aus Dortmund",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr elegant. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Silke J. aus Bremerhaven",
     "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Nico M. aus Gelsenkirchen",
+    "content": "Boss enttäuscht einfach nie. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Klassikeres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Christina W. aus Gera",
     "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Sabine D. aus Nürnberg",
-    "date": "2026-01-08"
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr gold-blau. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Max B. aus Erfurt",
+    "date": "2026-01-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Tanja Z. aus Hamburg",
-    "date": "2026-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Luca Y. aus Augsburg",
-    "date": "2026-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Monika G. aus Siegen",
-    "date": "2026-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Valentin B. aus Duisburg",
+    "content": "Hervorragend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Robin H. aus Düsseldorf",
     "date": "2026-01-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Christina Q. aus Erfurt",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr hingucker. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Lisa Q. aus Witten",
     "date": "2026-01-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Max O. aus Moers",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr klassiker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Florian D. aus Oldenburg",
+    "date": "2026-01-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr gold-blau. Besonders das Zifferblatt reflektiert das Licht wunderschön. Danke an Karinex für den tollen Service.",
+    "customer_name": "Melanie W. aus Köln",
     "date": "2026-01-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Katharina W. aus Rostock",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr hingucker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Alexander D. aus Mainz",
     "date": "2026-01-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Petra B. aus Hamm",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Elegant hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Klassikeres Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Bernd F. aus Reutlingen",
     "date": "2026-01-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Stefanie H. aus Gütersloh",
-    "date": "2026-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Leon Q. aus Bielefeld",
+    "content": "Das Armband trägt sich sehr angenehm. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Klassiker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Elegantes Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Robin S. aus Darmstadt",
     "date": "2025-12-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Julian T. aus Mainz",
-    "date": "2025-12-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Paul Z. aus Potsdam",
-    "date": "2025-12-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Liam O. aus Saarbrücken",
-    "date": "2025-12-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Anton C. aus Cottbus",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr elegant. Die Bedienung der Drücker fühlt sich wertig an. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Luis G. aus Göttingen",
     "date": "2025-12-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Jonas T. aus Krefeld",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr elegant. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Patrick G. aus Solingen",
     "date": "2025-12-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Elias V. aus Bottrop",
-    "date": "2025-12-26"
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr tolle uhr. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jannik B. aus Düsseldorf",
+    "date": "2025-12-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Petra Q. aus Stuttgart",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr elegant. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Heike G. aus Koblenz",
     "date": "2025-12-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Noah D. aus Halle (Saale)",
-    "date": "2025-12-23"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr klassiker. Die Chronographen-Funktionen arbeiten einwandfrei. Danke an Karinex für den tollen Service.",
+    "customer_name": "Tobias V. aus Düsseldorf",
+    "date": "2025-12-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Samuel N. aus Chemnitz",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Hingucker hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Klassikeres Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Arne M. aus Leipzig",
+    "date": "2025-12-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Elegant hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Markus O. aus Stuttgart",
     "date": "2025-12-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Timo E. aus Bottrop",
-    "date": "2025-12-21"
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr elegant. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Jürgen T. aus Bremen",
+    "date": "2025-12-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Niklas O. aus München",
-    "date": "2025-12-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Felix W. aus Essen",
-    "date": "2025-12-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Oskar P. aus Heidelberg",
-    "date": "2025-12-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Luis Q. aus Hanau",
-    "date": "2025-12-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Adrian H. aus Pforzheim",
-    "date": "2025-12-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Sandra Q. aus Herne",
-    "date": "2025-12-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Petra T. aus Mülheim an der Ruhr",
-    "date": "2025-12-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Nicole C. aus Offenbach",
-    "date": "2025-12-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Claudia I. aus Düsseldorf",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Hinguckeres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Luis C. aus Pforzheim",
     "date": "2025-12-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Anna F. aus Gera",
+    "content": "Die Optik ist einfach unschlagbar. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Hinguckeres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Manuela X. aus Mainz",
     "date": "2025-12-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Benedikt S. aus Braunschweig",
-    "date": "2025-12-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Melanie S. aus Rostock",
-    "date": "2025-12-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Florian W. aus Hanau",
-    "date": "2025-12-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Tim V. aus Darmstadt",
-    "date": "2025-12-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Maria U. aus Moers",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr klassiker. Die Zeiger bewegen sich sehr präzise. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Julian M. aus Saarbrücken",
     "date": "2025-12-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Lisa L. aus Moers",
-    "date": "2025-12-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Vincent E. aus Gütersloh",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Gold-Blaues Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Florian Y. aus Oberhausen",
     "date": "2025-12-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Valentin P. aus Halle (Saale)",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr elegant. Die Chronographen-Funktionen arbeiten einwandfrei. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Matteo J. aus Krefeld",
+    "date": "2025-12-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr tolle uhr. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Dominik B. aus Ingolstadt",
+    "date": "2025-12-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr tolle uhr. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Silke P. aus Freiburg",
     "date": "2025-12-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Sandra V. aus Stuttgart",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr klassiker. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Felix O. aus Ludwigsburg",
     "date": "2025-12-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Alexander R. aus Herne",
-    "date": "2025-12-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Christoph L. aus Gera",
-    "date": "2025-12-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Birgit W. aus Kaiserslautern",
-    "date": "2025-12-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Theo L. aus Iserlohn",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Klassiker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Henry N. aus Oberhausen",
     "date": "2025-12-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Simon V. aus Moers",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr tolle uhr. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Hannes E. aus Magdeburg",
+    "date": "2025-12-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr hingucker. Die Kombination aus Materialien wirkt sehr hochwertig. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Florian F. aus Saarbrücken",
     "date": "2025-12-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Katharina B. aus Potsdam",
-    "date": "2025-12-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Jannik E. aus Herne",
-    "date": "2025-12-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Elias P. aus Schwerin",
-    "date": "2025-12-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Arne X. aus Dresden",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Tolle Uhres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Matteo N. aus Salzgitter",
     "date": "2025-12-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Lenny D. aus Iserlohn",
-    "date": "2025-12-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Claudia D. aus Ulm",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr hingucker. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Tobias W. aus Magdeburg",
     "date": "2025-12-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Marlon A. aus Rostock",
-    "date": "2025-12-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Sascha A. aus Saarbrücken",
-    "date": "2025-12-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Jannik C. aus Potsdam",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr klassiker. Die Zeiger bewegen sich sehr präzise. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Dominik M. aus Krefeld",
     "date": "2025-12-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Oskar K. aus Potsdam",
+    "content": "Gerne wieder.",
+    "customer_name": "Johannes M. aus Kaiserslautern",
     "date": "2025-11-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Laura L. aus Wuppertal",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr klassiker. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Nicole T. aus Köln",
+    "date": "2025-11-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Martin T. aus Krefeld",
+    "date": "2025-11-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr klassiker. Die Bedienung der Drücker fühlt sich wertig an. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Lenny L. aus Karlsruhe",
     "date": "2025-11-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Timo V. aus Kaiserslautern",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Tanja N. aus Gelsenkirchen",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Emil Y. aus Ulm",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Laura Y. aus Nürnberg",
-    "date": "2025-11-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Philipp X. aus Karlsruhe",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr tolle uhr. Die Kombination aus Materialien wirkt sehr hochwertig. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Alexander A. aus Essen",
     "date": "2025-11-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Lukas J. aus Essen",
-    "date": "2025-11-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Sandra D. aus Hannover",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Yannick C. aus Lübeck",
     "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Florian L. aus Stuttgart",
-    "date": "2025-11-25"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Elegantes Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Adrian O. aus Trier",
+    "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Samuel O. aus Oldenburg",
-    "date": "2025-11-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Alexander W. aus Hannover",
+    "content": "Jeden Cent wert.",
+    "customer_name": "Ben S. aus Erfurt",
     "date": "2025-11-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Ben J. aus Gera",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr tolle uhr. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Jan U. aus Frankfurt",
     "date": "2025-11-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Claudia U. aus Solingen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Gold-Blaues Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Oskar R. aus Krefeld",
     "date": "2025-11-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Julia Z. aus Kaiserslautern",
-    "date": "2025-11-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Melanie T. aus Augsburg",
-    "date": "2025-11-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Leo M. aus Frankfurt",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr hingucker. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Maria N. aus Münster",
     "date": "2025-11-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Alexander A. aus Nürnberg",
-    "date": "2025-11-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Tobias U. aus Regensburg",
-    "date": "2025-11-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Luca K. aus Bremen",
-    "date": "2025-11-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Paul J. aus Salzgitter",
-    "date": "2025-11-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Anton J. aus Offenbach",
-    "date": "2025-11-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Simon U. aus Köln",
-    "date": "2025-11-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Nicole W. aus Würzburg",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Hinguckeres Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Florian K. aus Bielefeld",
     "date": "2025-11-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Felix Z. aus Stuttgart",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Martin B. aus Salzgitter",
+    "date": "2025-11-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr tolle uhr. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Philipp E. aus Augsburg",
+    "date": "2025-11-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Hinguckeres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Michael L. aus Heidelberg",
+    "date": "2025-11-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr hingucker. Die Zeiger bewegen sich sehr präzise. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "David K. aus Wiesbaden",
     "date": "2025-11-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Malte O. aus Cottbus",
-    "date": "2025-11-17"
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr hingucker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Alexander Z. aus Ludwigshafen",
+    "date": "2025-11-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Sandra D. aus Cottbus",
-    "date": "2025-11-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Johannes W. aus Reutlingen",
+    "content": "Alles perfekt.",
+    "customer_name": "Florian Y. aus Potsdam",
     "date": "2025-11-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Max S. aus Wuppertal",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Florian B. aus Kaiserslautern",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Niklas V. aus Bottrop",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Ben J. aus Bonn",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Florian C. aus Berlin",
-    "date": "2025-11-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Julian G. aus Gera",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Maximilian N. aus Remscheid",
     "date": "2025-11-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Laura I. aus Hamm",
-    "date": "2025-11-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Petra W. aus Stuttgart",
-    "date": "2025-11-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Julian D. aus Hamm",
-    "date": "2025-11-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Matteo Q. aus Freiburg",
-    "date": "2025-11-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Birgit T. aus Hanau",
-    "date": "2025-11-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Sarah H. aus Solingen",
-    "date": "2025-11-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Dominik G. aus Schwerin",
-    "date": "2025-11-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Leo I. aus Duisburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Klassiker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Elegantes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Sabine E. aus Erfurt",
     "date": "2025-11-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Elias D. aus Saarbrücken",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr elegant. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Dennis F. aus Bergisch Gladbach",
+    "date": "2025-11-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr gold-blau. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Jan R. aus Bielefeld",
     "date": "2025-11-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Ben Y. aus Bonn",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Hingucker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Maria B. aus Moers",
     "date": "2025-11-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Ben O. aus Reutlingen",
-    "date": "2025-11-06"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Johannes X. aus Offenbach",
+    "date": "2025-11-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Philipp U. aus Oldenburg",
-    "date": "2025-11-06"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr elegant. Die Bedienung der Drücker fühlt sich wertig an. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Nadine Z. aus Osnabrück",
+    "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Valentin B. aus Schwerin",
-    "date": "2025-11-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Julian A. aus Ingolstadt",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr elegant. Die Indizes sind sauber gesetzt und gut lesbar. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Simon L. aus Hannover",
     "date": "2025-11-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Lukas E. aus Bergisch Gladbach",
-    "date": "2025-11-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Leon B. aus Darmstadt",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr elegant. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Uwe Q. aus Erlangen",
     "date": "2025-11-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Vincent D. aus Düsseldorf",
+    "content": "Sehr elegant.",
+    "customer_name": "Arne L. aus Ingolstadt",
     "date": "2025-11-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Max T. aus Kassel",
-    "date": "2025-11-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Kerstin R. aus Recklinghausen",
-    "date": "2025-11-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Nicole N. aus Hildesheim",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr tolle uhr. Das Logo ist dezent aber präsent integriert. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Tobias S. aus Mainz",
     "date": "2025-11-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Luis U. aus Nürnberg",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr hingucker. Die Chronographen-Funktionen arbeiten einwandfrei. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Tim F. aus Rostock",
     "date": "2025-10-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Johannes M. aus Duisburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Oskar L. aus Rostock",
     "date": "2025-10-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Tanja N. aus Iserlohn",
-    "date": "2025-10-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Jonas K. aus Leverkusen",
+    "content": "Hervorragend.",
+    "customer_name": "Sebastian B. aus Leverkusen",
     "date": "2025-10-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Christoph X. aus Leipzig",
-    "date": "2025-10-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Julia O. aus Herne",
-    "date": "2025-10-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Leo Z. aus Oberhausen",
-    "date": "2025-10-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Oskar W. aus Hildesheim",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr elegant. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Leo E. aus Göttingen",
     "date": "2025-10-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Christina A. aus Ludwigsburg",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr klassiker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Florian J. aus Bonn",
+    "date": "2025-10-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Anton I. aus Regensburg",
+    "date": "2025-10-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr gold-blau. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Dennis D. aus Oldenburg",
     "date": "2025-10-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Finn S. aus Hannover",
+    "content": "Boss enttäuscht einfach nie. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Klassikeres Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Kilian U. aus Frankfurt",
     "date": "2025-10-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Henry Y. aus Dortmund",
+    "content": "Die Optik ist einfach unschlagbar. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Klassikeres Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Christian D. aus Ludwigsburg",
     "date": "2025-10-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Sascha A. aus Paderborn",
+    "content": "Schnelle Lieferung.",
+    "customer_name": "Stefan N. aus Ingolstadt",
+    "date": "2025-10-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Martina Z. aus Solingen",
+    "date": "2025-10-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr gold-blau. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Lukas Q. aus Heidelberg",
+    "date": "2025-10-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Boss enttäuscht einfach nie. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Elegant hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Milan T. aus Bremerhaven",
+    "date": "2025-10-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Arne R. aus Bonn",
     "date": "2025-10-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Arne O. aus Hannover",
-    "date": "2025-10-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Kerstin Y. aus Erlangen",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr klassiker. Die Indizes sind sauber gesetzt und gut lesbar. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Hannes L. aus Nürnberg",
     "date": "2025-10-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Liam E. aus Wiesbaden",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Stefanie N. aus Hanau",
-    "date": "2025-10-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Nadine R. aus Herne",
+    "content": "Preis-Leistung stimmt.",
+    "customer_name": "Justus V. aus Mainz",
     "date": "2025-10-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "David A. aus Rostock",
-    "date": "2025-10-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Simon D. aus Trier",
-    "date": "2025-10-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Tobias A. aus Iserlohn",
-    "date": "2025-10-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Leon H. aus Dresden",
-    "date": "2025-10-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Tom J. aus Ingolstadt",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Klassiker hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Thomas Q. aus Berlin",
     "date": "2025-10-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Florian F. aus Leverkusen",
-    "date": "2025-10-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Tim V. aus Recklinghausen",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Felix S. aus Hamburg",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Moritz C. aus Bochum",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Petra F. aus Wolfsburg",
-    "date": "2025-10-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Yannick X. aus Münster",
+    "content": "Schon beim Auspacken merkt man die Qualität. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Elegant hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Klassikeres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Elias I. aus Pforzheim",
     "date": "2025-10-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Max S. aus Mannheim",
-    "date": "2025-10-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Arne T. aus Gütersloh",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr klassiker. Die Schließe am Armband wirkt sehr stabil und sicher. Danke an Karinex für den tollen Service.",
+    "customer_name": "Markus G. aus Hagen",
     "date": "2025-10-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Susanne E. aus Oldenburg",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Anna V. aus Heilbronn",
     "date": "2025-10-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Katharina I. aus Hanau",
+    "content": "Ein wirklich tolles Stück. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Klassikeres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Lenny U. aus Nürnberg",
     "date": "2025-10-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Nicole O. aus Rostock",
-    "date": "2025-10-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Theo U. aus Ulm",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr gold-blau. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Luca A. aus Paderborn",
     "date": "2025-10-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Sabine Q. aus Chemnitz",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Tolle Uhres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Nico M. aus Krefeld",
+    "date": "2025-10-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Gold-Blaues Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Erik C. aus Augsburg",
+    "date": "2025-10-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Tolle Uhres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Paul X. aus Saarbrücken",
     "date": "2025-10-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Maximilian S. aus Wiesbaden",
-    "date": "2025-10-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Petra C. aus Schwerin",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr hingucker. Die Indizes sind sauber gesetzt und gut lesbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Laura O. aus Solingen",
     "date": "2025-10-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Petra S. aus Paderborn",
+    "content": "Preis-Leistung stimmt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Leon Y. aus Lübeck",
     "date": "2025-10-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Melanie G. aus Osnabrück",
-    "date": "2025-10-10"
+    "content": "Das Armband trägt sich sehr angenehm. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Hinguckeres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Melanie O. aus Siegen",
+    "date": "2025-10-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Laura C. aus Pforzheim",
-    "date": "2025-10-10"
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Tolle Uhres Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Leo N. aus Hildesheim",
+    "date": "2025-10-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Stefanie L. aus Reutlingen",
-    "date": "2025-10-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Maximilian J. aus Regensburg",
-    "date": "2025-10-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Petra P. aus Wiesbaden",
+    "content": "Das Armband trägt sich sehr angenehm. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Valentin L. aus Cottbus",
     "date": "2025-10-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Matteo V. aus Bottrop",
-    "date": "2025-10-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Andrea W. aus Dresden",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Klassiker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Hinguckeres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Finn N. aus Witten",
     "date": "2025-10-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Claudia T. aus Saarbrücken",
+    "content": "Einfach edel. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Robin B. aus Bottrop",
+    "date": "2025-10-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr tolle uhr. Die Zeiger bewegen sich sehr präzise. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Max V. aus Düsseldorf",
+    "date": "2025-10-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Bastian K. aus Wolfsburg",
+    "date": "2025-10-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr tolle uhr. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Sabine M. aus Essen",
     "date": "2025-10-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Justus X. aus Bonn",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Hingucker hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Elegantes Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Malte H. aus Erfurt",
     "date": "2025-10-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Noah D. aus Moers",
-    "date": "2025-10-05"
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr gold-blau. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Justus A. aus Hamburg",
+    "date": "2025-10-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Fabian T. aus Pforzheim",
-    "date": "2025-10-04"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Mats A. aus Mainz",
+    "date": "2025-10-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Niklas K. aus Mülheim an der Ruhr",
-    "date": "2025-10-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Alexander H. aus Neuss",
-    "date": "2025-10-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Valentin I. aus Bochum",
-    "date": "2025-10-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Liam A. aus Erlangen",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr elegant. Die Chronographen-Funktionen arbeiten einwandfrei. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Julian M. aus Halle (Saale)",
     "date": "2025-10-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Fabian B. aus Wolfsburg",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr hingucker. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Noah C. aus Wuppertal",
     "date": "2025-10-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Paul A. aus Solingen",
-    "date": "2025-10-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Florian H. aus Cottbus",
-    "date": "2025-09-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Nicole Y. aus Münster",
-    "date": "2025-09-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Susanne N. aus Karlsruhe",
+    "content": "Das Armband trägt sich sehr angenehm. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Luis Z. aus Nürnberg",
     "date": "2025-09-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Dennis T. aus Würzburg",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Stefanie C. aus Solingen",
     "date": "2025-09-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Moritz K. aus Iserlohn",
-    "date": "2025-09-28"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Hannes I. aus Chemnitz",
+    "date": "2025-09-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Luis P. aus Hannover",
-    "date": "2025-09-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Benedikt I. aus Dortmund",
-    "date": "2025-09-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Ben S. aus Karlsruhe",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr elegant. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Lenny F. aus Ludwigshafen",
     "date": "2025-09-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Lukas I. aus Regensburg",
+    "content": "Super verpackt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Oskar J. aus Rostock",
     "date": "2025-09-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Maria I. aus Münster",
+    "content": "Das Armband trägt sich sehr angenehm. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Danke an Karinex für den tollen Service.",
+    "customer_name": "Luca Z. aus Pforzheim",
     "date": "2025-09-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Hannes R. aus Dresden",
-    "date": "2025-09-24"
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Hingucker hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Elegantes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Mats N. aus Wolfsburg",
+    "date": "2025-09-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Kilian W. aus Schwerin",
-    "date": "2025-09-23"
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Hinguckeres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Benedikt C. aus Bremen",
+    "date": "2025-09-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Jonas S. aus Essen",
+    "content": "Ein wirklich tolles Stück. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Christian Z. aus Neuss",
     "date": "2025-09-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Henry W. aus Dresden",
+    "content": "Boss enttäuscht einfach nie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Insgesamt ein Hinguckeres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Anton I. aus Heidelberg",
     "date": "2025-09-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Tom U. aus Berlin",
-    "date": "2025-09-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Yannick X. aus Mannheim",
-    "date": "2025-09-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Melanie L. aus Heidelberg",
-    "date": "2025-09-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Laura L. aus Hanau",
-    "date": "2025-09-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Johannes F. aus Mönchengladbach",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Klassikeres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Adrian N. aus Oberhausen",
     "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Maximilian B. aus Nürnberg",
-    "date": "2025-09-16"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Matteo L. aus Erfurt",
+    "date": "2025-09-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Malte X. aus Krefeld",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr klassiker. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Matthias B. aus Köln",
     "date": "2025-09-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Kevin Y. aus Halle (Saale)",
-    "date": "2025-09-15"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Tolle Uhres Produkt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Melanie Q. aus Mannheim",
+    "date": "2025-09-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Leon J. aus Hamm",
-    "date": "2025-09-15"
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr elegant. Die Kombination aus Materialien wirkt sehr hochwertig. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Heike M. aus Wuppertal",
+    "date": "2025-09-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Alexander Q. aus Gera",
-    "date": "2025-09-14"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Alexander E. aus Kaiserslautern",
+    "date": "2025-09-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Lenny Y. aus Recklinghausen",
-    "date": "2025-09-14"
+    "content": "Schneller Versand. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Peter T. aus Darmstadt",
+    "date": "2025-09-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Robin S. aus Hamburg",
-    "date": "2025-09-14"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr klassiker. Die Schließe am Armband wirkt sehr stabil und sicher. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Alexander L. aus Witten",
+    "date": "2025-09-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Oskar J. aus Solingen",
-    "date": "2025-09-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Dominik K. aus Trier",
-    "date": "2025-09-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Bastian H. aus Mönchengladbach",
-    "date": "2025-09-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Bastian Y. aus Neuss",
-    "date": "2025-09-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Oskar K. aus Iserlohn",
-    "date": "2025-09-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Fabian Q. aus Remscheid",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr hingucker. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Timo U. aus Rostock",
     "date": "2025-09-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Robin S. aus Witten",
-    "date": "2025-09-08"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Tolle Uhres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Theo S. aus Paderborn",
+    "date": "2025-09-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Sandra M. aus Gütersloh",
-    "date": "2025-09-08"
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr gold-blau. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Andrea S. aus Gütersloh",
+    "date": "2025-09-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "David X. aus Wuppertal",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr elegant. Die Chronographen-Funktionen arbeiten einwandfrei. Danke an Karinex für den tollen Service.",
+    "customer_name": "David T. aus Oldenburg",
+    "date": "2025-09-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr gold-blau. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Alexander V. aus Bonn",
     "date": "2025-09-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Florian C. aus Bonn",
-    "date": "2025-09-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Paul H. aus Bremerhaven",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr elegant. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Michael O. aus Leipzig",
     "date": "2025-09-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Elias O. aus Osnabrück",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Tolle Uhres Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Lenny E. aus Karlsruhe",
     "date": "2025-09-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Anna P. aus Osnabrück",
+    "content": "Das Armband trägt sich sehr angenehm. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Tolle Uhres Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Nico R. aus Bottrop",
     "date": "2025-09-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Leo S. aus Augsburg",
-    "date": "2025-09-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Henry J. aus Halle (Saale)",
-    "date": "2025-09-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Nico O. aus Hanau",
-    "date": "2025-09-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Erik J. aus Heidelberg",
-    "date": "2025-09-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Ben H. aus Offenbach",
-    "date": "2025-08-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Christoph L. aus Wolfsburg",
-    "date": "2025-08-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Katharina Z. aus Moers",
-    "date": "2025-08-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Maximilian B. aus Heidelberg",
-    "date": "2025-08-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Max O. aus Iserlohn",
-    "date": "2025-08-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Hannes K. aus Bottrop",
-    "date": "2025-08-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Anja Z. aus Erfurt",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr klassiker. Das Design ist zeitlos und passt zu fast allem. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Markus Z. aus Darmstadt",
     "date": "2025-08-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Lenny U. aus Düsseldorf",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr hingucker. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Andreas K. aus Berlin",
     "date": "2025-08-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Lenny S. aus Erfurt",
-    "date": "2025-08-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Sandra N. aus Köln",
-    "date": "2025-08-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Susanne G. aus Mülheim an der Ruhr",
-    "date": "2025-08-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Oskar C. aus München",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Leo C. aus Ludwigsburg",
     "date": "2025-08-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Susanne O. aus Hannover",
-    "date": "2025-08-24"
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Klassikeres Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Justus T. aus Hanau",
+    "date": "2025-08-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "David L. aus Koblenz",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr klassiker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Maximilian H. aus Koblenz",
+    "date": "2025-08-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr tolle uhr. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Markus W. aus Düsseldorf",
     "date": "2025-08-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Leo V. aus Fürth",
-    "date": "2025-08-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Valentin G. aus Essen",
-    "date": "2025-08-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Claudia I. aus Freiburg",
-    "date": "2025-08-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Tobias D. aus Bremerhaven",
-    "date": "2025-08-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Johannes H. aus Darmstadt",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr tolle uhr. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Christian B. aus Heidelberg",
     "date": "2025-08-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Melanie G. aus Trier",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Hingucker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Stefan G. aus Hannover",
     "date": "2025-08-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Philipp T. aus Oberhausen",
+    "content": "Die Optik ist einfach unschlagbar. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Hinguckeres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Lukas M. aus Mannheim",
     "date": "2025-08-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Claudia C. aus Göttingen",
-    "date": "2025-08-21"
+    "content": "Boss enttäuscht einfach nie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Sabine K. aus Chemnitz",
+    "date": "2025-08-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Sabine O. aus Saarbrücken",
-    "date": "2025-08-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Alexander O. aus Kassel",
+    "content": "Ein wirklich tolles Stück. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Tom E. aus Darmstadt",
     "date": "2025-08-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Luca Z. aus Paderborn",
-    "date": "2025-08-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Sandra A. aus Ulm",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Hinguckeres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Monika Z. aus Osnabrück",
     "date": "2025-08-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Claudia Z. aus Düsseldorf",
-    "date": "2025-08-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Noah M. aus Schwerin",
-    "date": "2025-08-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Vincent S. aus Chemnitz",
+    "content": "Boss enttäuscht einfach nie. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Tolle Uhres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Bastian A. aus Leipzig",
     "date": "2025-08-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Paul Y. aus Schwerin",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Klassiker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Tobias B. aus Berlin",
     "date": "2025-08-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Fabian T. aus Hildesheim",
-    "date": "2025-08-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Justus W. aus Wolfsburg",
-    "date": "2025-08-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Christina E. aus Krefeld",
+    "content": "Schnelle Lieferung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Paul U. aus Bottrop",
     "date": "2025-08-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Susanne V. aus Bremerhaven",
-    "date": "2025-08-13"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr elegant. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Michael Z. aus Mannheim",
+    "date": "2025-08-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Dennis I. aus Augsburg",
-    "date": "2025-08-13"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Hingucker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Elegantes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Julian I. aus Braunschweig",
+    "date": "2025-08-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Monika A. aus Bremen",
-    "date": "2025-08-11"
+    "content": "Die Optik ist einfach unschlagbar. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Hingucker hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Elegantes Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Moritz L. aus Göttingen",
+    "date": "2025-08-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Dennis W. aus Ingolstadt",
-    "date": "2025-08-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Adrian I. aus Recklinghausen",
-    "date": "2025-08-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Niklas S. aus Ludwigsburg",
-    "date": "2025-08-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Luca L. aus Braunschweig",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Paul D. aus Bremen",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Philipp C. aus Ludwigsburg",
-    "date": "2025-08-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Tom A. aus Offenbach",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr klassiker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Oskar M. aus Bottrop",
     "date": "2025-08-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Arne N. aus Trier",
-    "date": "2025-08-08"
+    "content": "Hervorragend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Martina Z. aus Bochum",
+    "date": "2025-08-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Susanne S. aus Oldenburg",
-    "date": "2025-08-07"
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr elegant. Die Kombination aus Materialien wirkt sehr hochwertig. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Vincent J. aus Halle (Saale)",
+    "date": "2025-08-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Birgit A. aus Hamm",
-    "date": "2025-08-07"
+    "content": "Gerne wieder. Danke an Karinex für den tollen Service.",
+    "customer_name": "Kevin C. aus Osnabrück",
+    "date": "2025-08-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Philipp U. aus Frankfurt",
-    "date": "2025-08-07"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr klassiker. Die Indizes sind sauber gesetzt und gut lesbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Erik P. aus Salzgitter",
+    "date": "2025-08-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Luis B. aus Fürth",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Petra X. aus Reutlingen",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Lukas Z. aus Gütersloh",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Silke E. aus Moers",
     "date": "2025-08-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Paul L. aus Fürth",
+    "content": "Typisch Boss.",
+    "customer_name": "Nadine N. aus Hannover",
     "date": "2025-08-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Sandra N. aus Erfurt",
-    "date": "2025-08-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Anton K. aus Ingolstadt",
-    "date": "2025-08-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Timo Z. aus Recklinghausen",
-    "date": "2025-08-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Andrea P. aus Mülheim an der Ruhr",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Liam O. aus Gütersloh",
     "date": "2025-08-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Katharina K. aus Lübeck",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Valentin B. aus Essen",
     "date": "2025-08-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Paul R. aus Koblenz",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Vincent R. aus Kassel",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Arne M. aus Mannheim",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Sarah A. aus Hamm",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr gold-blau. Das Design ist zeitlos und passt zu fast allem. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Stefanie T. aus Salzgitter",
     "date": "2025-08-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Leo Y. aus Braunschweig",
+    "content": "Toller Hingucker. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Matthias H. aus Heidelberg",
+    "date": "2025-08-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Passt perfekt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Katharina O. aus Aachen",
+    "date": "2025-08-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Einfach edel. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Peter E. aus Braunschweig",
     "date": "2025-07-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Tobias Q. aus Koblenz",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Elias I. aus München",
     "date": "2025-07-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Andrea A. aus Leipzig",
+    "content": "Das Armband trägt sich sehr angenehm. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Felix E. aus Saarbrücken",
+    "date": "2025-07-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Oskar H. aus Erfurt",
     "date": "2025-07-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Henry C. aus Mannheim",
+    "content": "Besser als erwartet.",
+    "customer_name": "Robin V. aus Jena",
     "date": "2025-07-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Timo I. aus Oberhausen",
+    "content": "Ein wirklich tolles Stück. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Hingucker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Gold-Blaues Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Max I. aus Hanau",
     "date": "2025-07-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Sabine N. aus Bremen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Hingucker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Gold-Blaues Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Maximilian T. aus Kiel",
+    "date": "2025-07-29"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Heike X. aus Schwerin",
     "date": "2025-07-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Felix A. aus Fürth",
+    "content": "Wunderschöne Uhr.",
+    "customer_name": "Noah Z. aus Jena",
     "date": "2025-07-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Vincent J. aus Bochum",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Tolle Uhres Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Leon T. aus Bremen",
     "date": "2025-07-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Lukas C. aus Moers",
-    "date": "2025-07-27"
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr hingucker. Die Indizes sind sauber gesetzt und gut lesbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Henry Y. aus Erfurt",
+    "date": "2025-07-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Elias I. aus Erlangen",
-    "date": "2025-07-25"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr hingucker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Benedikt Q. aus Halle (Saale)",
+    "date": "2025-07-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Katharina W. aus Würzburg",
-    "date": "2025-07-25"
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Elegantes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Andrea W. aus Cottbus",
+    "date": "2025-07-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Nicole X. aus Osnabrück",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr gold-blau. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Marlon Q. aus Trier",
     "date": "2025-07-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Milan N. aus Kiel",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Leo F. aus Erlangen",
+    "date": "2025-07-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Alexander I. aus Hanau",
+    "date": "2025-07-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Klassikeres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Maximilian C. aus Potsdam",
+    "date": "2025-07-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Hingucker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Felix K. aus Nürnberg",
     "date": "2025-07-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Anton A. aus Saarbrücken",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr tolle uhr. Das Glas scheint sehr robust gegen Kratzer zu sein. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Tim D. aus Krefeld",
+    "date": "2025-07-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Benedikt Y. aus Braunschweig",
+    "date": "2025-07-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr tolle uhr. Das Logo ist dezent aber präsent integriert. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Dominik W. aus Bottrop",
     "date": "2025-07-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Leo D. aus Leverkusen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr elegant. Die Bedienung der Drücker fühlt sich wertig an. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Florian I. aus Frankfurt",
     "date": "2025-07-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Hannes G. aus Oldenburg",
-    "date": "2025-07-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Maximilian Z. aus Mülheim an der Ruhr",
-    "date": "2025-07-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Nicole Y. aus Moers",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Melanie V. aus Dresden",
     "date": "2025-07-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Fabian K. aus Paderborn",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Klassiker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Gold-Blaues Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Erik E. aus Berlin",
     "date": "2025-07-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Nadine F. aus Ludwigshafen",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Hingucker hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Insgesamt ein Hinguckeres Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Nico T. aus Moers",
     "date": "2025-07-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Malte C. aus Pforzheim",
-    "date": "2025-07-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Sarah H. aus Nürnberg",
-    "date": "2025-07-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Anton M. aus Oldenburg",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Gold-Blaues Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Valentin H. aus Ulm",
     "date": "2025-07-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Tanja P. aus Hildesheim",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Silke V. aus Trier",
     "date": "2025-07-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Tim F. aus Hamburg",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Hinguckeres Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Susanne U. aus Bottrop",
     "date": "2025-07-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Timo T. aus Iserlohn",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr hingucker. Die Zeiger bewegen sich sehr präzise. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Matthias Q. aus Witten",
     "date": "2025-07-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Nicole V. aus Paderborn",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr elegant. Die Indizes sind sauber gesetzt und gut lesbar. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Julia I. aus Regensburg",
     "date": "2025-07-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Christina K. aus Reutlingen",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Daniel K. aus Gütersloh",
     "date": "2025-07-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Tim O. aus Braunschweig",
-    "date": "2025-07-11"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Hingucker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Tolle Uhres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Dominik C. aus Hamburg",
+    "date": "2025-07-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Yannick K. aus Gelsenkirchen",
+    "content": "Typisch Boss. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Dennis M. aus Solingen",
     "date": "2025-07-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Tanja O. aus Remscheid",
-    "date": "2025-07-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Birgit K. aus Paderborn",
-    "date": "2025-07-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Tanja F. aus Halle (Saale)",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr gold-blau. Das Logo ist dezent aber präsent integriert. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Markus G. aus Mönchengladbach",
     "date": "2025-07-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Sabine S. aus Oberhausen",
-    "date": "2025-07-07"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Klassikeres Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Erik P. aus Hamm",
+    "date": "2025-07-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Sascha W. aus Potsdam",
+    "content": "Besser als erwartet. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Maria T. aus Gütersloh",
     "date": "2025-07-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Melanie U. aus Darmstadt",
-    "date": "2025-07-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Monika M. aus Heidelberg",
-    "date": "2025-07-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Nicole P. aus Halle (Saale)",
-    "date": "2025-07-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Leon A. aus Chemnitz",
-    "date": "2025-07-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Julian N. aus Düsseldorf",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Hinguckeres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Noah P. aus Aachen",
     "date": "2025-07-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Leo F. aus Münster",
-    "date": "2025-07-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Sascha E. aus Mönchengladbach",
-    "date": "2025-07-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Monika Q. aus Erfurt",
-    "date": "2025-07-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Nadine I. aus Offenbach",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr gold-blau. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Moritz O. aus Frankfurt",
     "date": "2025-07-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Elias X. aus Stuttgart",
-    "date": "2025-07-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Finn C. aus Ulm",
-    "date": "2025-07-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Jannik E. aus Iserlohn",
-    "date": "2025-07-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Monika M. aus Stuttgart",
-    "date": "2025-07-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Elias J. aus Berlin",
-    "date": "2025-07-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Niklas R. aus Hanau",
-    "date": "2025-07-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Christina J. aus Dortmund",
-    "date": "2025-07-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Tim U. aus Bergisch Gladbach",
-    "date": "2025-07-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Melanie O. aus Köln",
-    "date": "2025-07-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Valentin D. aus Bottrop",
+    "content": "Einfach edel.",
+    "customer_name": "Elias U. aus Köln",
     "date": "2025-06-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Lenny Z. aus Osnabrück",
-    "date": "2025-06-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Leon E. aus Mainz",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr elegant. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Samuel P. aus Leipzig",
     "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Simon R. aus Salzgitter",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr elegant. Das Design ist zeitlos und passt zu fast allem. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Valentin T. aus Bonn",
     "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Claudia F. aus Jena",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr klassiker. Das Kürzen des Metallarmbands ging problemlos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Johannes B. aus Erlangen",
     "date": "2025-06-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Jan H. aus Dresden",
-    "date": "2025-06-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Jannik X. aus Bergisch Gladbach",
-    "date": "2025-06-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Tanja A. aus Hagen",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Noah N. aus Reutlingen",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Anton Z. aus Wolfsburg",
-    "date": "2025-06-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Lenny N. aus Bergisch Gladbach",
+    "content": "Schneller Versand.",
+    "customer_name": "Luis T. aus Gütersloh",
     "date": "2025-06-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Monika G. aus Paderborn",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Tolle Uhres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Dominik W. aus Bonn",
     "date": "2025-06-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "David B. aus Lübeck",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr klassiker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Daniel Q. aus Gelsenkirchen",
     "date": "2025-06-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Lisa A. aus Recklinghausen",
-    "date": "2025-06-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Malte I. aus Rostock",
-    "date": "2025-06-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Tom E. aus Lübeck",
-    "date": "2025-06-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Dominik H. aus Schwerin",
-    "date": "2025-06-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Florian E. aus Erlangen",
-    "date": "2025-06-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Julia M. aus Bremen",
-    "date": "2025-06-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Lenny K. aus Solingen",
-    "date": "2025-06-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Tom F. aus Bottrop",
-    "date": "2025-06-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Andrea H. aus Siegen",
-    "date": "2025-06-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Finn Z. aus Aachen",
-    "date": "2025-06-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Yannick M. aus Würzburg",
-    "date": "2025-06-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Sascha S. aus Hanau",
-    "date": "2025-06-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Simon W. aus Wuppertal",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr hingucker. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Felix L. aus Recklinghausen",
     "date": "2025-06-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Sarah X. aus Saarbrücken",
-    "date": "2025-06-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Bastian Q. aus Oldenburg",
-    "date": "2025-06-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Bastian X. aus München",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Tom T. aus Hamm",
     "date": "2025-06-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Christina S. aus Heidelberg",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Emil B. aus Oldenburg",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Valentin S. aus Reutlingen",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Nadine W. aus Ingolstadt",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Ben L. aus Heidelberg",
-    "date": "2025-06-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Nadine Y. aus Solingen",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr gold-blau. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Matteo I. aus Saarbrücken",
     "date": "2025-06-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Julian L. aus Siegen",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr gold-blau. Auch nach längerem Tragen spürt man sie kaum am Arm. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Oskar M. aus Mülheim an der Ruhr",
     "date": "2025-06-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Yannick C. aus Bergisch Gladbach",
-    "date": "2025-06-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Jan E. aus Köln",
-    "date": "2025-06-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Petra Q. aus Offenbach",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Klassikeres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "David C. aus Wiesbaden",
     "date": "2025-06-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Julian P. aus Paderborn",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr elegant. Das Logo ist dezent aber präsent integriert. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Paul N. aus Bielefeld",
     "date": "2025-06-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Adrian C. aus Hamm",
-    "date": "2025-06-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Moritz Z. aus Gera",
+    "content": "Klasse Design.",
+    "customer_name": "Finn S. aus Neuss",
     "date": "2025-06-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Christina O. aus Oldenburg",
-    "date": "2025-06-10"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Tolle Uhres Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Stefan S. aus Hildesheim",
+    "date": "2025-06-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Elias J. aus Koblenz",
-    "date": "2025-06-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Oskar C. aus Kiel",
-    "date": "2025-06-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Yannick U. aus Magdeburg",
+    "content": "Die Optik ist einfach unschlagbar. Das Modell wirkt sehr elegant. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Noah Y. aus Chemnitz",
     "date": "2025-06-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Maximilian V. aus Hamm",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr hingucker. Die Kombination aus Materialien wirkt sehr hochwertig. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Robin O. aus Regensburg",
     "date": "2025-06-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Florian Q. aus Osnabrück",
-    "date": "2025-06-07"
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr klassiker. Die Chronographen-Funktionen arbeiten einwandfrei. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Marlon Z. aus Krefeld",
+    "date": "2025-06-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Timo I. aus Augsburg",
-    "date": "2025-06-07"
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr gold-blau. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Niklas G. aus Bremen",
+    "date": "2025-06-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Johannes R. aus Pforzheim",
-    "date": "2025-06-07"
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr hingucker. Die Zeiger bewegen sich sehr präzise. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Malte V. aus Leipzig",
+    "date": "2025-06-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Ben E. aus Leverkusen",
-    "date": "2025-06-07"
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr hingucker. Das Kürzen des Metallarmbands ging problemlos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Jannik V. aus Bonn",
+    "date": "2025-06-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Leo E. aus Heidelberg",
-    "date": "2025-06-05"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr gold-blau. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Emil T. aus Bonn",
+    "date": "2025-06-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Elias S. aus Hannover",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Tolle Uhres Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Max V. aus Bottrop",
     "date": "2025-06-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Theo Y. aus Ludwigshafen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Klassiker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Julia P. aus Ulm",
     "date": "2025-06-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Timo L. aus Pforzheim",
+    "content": "Passt perfekt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Anja T. aus Remscheid",
     "date": "2025-06-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Luca N. aus Jena",
+    "content": "Schon beim Auspacken merkt man die Qualität. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Elegant hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Elegantes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Maria B. aus Heidelberg",
     "date": "2025-06-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Philipp Q. aus Krefeld",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Hingucker hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sascha T. aus Bremen",
     "date": "2025-06-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Katharina P. aus Bremerhaven",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr gold-blau. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Justus Z. aus Regensburg",
     "date": "2025-06-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Christina F. aus Kiel",
-    "date": "2025-06-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Samuel O. aus Schwerin",
-    "date": "2025-06-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Moritz O. aus Hanau",
-    "date": "2025-06-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Benedikt I. aus Potsdam",
+    "content": "Super verpackt.",
+    "customer_name": "Anton L. aus Köln",
     "date": "2025-05-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Philipp S. aus Pforzheim",
-    "date": "2025-05-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Lukas Z. aus Magdeburg",
-    "date": "2025-05-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Kilian A. aus Gera",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr klassiker. Das Design ist zeitlos und passt zu fast allem. Danke an Karinex für den tollen Service.",
+    "customer_name": "Jürgen I. aus Mainz",
     "date": "2025-05-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Nicole L. aus Koblenz",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Elegantes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Bastian S. aus Witten",
     "date": "2025-05-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Julian B. aus Fürth",
-    "date": "2025-05-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Tobias J. aus Augsburg",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr elegant. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Manuela P. aus Hannover",
     "date": "2025-05-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Arne T. aus Nürnberg",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Hinguckeres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Kerstin V. aus Herne",
+    "date": "2025-05-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "David J. aus Bremerhaven",
     "date": "2025-05-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Monika B. aus Bergisch Gladbach",
-    "date": "2025-05-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Dominik E. aus Würzburg",
-    "date": "2025-05-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Moritz L. aus Ingolstadt",
-    "date": "2025-05-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Arne V. aus Ludwigsburg",
-    "date": "2025-05-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Andrea O. aus Dortmund",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Elegantes Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Simon V. aus München",
     "date": "2025-05-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Anja X. aus Münster",
-    "date": "2025-05-22"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Hingucker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Adrian Y. aus Halle (Saale)",
+    "date": "2025-05-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Anna O. aus Jena",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Theo X. aus Dortmund",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Tom R. aus Ludwigshafen",
-    "date": "2025-05-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Henry M. aus Gera",
-    "date": "2025-05-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Luca Q. aus Frankfurt",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Hingucker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "David O. aus Rostock",
     "date": "2025-05-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Melanie A. aus Osnabrück",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Sascha D. aus Hagen",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Anton J. aus Bremen",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Timo M. aus Hanau",
-    "date": "2025-05-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Lenny T. aus Gelsenkirchen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Dominik B. aus Leverkusen",
     "date": "2025-05-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Fabian A. aus Schwerin",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Gold-Blaues Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Robin P. aus Fürth",
     "date": "2025-05-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Katharina C. aus Gelsenkirchen",
-    "date": "2025-05-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Lukas N. aus Heilbronn",
-    "date": "2025-05-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Yannick R. aus Augsburg",
-    "date": "2025-05-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Luca W. aus Hamm",
-    "date": "2025-05-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Leon D. aus Wolfsburg",
-    "date": "2025-05-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Andrea A. aus Witten",
-    "date": "2025-05-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Nico H. aus Wiesbaden",
-    "date": "2025-05-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Erik W. aus Bonn",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Hinguckeres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Maximilian U. aus Braunschweig",
     "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Felix U. aus Esslingen",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Elegantes Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Heike K. aus Trier",
     "date": "2025-05-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Julia F. aus Ludwigshafen",
-    "date": "2025-05-16"
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr elegant. Die Kombination aus Materialien wirkt sehr hochwertig. Danke an Karinex für den tollen Service.",
+    "customer_name": "Henry L. aus Osnabrück",
+    "date": "2025-05-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Felix I. aus Heilbronn",
-    "date": "2025-05-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie U. aus Recklinghausen",
-    "date": "2025-05-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Max H. aus Mönchengladbach",
-    "date": "2025-05-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Dominik A. aus Gütersloh",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr tolle uhr. Das Logo ist dezent aber präsent integriert. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Petra Y. aus Regensburg",
     "date": "2025-05-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Niklas Q. aus Pforzheim",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr elegant. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Luis G. aus Hildesheim",
+    "date": "2025-05-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr klassiker. Das Design ist zeitlos und passt zu fast allem. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Michael K. aus Hamburg",
     "date": "2025-05-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Noah G. aus Essen",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr hingucker. Das Kürzen des Metallarmbands ging problemlos. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Nadine J. aus Saarbrücken",
     "date": "2025-05-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Bastian M. aus Nürnberg",
-    "date": "2025-05-12"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr tolle uhr. Besonders das Zifferblatt reflektiert das Licht wunderschön. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Markus H. aus Würzburg",
+    "date": "2025-05-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Christina K. aus Ulm",
-    "date": "2025-05-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Leo E. aus Schwerin",
-    "date": "2025-05-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Lisa W. aus München",
-    "date": "2025-05-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Kerstin Q. aus Essen",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr elegant. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Monika K. aus Siegen",
     "date": "2025-05-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Claudia G. aus Solingen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Danke an Karinex für den tollen Service.",
+    "customer_name": "Luca Q. aus Frankfurt",
     "date": "2025-05-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Philipp Z. aus Wiesbaden",
-    "date": "2025-05-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Malte K. aus Würzburg",
-    "date": "2025-05-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Lenny A. aus Fürth",
-    "date": "2025-05-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Monika M. aus Trier",
-    "date": "2025-05-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Finn W. aus Krefeld",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr tolle uhr. Die Schließe am Armband wirkt sehr stabil und sicher. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Tom I. aus Karlsruhe",
     "date": "2025-05-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Sandra V. aus Paderborn",
-    "date": "2025-05-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Anna W. aus Heilbronn",
-    "date": "2025-05-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "David I. aus Krefeld",
-    "date": "2025-05-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Maximilian C. aus Koblenz",
+    "content": "Die Optik ist einfach unschlagbar. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Tolle Uhres Produkt. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Frank N. aus Hannover",
     "date": "2025-05-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Julian U. aus Hanau",
-    "date": "2025-05-02"
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr hingucker. Die Zeiger bewegen sich sehr präzise. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Luca V. aus Augsburg",
+    "date": "2025-05-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Monika A. aus Düsseldorf",
-    "date": "2025-05-02"
+    "content": "Massiv und wertig.",
+    "customer_name": "Florian G. aus Leverkusen",
+    "date": "2025-05-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Sabine A. aus Krefeld",
+    "content": "Das Armband trägt sich sehr angenehm. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Hinguckeres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Alexander B. aus Mülheim an der Ruhr",
+    "date": "2025-05-03"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr hingucker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Christian E. aus Fürth",
     "date": "2025-05-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Claudia X. aus Cottbus",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr elegant. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Marlon D. aus Ingolstadt",
     "date": "2025-05-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Oskar N. aus Wiesbaden",
-    "date": "2025-04-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Nico J. aus Pforzheim",
-    "date": "2025-04-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Moritz O. aus Braunschweig",
-    "date": "2025-04-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Julia H. aus Erlangen",
-    "date": "2025-04-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Robin C. aus Koblenz",
+    "content": "Toller Hingucker.",
+    "customer_name": "Birgit U. aus Ludwigsburg",
     "date": "2025-04-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Alexander E. aus Recklinghausen",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Klassikeres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Leon P. aus Stuttgart",
     "date": "2025-04-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Susanne M. aus Dortmund",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Marlon I. aus Augsburg",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Julian I. aus Salzgitter",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Bastian A. aus Mannheim",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Susanne D. aus Ulm",
-    "date": "2025-04-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Lenny F. aus Karlsruhe",
-    "date": "2025-04-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Hannes T. aus Fürth",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr tolle uhr. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Nicole W. aus Heilbronn",
     "date": "2025-04-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Malte A. aus Schwerin",
-    "date": "2025-04-24"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr elegant. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Danke an Karinex für den tollen Service.",
+    "customer_name": "Sarah P. aus Jena",
+    "date": "2025-04-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Kilian H. aus Hamm",
-    "date": "2025-04-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Erik H. aus Wolfsburg",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Klassiker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Hinguckeres Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Dominik B. aus Esslingen",
     "date": "2025-04-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Arne N. aus Heilbronn",
-    "date": "2025-04-21"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Andrea K. aus Cottbus",
+    "date": "2025-04-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Melanie W. aus Offenbach",
-    "date": "2025-04-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Sabine E. aus Salzgitter",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Marlon G. aus Darmstadt",
     "date": "2025-04-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Robin O. aus Solingen",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr tolle uhr. Das Design ist zeitlos und passt zu fast allem. Danke an Karinex für den tollen Service.",
+    "customer_name": "Laura T. aus Kaiserslautern",
     "date": "2025-04-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Kerstin P. aus Chemnitz",
-    "date": "2025-04-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "David P. aus Leverkusen",
-    "date": "2025-04-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Susanne W. aus Wuppertal",
-    "date": "2025-04-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Julian B. aus Witten",
-    "date": "2025-04-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Susanne P. aus Wuppertal",
-    "date": "2025-04-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Robin M. aus Solingen",
+    "content": "Ein wirklich tolles Stück. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Klassiker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Insgesamt ein Tolle Uhres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Johannes U. aus Ludwigsburg",
     "date": "2025-04-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Fabian X. aus Recklinghausen",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Elegantes Produkt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Fabian U. aus Reutlingen",
     "date": "2025-04-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Melanie V. aus Paderborn",
-    "date": "2025-04-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Jonas Q. aus Bochum",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr tolle uhr. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Stefan O. aus Ingolstadt",
     "date": "2025-04-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Tobias W. aus Bergisch Gladbach",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr elegant. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Emil H. aus Regensburg",
+    "date": "2025-04-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Elegant hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Henry N. aus Dresden",
+    "date": "2025-04-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Hinguckeres Produkt. Danke an Karinex für den tollen Service.",
+    "customer_name": "Dennis V. aus Recklinghausen",
     "date": "2025-04-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Anna P. aus München",
-    "date": "2025-04-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Tanja T. aus Oldenburg",
-    "date": "2025-04-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Katharina J. aus Düsseldorf",
-    "date": "2025-04-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Benedikt I. aus Ludwigshafen",
+    "content": "Typisch Boss. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Erik I. aus Solingen",
     "date": "2025-04-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Andrea X. aus Hagen",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr gold-blau. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Oskar I. aus Heidelberg",
     "date": "2025-04-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Susanne E. aus Recklinghausen",
-    "date": "2025-04-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Nicole N. aus Regensburg",
+    "content": "Typisch Boss. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Florian Q. aus Bielefeld",
     "date": "2025-04-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Samuel C. aus Pforzheim",
-    "date": "2025-04-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Claudia A. aus Oldenburg",
-    "date": "2025-04-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Matteo V. aus Krefeld",
-    "date": "2025-04-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Luis T. aus Mönchengladbach",
-    "date": "2025-04-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Leon I. aus Gütersloh",
-    "date": "2025-04-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Samuel N. aus Koblenz",
-    "date": "2025-04-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Christina Z. aus Esslingen",
-    "date": "2025-04-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Kevin E. aus Darmstadt",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Elegantes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Dominik N. aus Münster",
     "date": "2025-04-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Stefanie U. aus Freiburg",
+    "content": "Hervorragend. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Jannik M. aus Schwerin",
     "date": "2025-04-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Luis V. aus Chemnitz",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Hinguckeres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Nico G. aus Heidelberg",
     "date": "2025-04-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Sandra V. aus Gelsenkirchen",
-    "date": "2025-04-06"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Tolle Uhres Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Jonas I. aus Siegen",
+    "date": "2025-04-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Julia L. aus Lübeck",
-    "date": "2025-04-04"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr tolle uhr. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Oskar D. aus Schwerin",
+    "date": "2025-04-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Julian E. aus Hagen",
-    "date": "2025-04-04"
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr gold-blau. Das Design ist zeitlos und passt zu fast allem. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Markus C. aus Lübeck",
+    "date": "2025-04-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. 5 Sterne.",
-    "customer_name": "Niklas B. aus Dresden",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr gold-blau. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sven M. aus Bochum",
     "date": "2025-04-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Niklas I. aus Leverkusen",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr gold-blau. Das Logo ist dezent aber präsent integriert. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Kevin H. aus Dortmund",
     "date": "2025-04-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Anja P. aus Fürth",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr tolle uhr. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Jürgen O. aus Duisburg",
+    "date": "2025-04-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Milan F. aus Salzgitter",
     "date": "2025-04-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Samuel N. aus Solingen",
-    "date": "2025-03-31"
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Klassikeres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Milan T. aus Lübeck",
+    "date": "2025-04-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Tom T. aus Hamburg",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr tolle uhr. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Adrian J. aus München",
+    "date": "2025-04-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Hingucker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Manuela G. aus Schwerin",
+    "date": "2025-03-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Insgesamt ein Tolle Uhres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Sandra H. aus München",
+    "date": "2025-03-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr elegant. Die Chronographen-Funktionen arbeiten einwandfrei. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Patrick U. aus Heidelberg",
     "date": "2025-03-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Finn S. aus Mannheim",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr klassiker. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Kevin Y. aus Fürth",
+    "date": "2025-03-29"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Absolut zufrieden.",
+    "customer_name": "Maria D. aus Hamburg",
     "date": "2025-03-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Kevin O. aus Stuttgart",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr hingucker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Daniel J. aus Ingolstadt",
     "date": "2025-03-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Christoph H. aus Moers",
-    "date": "2025-03-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Alexander A. aus Augsburg",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr hingucker. Die Kombination aus Materialien wirkt sehr hochwertig. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Justus M. aus Mannheim",
     "date": "2025-03-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Sabine I. aus Augsburg",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Das Modell wirkt sehr tolle uhr. Das Glas scheint sehr robust gegen Kratzer zu sein. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Sven T. aus Oldenburg",
     "date": "2025-03-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Milan D. aus Herne",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr hingucker. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Felix I. aus Berlin",
     "date": "2025-03-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Noah J. aus Leipzig",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Sabine Y. aus Pforzheim",
-    "date": "2025-03-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Niklas O. aus Rostock",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr elegant. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Leo R. aus Würzburg",
     "date": "2025-03-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Philipp N. aus Jena",
-    "date": "2025-03-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Jan U. aus Ludwigshafen",
-    "date": "2025-03-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Leon D. aus Remscheid",
+    "content": "Boss enttäuscht einfach nie. Das Modell wirkt sehr gold-blau. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Hannes E. aus Siegen",
     "date": "2025-03-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Liam J. aus Bergisch Gladbach",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Klassikeres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Kerstin W. aus Mönchengladbach",
+    "date": "2025-03-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Milan D. aus Krefeld",
+    "date": "2025-03-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr gold-blau. Das Glas scheint sehr robust gegen Kratzer zu sein. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Matthias F. aus Cottbus",
+    "date": "2025-03-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Klassiker hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Dennis Q. aus Würzburg",
+    "date": "2025-03-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Theo M. aus Lübeck",
     "date": "2025-03-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Jan R. aus Saarbrücken",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Laura M. aus Regensburg",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Sascha E. aus Gütersloh",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Katharina F. aus Halle (Saale)",
-    "date": "2025-03-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Tim Q. aus Wuppertal",
-    "date": "2025-03-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Finn C. aus Essen",
-    "date": "2025-03-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Monika P. aus Karlsruhe",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Das Modell wirkt sehr klassiker. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Julia L. aus Mülheim an der Ruhr",
     "date": "2025-03-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Theo O. aus Salzgitter",
-    "date": "2025-03-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Adrian X. aus Hamm",
-    "date": "2025-03-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Dennis U. aus Wiesbaden",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Das Modell wirkt sehr elegant. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Sascha B. aus Frankfurt",
     "date": "2025-03-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Sandra H. aus Gera",
-    "date": "2025-03-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Birgit W. aus Lübeck",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Das Modell wirkt sehr elegant. Das Logo ist dezent aber präsent integriert. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Christian R. aus Krefeld",
     "date": "2025-03-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Anton V. aus Cottbus",
+    "content": "Sehr elegant. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Markus Y. aus Bielefeld",
     "date": "2025-03-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Liam L. aus München",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Felix E. aus Solingen",
     "date": "2025-03-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Tim E. aus München",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Modell wirkt sehr elegant. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Tom G. aus Jena",
+    "date": "2025-03-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Optik ist einfach unschlagbar. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Hingucker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Robin Z. aus Pforzheim",
     "date": "2025-03-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Bastian Q. aus Frankfurt",
-    "date": "2025-03-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Valentin K. aus Essen",
-    "date": "2025-03-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Liam R. aus Esslingen",
-    "date": "2025-03-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Julian B. aus Lübeck",
-    "date": "2025-03-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Erik C. aus Erfurt",
-    "date": "2025-03-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Johannes I. aus Duisburg",
-    "date": "2025-03-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Laura P. aus Neuss",
+    "content": "Die Optik ist einfach unschlagbar. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Johannes N. aus Heidelberg",
     "date": "2025-03-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Valentin K. aus Salzgitter",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr tolle uhr. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Luis G. aus Recklinghausen",
+    "date": "2025-03-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr hingucker. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Lukas I. aus Erfurt",
     "date": "2025-03-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Anna V. aus Stuttgart",
+    "content": "Ein wirklich tolles Stück. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Gold-Blaues Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Henry G. aus Krefeld",
     "date": "2025-03-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Andrea H. aus Leipzig",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Danke an Karinex für den tollen Service.",
+    "customer_name": "Liam H. aus Witten",
+    "date": "2025-03-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekte Ergänzung zu meinem Business-Outfit. Das Modell wirkt sehr tolle uhr. Die Indizes sind sauber gesetzt und gut lesbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Simon V. aus Wuppertal",
     "date": "2025-03-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Elias R. aus Kaiserslautern",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Hingucker. Sehr zufrieden.",
-    "customer_name": "Birgit H. aus Iserlohn",
-    "date": "2025-03-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Leon X. aus Rostock",
-    "date": "2025-03-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Johannes C. aus Reutlingen",
-    "date": "2025-03-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Kerstin D. aus Stuttgart",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Glas scheint sehr robust gegen Kratzer zu sein. Insgesamt ein Elegantes Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Michael B. aus Bottrop",
     "date": "2025-03-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Sascha V. aus Bremen",
+    "content": "Die Optik ist einfach unschlagbar. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Paul S. aus Salzgitter",
     "date": "2025-03-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Ben H. aus Rostock",
-    "date": "2025-03-04"
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Das Modell wirkt sehr gold-blau. Das Glas scheint sehr robust gegen Kratzer zu sein. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Birgit G. aus Bottrop",
+    "date": "2025-03-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Oskar D. aus Witten",
-    "date": "2025-03-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Stefanie D. aus Kassel",
-    "date": "2025-03-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Noah B. aus Dortmund",
-    "date": "2025-03-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Ein echter Hingucker.",
-    "customer_name": "Dominik K. aus Halle (Saale)",
-    "date": "2025-03-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Max J. aus Düsseldorf",
-    "date": "2025-03-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Liam K. aus Mönchengladbach",
+    "content": "Wunderschöne Uhr. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Anton Q. aus Frankfurt",
     "date": "2025-03-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Noah S. aus Dortmund",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Christoph L. aus Duisburg",
     "date": "2025-03-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Philipp K. aus Heilbronn",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Modell wirkt sehr tolle uhr. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Sarah T. aus Freiburg",
+    "date": "2025-02-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Das Modell wirkt sehr hingucker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Martina Y. aus Witten",
     "date": "2025-02-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Justus U. aus Dresden",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Klassiker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Emil L. aus Würzburg",
+    "date": "2025-02-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Uhr sieht am Handgelenk fantastisch aus. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Elegantes Produkt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Uwe R. aus Darmstadt",
     "date": "2025-02-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Ben A. aus Rostock",
-    "date": "2025-02-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Mats E. aus Bonn",
+    "content": "Die Optik ist einfach unschlagbar. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Hingucker hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Hinguckeres Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Emil J. aus Fürth",
     "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Hingucker gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Felix V. aus Krefeld",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Hingucker hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Hinguckeres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Sarah A. aus Solingen",
     "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Max B. aus Siegen",
+    "content": "Ein wirklich tolles Stück. Das Modell wirkt sehr hingucker. Das Glas scheint sehr robust gegen Kratzer zu sein. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Manuela E. aus Berlin",
     "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Florian A. aus Hamm",
-    "date": "2025-02-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Tom Y. aus Esslingen",
-    "date": "2025-02-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Noah U. aus Hildesheim",
-    "date": "2025-02-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Johannes D. aus Saarbrücken",
-    "date": "2025-02-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Mats M. aus Dortmund",
+    "content": "Die Optik ist einfach unschlagbar. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Hingucker hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Elias D. aus Duisburg",
     "date": "2025-02-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Fabian E. aus Münster",
+    "content": "Boss enttäuscht einfach nie. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Hingucker hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Elegantes Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Peter Z. aus Wolfsburg",
     "date": "2025-02-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Klassiker gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Hannes U. aus Hannover",
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Uwe H. aus Karlsruhe",
     "date": "2025-02-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Anton H. aus Ludwigsburg",
-    "date": "2025-02-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Christina C. aus Wiesbaden",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr gold-blau. Auch nach längerem Tragen spürt man sie kaum am Arm. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Andreas M. aus Osnabrück",
     "date": "2025-02-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Monika I. aus Kaiserslautern",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Danke an Karinex für den tollen Service.",
+    "customer_name": "Malte F. aus Freiburg",
     "date": "2025-02-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Elegant gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Jannik R. aus Esslingen",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Das Modell wirkt sehr elegant. Die Indizes sind sauber gesetzt und gut lesbar. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Stefan T. aus Augsburg",
     "date": "2025-02-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Johannes A. aus Gelsenkirchen",
+    "content": "Endlich eine Uhr, die sowohl sportlich als auch elegant ist. Das Modell wirkt sehr tolle uhr. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Niklas G. aus Ingolstadt",
     "date": "2025-02-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Justus H. aus Heilbronn",
+    "content": "Boss enttäuscht einfach nie. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Philipp K. aus Halle (Saale)",
     "date": "2025-02-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Elegant gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Nadine N. aus Kiel",
-    "date": "2025-02-15"
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr hingucker. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Henry A. aus Münster",
+    "date": "2025-02-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Jeden Cent wert.",
-    "customer_name": "Julia V. aus Cottbus",
-    "date": "2025-02-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Florian Z. aus Magdeburg",
-    "date": "2025-02-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Paul B. aus Bremen",
-    "date": "2025-02-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Finn D. aus Hildesheim",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Elegant. Würde ich wieder kaufen.",
-    "customer_name": "Samuel S. aus Mülheim an der Ruhr",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Passt perfekt.",
-    "customer_name": "Marlon C. aus Freiburg",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Klassiker. Ein echter Hingucker.",
-    "customer_name": "Sabine B. aus Duisburg",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Würde ich wieder kaufen.",
-    "customer_name": "Julian W. aus Regensburg",
-    "date": "2025-02-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Sabine Q. aus Schwerin",
-    "date": "2025-02-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Klassiker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Sandra T. aus Iserlohn",
+    "content": "Diese Boss Uhr ist ein echter Klassiker. Das Modell wirkt sehr hingucker. Das Glas scheint sehr robust gegen Kratzer zu sein. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Valentin E. aus Hannover",
     "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Liam H. aus Darmstadt",
+    "content": "Die Ganggenauigkeit ist bisher tadellos. Das Modell wirkt sehr tolle uhr. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Timo H. aus Bergisch Gladbach",
     "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Nicole M. aus München",
-    "date": "2025-02-10"
+    "content": "Ein massives Gehäuse, das trotzdem nicht zu schwer wirkt. Die Verarbeitung der Kanten und des Gehäuses ist makellos. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Das Kürzen des Metallarmbands ging problemlos. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Thomas Q. aus Magdeburg",
+    "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Valentin E. aus Offenbach",
-    "date": "2025-02-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Erik X. aus Nürnberg",
-    "date": "2025-02-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Klassiker. Jeden Cent wert.",
-    "customer_name": "Malte D. aus Düsseldorf",
-    "date": "2025-02-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Gold-Blau gefällt mir sehr. Das Design ist Elegant. Ein echter Hingucker.",
-    "customer_name": "Bastian I. aus Esslingen",
+    "content": "Boss enttäuscht einfach nie. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Insgesamt ein Tolle Uhres Produkt. Bin rundum zufrieden mit diesem Kauf.",
+    "customer_name": "Noah Q. aus Esslingen",
     "date": "2025-02-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Bastian Z. aus Jena",
+    "content": "Schon beim Auspacken merkt man die Qualität. Das Modell wirkt sehr elegant. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Moritz M. aus Lübeck",
+    "date": "2025-02-09"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war extrem schnell und sicher verpackt. Das Modell wirkt sehr hingucker. Die Zeiger bewegen sich sehr präzise. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Lisa I. aus Wolfsburg",
+    "date": "2025-02-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Schon beim Auspacken merkt man die Qualität. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Ich kann diese Uhr absolut weiterempfehlen.",
+    "customer_name": "Susanne W. aus Hamburg",
+    "date": "2025-02-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Logo ist dezent aber präsent integriert. Besonders die Eigenschaft Klassiker hat mich überzeugt. Die Chronographen-Funktionen arbeiten einwandfrei. Insgesamt ein Tolle Uhres Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Matteo N. aus Hagen",
     "date": "2025-02-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Robin R. aus Potsdam",
+    "content": "Habe mir diese Uhr als Belohnung gekauft. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Klassikeres Produkt. Klare Kaufempfehlung für alle Boss-Fans.",
+    "customer_name": "Jan E. aus Bremerhaven",
     "date": "2025-02-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Samuel H. aus Hamm",
-    "date": "2025-02-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Klassiker gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Laura C. aus Paderborn",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Zeiger bewegen sich sehr präzise. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Wasserdichtigkeit ist für den Alltag mehr als ausreichend. Wer eine schicke Markenuhr sucht, ist hier richtig.",
+    "customer_name": "Luca U. aus Jena",
     "date": "2025-02-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Anna U. aus Witten",
+    "content": "Ich trage sie jetzt seit einer Woche und liebe sie. Das Modell wirkt sehr klassiker. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Patrick B. aus Chemnitz",
     "date": "2025-02-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Lisa J. aus Darmstadt",
-    "date": "2025-02-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. 5 Sterne.",
-    "customer_name": "Anja X. aus Hagen",
+    "content": "Die Details am Zifferblatt sind hervorragend gearbeitet. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Hingucker hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Verdiente 5 Sterne für dieses Prachtstück.",
+    "customer_name": "Luca Y. aus Neuss",
     "date": "2025-02-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Tom L. aus Neuss",
-    "date": "2025-02-04"
+    "content": "Eine sehr stilvolle Uhr für jeden Anlass. Das Design ist zeitlos und passt zu fast allem. Besonders die Eigenschaft Hingucker hat mich überzeugt. Sie hält die Zeit extrem genau, keine spürbare Abweichung. Insgesamt ein Gold-Blaues Produkt. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Susanne H. aus Trier",
+    "date": "2025-02-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Arne F. aus Chemnitz",
-    "date": "2025-02-04"
+    "content": "Ich bin von der Verarbeitung absolut überzeugt. Die Schließe am Armband wirkt sehr stabil und sicher. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Hannes I. aus Köln",
+    "date": "2025-02-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Sieht in echt noch besser aus. Klassiker gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Leon M. aus Ludwigshafen",
-    "date": "2025-02-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Jan V. aus Hagen",
+    "content": "War ein Geschenk für meinen Mann, er ist begeistert. Man sieht sofort, dass es sich um ein Markenprodukt handelt. Besonders die Eigenschaft Gold-Blau hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Insgesamt ein Hinguckeres Produkt. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Finn K. aus Darmstadt",
     "date": "2025-02-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Kerstin O. aus Kiel",
-    "date": "2025-02-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Sandra S. aus Mainz",
-    "date": "2025-02-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Kann ich empfehlen.",
-    "customer_name": "Jonas J. aus Göttingen",
-    "date": "2025-01-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Tom T. aus Oberhausen",
-    "date": "2025-01-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Max R. aus Krefeld",
-    "date": "2025-01-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Elegant. Klare Kaufempfehlung.",
-    "customer_name": "Elias Q. aus Schwerin",
-    "date": "2025-01-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Henry N. aus Koblenz",
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Das Einstellen der Uhrzeit und des Datums war kinderleicht. Ein Must-have in jeder Uhrensammlung.",
+    "customer_name": "Martina X. aus Gera",
     "date": "2025-01-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange gesucht, endlich gefunden. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Christoph N. aus Osnabrück",
-    "date": "2025-01-29"
+    "content": "5 Sterne!",
+    "customer_name": "Melanie P. aus Gelsenkirchen",
+    "date": "2025-01-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Tim F. aus Darmstadt",
+    "content": "Die Farbkombination ist in Natura noch schöner als auf den Bildern. Die Indizes sind sauber gesetzt und gut lesbar. Besonders die Eigenschaft Tolle Uhr hat mich überzeugt. Die Bedienung der Drücker fühlt sich wertig an. Insgesamt ein Klassikeres Produkt. Würde sie jederzeit wieder kaufen.",
+    "customer_name": "Philipp K. aus München",
+    "date": "2025-01-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Armband trägt sich sehr angenehm. Besonders das Zifferblatt reflektiert das Licht wunderschön. Besonders die Eigenschaft Elegant hat mich überzeugt. Die Leuchtzeiger sind im Dunkeln gut erkennbar. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Nico R. aus Oberhausen",
     "date": "2025-01-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Erik W. aus Rostock",
-    "date": "2025-01-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "Arne L. aus Chemnitz",
-    "date": "2025-01-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Hingucker. Ein echter Hingucker.",
-    "customer_name": "David R. aus Esslingen",
+    "content": "Das Armband trägt sich sehr angenehm. Das Modell wirkt sehr hingucker. Ein echtes Statement-Piece, auf das ich schon oft angesprochen wurde. Ein tolles Preis-Leistungs-Verhältnis.",
+    "customer_name": "Valentin Y. aus Oberhausen",
     "date": "2025-01-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Yannick G. aus Braunschweig",
-    "date": "2025-01-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. 5 Sterne.",
-    "customer_name": "Niklas D. aus Gelsenkirchen",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Klassiker gefällt mir sehr. Das Design ist Elegant. Passt perfekt.",
-    "customer_name": "Petra Q. aus Potsdam",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Birgit E. aus Ulm",
-    "date": "2025-01-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Elegant gefällt mir sehr. Das Design ist Elegant. Sehr zufrieden.",
-    "customer_name": "Susanne N. aus Siegen",
-    "date": "2025-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Jan U. aus Göttingen",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Elegant gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Anton V. aus Bonn",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Sehr zufrieden.",
-    "customer_name": "Marlon T. aus Erlangen",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Tolle Uhr gefällt mir sehr. Das Design ist Gold-Blau. Klare Kaufempfehlung.",
-    "customer_name": "Valentin U. aus Heidelberg",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Sascha T. aus Wuppertal",
-    "date": "2025-01-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Gold-Blau. Passt perfekt.",
-    "customer_name": "Dominik H. aus Ludwigshafen",
-    "date": "2025-01-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Klassiker gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Jan M. aus Koblenz",
-    "date": "2025-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. 5 Sterne.",
-    "customer_name": "Samuel G. aus Ludwigsburg",
-    "date": "2025-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Fabian E. aus Erlangen",
-    "date": "2025-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Klassiker gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Max X. aus Krefeld",
-    "date": "2025-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Kann ich empfehlen.",
-    "customer_name": "Yannick K. aus Göttingen",
-    "date": "2025-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Ein echter Hingucker.",
-    "customer_name": "Tom H. aus Gütersloh",
-    "date": "2025-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Elegant gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Yannick D. aus Hanau",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Vincent F. aus Heidelberg",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Sandra Z. aus Leverkusen",
-    "date": "2025-01-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Würde ich wieder kaufen.",
-    "customer_name": "Christina Z. aus Osnabrück",
-    "date": "2025-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Jannik F. aus Iserlohn",
-    "date": "2025-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Luis C. aus Köln",
-    "date": "2025-01-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Tolle Uhr. Sehr zufrieden.",
-    "customer_name": "Ben U. aus Frankfurt",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Hingucker. Jeden Cent wert.",
-    "customer_name": "Tim M. aus Mainz",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Sieht in echt noch besser aus. Tolle Uhr gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Susanne D. aus Gelsenkirchen",
-    "date": "2025-01-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Würde ich wieder kaufen.",
-    "customer_name": "Adrian N. aus Köln",
-    "date": "2025-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Klassiker gefällt mir sehr. Das Design ist Klassiker. Sehr zufrieden.",
-    "customer_name": "Hannes A. aus Witten",
-    "date": "2025-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe mir diese Uhr gegönnt. Elegant gefällt mir sehr. Das Design ist Hingucker. Kann ich empfehlen.",
-    "customer_name": "Leo A. aus Duisburg",
-    "date": "2025-01-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Justus X. aus Oberhausen",
-    "date": "2025-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Hingucker gefällt mir sehr. Das Design ist Hingucker. Passt perfekt.",
-    "customer_name": "Anton Q. aus Herne",
-    "date": "2025-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Hannes O. aus Remscheid",
-    "date": "2025-01-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange gesucht, endlich gefunden. Hingucker gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Simon A. aus Neuss",
-    "date": "2025-01-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Trage sie jeden Tag. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. Passt perfekt.",
-    "customer_name": "Matteo O. aus Regensburg",
-    "date": "2025-01-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Gold-Blau gefällt mir sehr. Das Design ist Klassiker. 5 Sterne.",
-    "customer_name": "Paul R. aus Gütersloh",
-    "date": "2025-01-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Gold-Blau gefällt mir sehr. Das Design ist Tolle Uhr. Klare Kaufempfehlung.",
-    "customer_name": "Nico B. aus Bochum",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Ein tolles Geschenk. Hingucker gefällt mir sehr. Das Design ist Klassiker. Klare Kaufempfehlung.",
-    "customer_name": "Tim V. aus Fürth",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schneller Versand von Karinex. Klassiker gefällt mir sehr. Das Design ist Klassiker. Kann ich empfehlen.",
-    "customer_name": "Bastian E. aus Ulm",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Elegant gefällt mir sehr. Das Design ist Tolle Uhr. Jeden Cent wert.",
-    "customer_name": "Nico F. aus Remscheid",
-    "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Gold-Blau. Würde ich wieder kaufen.",
-    "customer_name": "Andrea D. aus Salzgitter",
-    "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Top Qualität von Boss. Hingucker gefällt mir sehr. Das Design ist Hingucker. Klare Kaufempfehlung.",
-    "customer_name": "Philipp Q. aus Dortmund",
-    "date": "2025-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Edle Verpackung. Hingucker gefällt mir sehr. Das Design ist Elegant. Jeden Cent wert.",
-    "customer_name": "Matteo K. aus Iserlohn",
-    "date": "2025-01-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Bin begeistert. Tolle Uhr gefällt mir sehr. Das Design ist Elegant. Kann ich empfehlen.",
-    "customer_name": "Adrian I. aus Aachen",
-    "date": "2025-01-01"
+    "content": "Habe lange überlegt und mich dann für dieses Modell entschieden. Die Kombination aus Materialien wirkt sehr hochwertig. Besonders die Eigenschaft Elegant hat mich überzeugt. Man kann die Uhr sowohl im Büro als auch in der Freizeit tragen. Ich werde sicher noch weitere Modelle bestellen.",
+    "customer_name": "Johannes W. aus Heidelberg",
+    "date": "2025-01-24"
   }
 ];
