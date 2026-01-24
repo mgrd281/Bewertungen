@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boss Chronograph 1513848 - Bewertungen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="product-section">
+                <h1>Boss Chronograph 1513848</h1>
+                <div class="rating-summary">
+                    <div class="stars" id="averageStars">★★★★★</div>
+                    <span class="review-count" id="reviewCount">(885 Bewertungen)</span>
+                    <div class="action-buttons">
+                        <button onclick="downloadCSV()" class="download-btn">CSV</button>
+                        <button onclick="downloadExcel()" class="download-btn excel-btn">Excel</button>
+                        <button onclick="downloadNumbers()" class="download-btn numbers-btn">Numbers</button>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div class="table-wrapper">
+                <table id="reviews-table" class="excel-table">
+                    <thead>
+                        <tr>
+                            <th class="col-number">#</th>
+                            <th class="col-rating">Bewertung</th>
+                            <th class="col-title">Titel</th>
+                            <th class="col-content">Bewertungstext <button onclick="copyColumn('content')" class="copy-btn">📋</button></th>
+                            <th class="col-name">Name <button onclick="copyColumn('customer_name')" class="copy-btn">📋</button></th>
+                            <th class="col-date">Datum <button onclick="copyColumn('date')" class="copy-btn">📋</button></th>
+                        </tr>
+                    </thead>
+                    <tbody id="reviews-tbody"></tbody>
+                </table>
+            </div>
+        </main>
+    </div>
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js"></script>
+    <script src="reviews_data_boss_1513848.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
