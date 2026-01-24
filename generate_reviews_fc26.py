@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
 TARGET_COUNT = 4297
-START_DATE = datetime(2026, 9, 25) # Future release date
-END_DATE = datetime(2026, 12, 24)
+START_DATE = datetime(2025, 10, 3)
+END_DATE = datetime(2026, 1, 24)
 
 # --- DATA BANKS ---
 
