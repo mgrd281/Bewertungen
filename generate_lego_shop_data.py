@@ -282,7 +282,7 @@ products = [
         "price": "24,99 €",
         "category": "City",
         "image": "assets/lego_city_bulldozer.png",
-        "keywords": ["Baustelle", "Bulldozer", "Ketten", "Baustellenfahrzeug", "Robustes Spielzeug", "Toll für Kinder", "City Welt", "Gelb"]
+        "keywords": ["Baustelle", "Bulldozer", "Ketten", "Baustellenfahrzeug", "Robustes Spielzeug", "Toll für Kinder", "City Welt", "Gelb", "Super Mario", "Minecraft", "Mario", "Creeper"]
     },
     {
         "id": "lego_classic_box",
