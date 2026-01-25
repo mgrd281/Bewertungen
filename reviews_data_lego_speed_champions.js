@@ -2,2416 +2,2416 @@ const REVIEWS_DATA = [
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Schnell gebaut ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Liam S. aus Bottrop",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Die Klemmkraft der Steine ist perfekt. Das Feature Lamborghini ist klasse. Die Details sind wirklich liebevoll gestaltet. Daumen hoch!",
+    "customer_name": "Philipp I. aus Leipzig",
     "date": "2026-01-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Detailreich ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Einfach klasse.",
-    "customer_name": "Leo S. aus Köln",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Die Klemmkraft der Steine ist perfekt. Das Feature Lamborghini ist klasse. Die Minifiguren sind besonders schön bedruckt. Top, weiter so.",
+    "customer_name": "Paul O. aus Fellbach",
     "date": "2026-01-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Sascha Y. aus Reutlingen",
-    "date": "2026-01-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Florian F. aus Recklinghausen",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Es gibt viele clevere Bautechniken zu entdecken. Das Feature Zwei Autos ist klasse. Ein echter Hingucker in der Vitrine. Hat sich definitiv gelohnt.",
+    "customer_name": "Justus H. aus Ludwigshafen",
     "date": "2026-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Schnell gebaut ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Erik O. aus Wiesbaden",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Detailreich ist klasse. Ein echter Hingucker in der Vitrine. Super Shop.",
+    "customer_name": "Anja R. aus Dortmund",
     "date": "2026-01-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Detailreich gefällt mir gut. Einfach klasse.",
-    "customer_name": "Katharina U. aus Herne",
-    "date": "2026-01-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "War ein Spontankauf. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Kilian N. aus Recklinghausen",
-    "date": "2026-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Sammlung erweitert ist super umgesetzt. Besonders Revuelto gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Melanie K. aus Salzgitter",
-    "date": "2026-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Detailreich ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Samuel W. aus Leipzig",
-    "date": "2026-01-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Johannes L. aus Siegen",
+    "content": "Perfekt für einen verregneten Nachmittag. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Zwei Autos ist klasse. Mein Kind spielt seit Tagen nur noch damit. Bin rundum zufrieden.",
+    "customer_name": "Jan Q. aus Bottrop",
     "date": "2026-01-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Detailreich ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Top Qualität.",
-    "customer_name": "Hannes T. aus Frankfurt",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Revuelto ist klasse. Passt perfekt in meine Sammlung. Super Shop.",
+    "customer_name": "Stefanie P. aus Moers",
     "date": "2026-01-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Luca W. aus Wuppertal",
+    "content": "Passt perfekt. Danke!",
+    "customer_name": "Benedikt C. aus Zwickau",
+    "date": "2026-01-16"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Der Spielwert ist hier wirklich hoch. Super Shop.",
+    "customer_name": "Felix E. aus Dortmund",
+    "date": "2026-01-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Alles vollständig.",
+    "customer_name": "Valentin N. aus Bocholt",
     "date": "2026-01-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. Einfach klasse.",
-    "customer_name": "Max Z. aus Aachen",
+    "content": "Schnelle Lieferung.",
+    "customer_name": "Noah H. aus Lübeck",
     "date": "2026-01-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Zwei Autos ist super umgesetzt. Besonders Huracán gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Nico X. aus Oldenburg",
-    "date": "2026-01-13"
+    "content": "Alles okay.",
+    "customer_name": "Moritz J. aus Mannheim",
+    "date": "2026-01-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Zwei Autos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Lukas W. aus Aachen",
-    "date": "2026-01-13"
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Es gibt viele clevere Bautechniken zu entdecken. Das Feature Huracán ist klasse. Es gibt viele bewegliche Teile und Funktionen. Hat sich definitiv gelohnt.",
+    "customer_name": "Arne T. aus Bad Salzuflen",
+    "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Florian F. aus Mannheim",
-    "date": "2026-01-12"
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Rennautos ist klasse. Es ist sehr stabil, man kann gut damit spielen. Daumen hoch!",
+    "customer_name": "Christina M. aus Minden",
+    "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Top Qualität.",
-    "customer_name": "Tobias E. aus Ludwigshafen",
-    "date": "2026-01-11"
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Besonders Rennautos gefällt mir gut. Danke.",
+    "customer_name": "Jan K. aus Regensburg",
+    "date": "2026-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Lenny S. aus Bochum",
-    "date": "2026-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Rennautos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Liam L. aus Hamburg",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Sammlung ist klasse. Mein Kind spielt seit Tagen nur noch damit. 5 Sterne von mir.",
+    "customer_name": "Justus W. aus Viersen",
     "date": "2026-01-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Zwei Autos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Max C. aus Köln",
+    "content": "Ein wirklich gelungenes Set von LEGO. Es gibt viele clevere Bautechniken zu entdecken. Das Feature Detailreich ist klasse. Passt perfekt in meine Sammlung. Klare 10/10.",
+    "customer_name": "Sandra U. aus Lemgo",
+    "date": "2026-01-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Die Klemmkraft der Steine ist perfekt. Das Feature Revuelto ist klasse. Die Details sind wirklich liebevoll gestaltet. Klare 10/10.",
+    "customer_name": "Anna Y. aus Dorsten",
+    "date": "2026-01-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Sammlung ist klasse. Die Minifiguren sind besonders schön bedruckt. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Samuel R. aus Bremen",
     "date": "2026-01-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Detailreich ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Sarah V. aus Bergisch Gladbach",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Die Klemmkraft der Steine ist perfekt. Das Feature Lamborghini ist klasse. Es ist sehr stabil, man kann gut damit spielen. Super Shop.",
+    "customer_name": "Nico O. aus Sankt Augustin",
+    "date": "2026-01-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Detailreich ist klasse. Die Minifiguren sind besonders schön bedruckt. Danke.",
+    "customer_name": "Milan B. aus Ratingen",
+    "date": "2026-01-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Besonders Revuelto gefällt mir gut. 5 Sterne von mir.",
+    "customer_name": "Sarah S. aus Wolfenbüttel",
+    "date": "2026-01-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Detailreich ist klasse. Die Details sind wirklich liebevoll gestaltet. Freue mich schon auf das nächste Set.",
+    "customer_name": "Simon C. aus Wunstorf",
     "date": "2026-01-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Robin L. aus Regensburg",
-    "date": "2026-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Sammlung erweitert ist super umgesetzt. Besonders Huracán gefällt mir gut. Top Qualität.",
-    "customer_name": "Lukas Y. aus Dortmund",
-    "date": "2025-12-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Schnell gebaut ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Nadine A. aus Freiburg",
+    "content": "Einfach super. Danke!",
+    "customer_name": "Anna S. aus Oldenburg",
     "date": "2025-12-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Sammlung erweitert ist super umgesetzt. Besonders Detailreich gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Nico N. aus Herne",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Der Bauprozess war abwechslungsreich und nie langweilig. Bin rundum zufrieden.",
+    "customer_name": "Tobias X. aus Dinslaken",
     "date": "2025-12-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Christoph T. aus Bremen",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Besonders Lamborghini gefällt mir gut. Alles richtig gemacht.",
+    "customer_name": "Theo G. aus Troisdorf",
+    "date": "2025-12-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "5 Sterne.",
+    "customer_name": "Ben I. aus Wiesbaden",
     "date": "2025-12-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Sammlung erweitert ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Maximilian X. aus Mülheim an der Ruhr",
-    "date": "2025-12-24"
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Auch für jüngere Kinder gut zu bewältigen. Klare 10/10.",
+    "customer_name": "Finn N. aus Dormagen",
+    "date": "2025-12-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Huracán ist super umgesetzt. Besonders Rennautos gefällt mir gut. Einfach klasse.",
-    "customer_name": "Maria U. aus Potsdam",
+    "content": "Endlich habe ich mir dieses Set gegönnt. Besonders Schnell gebaut gefällt mir gut. Vielen Dank für den schnellen Service.",
+    "customer_name": "Lenny U. aus Dormagen",
+    "date": "2025-12-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Super Qualität. Bin zufrieden.",
+    "customer_name": "Laura C. aus Mannheim",
+    "date": "2025-12-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "LEGO halt.",
+    "customer_name": "Lenny L. aus Soest",
     "date": "2025-12-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Revuelto ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Tim N. aus Bremerhaven",
-    "date": "2025-12-22"
+    "content": "Kann die negativen Bewertungen nicht verstehen. Mein Kind spielt seit Tagen nur noch damit. Ein tolles Geschenk.",
+    "customer_name": "Malte L. aus Filderstadt",
+    "date": "2025-12-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Huracán ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Top Qualität.",
-    "customer_name": "Max R. aus Chemnitz",
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Auch für jüngere Kinder gut zu bewältigen. Das Feature Detailreich ist klasse. Die Minifiguren sind besonders schön bedruckt. Ein tolles Geschenk.",
+    "customer_name": "Christoph T. aus Borken",
     "date": "2025-12-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Sammlung erweitert ist super umgesetzt. Besonders Detailreich gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Kilian K. aus Fürth",
-    "date": "2025-12-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. 5 Sterne.",
-    "customer_name": "Timo N. aus Mönchengladbach",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Die Klemmkraft der Steine ist perfekt. Das Feature Revuelto ist klasse. Es gibt viele bewegliche Teile und Funktionen. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Leon M. aus Herten",
     "date": "2025-12-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Detailreich gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Katharina Y. aus Nürnberg",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Besonders Rennautos gefällt mir gut. Vielen Dank für den schnellen Service.",
+    "customer_name": "Luis H. aus Lörrach",
     "date": "2025-12-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Detailreich ist super umgesetzt. Besonders Detailreich gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Jannik K. aus Regensburg",
+    "content": "Kind ist glücklich.",
+    "customer_name": "Jan Z. aus Dorsten",
     "date": "2025-12-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Jan M. aus Ulm",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. So macht LEGO Spaß.",
+    "customer_name": "Sabine J. aus Eschweiler",
     "date": "2025-12-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Sammlung erweitert ist super umgesetzt. Besonders Huracán gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Oskar O. aus Lübeck",
+    "content": "Ein wirklich gelungenes Set von LEGO. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Rennautos ist klasse. Mein Kind spielt seit Tagen nur noch damit. Preis-Leistung stimmt hier.",
+    "customer_name": "Tanja A. aus Braunschweig",
     "date": "2025-12-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Elias P. aus Karlsruhe",
-    "date": "2025-12-13"
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Ein paar Ersatzteile waren auch dabei, sehr gut. Bin rundum zufrieden.",
+    "customer_name": "Sabine K. aus Solingen",
+    "date": "2025-12-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Einfach klasse.",
-    "customer_name": "David P. aus Reutlingen",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Lamborghini ist klasse. Es gibt viele bewegliche Teile und Funktionen. Bin happy.",
+    "customer_name": "Simon F. aus Flensburg",
     "date": "2025-12-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Detailreich ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Top Qualität.",
-    "customer_name": "Malte N. aus Mannheim",
-    "date": "2025-12-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "War ein Spontankauf. Huracán ist super umgesetzt. Besonders Detailreich gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Yannick T. aus Bochum",
-    "date": "2025-12-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Anja F. aus Leipzig",
-    "date": "2025-12-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Schnell gebaut ist super umgesetzt. Besonders Huracán gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Erik P. aus Karlsruhe",
-    "date": "2025-12-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. Top Qualität.",
-    "customer_name": "Theo L. aus Reutlingen",
-    "date": "2025-12-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Jan J. aus Leverkusen",
-    "date": "2025-12-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Revuelto ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. 5 Sterne.",
-    "customer_name": "Leo S. aus Wolfsburg",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Besonders Schnell gebaut gefällt mir gut. Hat sich definitiv gelohnt.",
+    "customer_name": "Sabine Q. aus Bamberg",
     "date": "2025-12-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Lamborghini ist super umgesetzt. Besonders Huracán gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Noah F. aus Moers",
-    "date": "2025-12-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Jonas Z. aus Bergisch Gladbach",
-    "date": "2025-12-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Zwei Autos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Einfach klasse.",
-    "customer_name": "Felix P. aus Paderborn",
-    "date": "2025-12-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Schnell gebaut ist super umgesetzt. Besonders Revuelto gefällt mir gut. Einfach klasse.",
-    "customer_name": "Kevin R. aus Magdeburg",
-    "date": "2025-12-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Zwei Autos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Lukas Y. aus Jena",
+    "content": "Habe es direkt nach Erscheinen bestellt. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Schnell gebaut ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Lukas R. aus Lörrach",
     "date": "2025-12-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Schnell gebaut ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Luis O. aus Remscheid",
+    "content": "Ein wirklich gelungenes Set von LEGO. Besonders Rennautos gefällt mir gut. Bin rundum zufrieden.",
+    "customer_name": "Luis A. aus Bonn",
     "date": "2025-12-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Rennautos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Dennis D. aus Aachen",
-    "date": "2025-12-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Sammlung erweitert ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Erik F. aus Regensburg",
+    "content": "Ein Muss für jeden Sammler. Es gibt viele bewegliche Teile und Funktionen. Hat sich definitiv gelohnt.",
+    "customer_name": "Stefanie M. aus Bochum",
     "date": "2025-12-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Top Qualität.",
-    "customer_name": "Leon M. aus Cottbus",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Besonders Detailreich gefällt mir gut. Absolute Kaufempfehlung.",
+    "customer_name": "Christoph J. aus Kamen",
     "date": "2025-12-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Sammlung erweitert ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Jonas S. aus Erlangen",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Detailreich ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Super Shop.",
+    "customer_name": "Christoph Y. aus Köln",
     "date": "2025-12-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Rennautos ist super umgesetzt. Besonders Revuelto gefällt mir gut. Top Qualität.",
-    "customer_name": "Philipp O. aus Iserlohn",
-    "date": "2025-12-01"
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Es gibt viele bewegliche Teile und Funktionen. Top, weiter so.",
+    "customer_name": "Anja L. aus Stralsund",
+    "date": "2025-11-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Revuelto ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Top Qualität.",
-    "customer_name": "Felix Z. aus Wiesbaden",
-    "date": "2025-12-01"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "War ein Spontankauf. Schnell gebaut ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Christoph V. aus Krefeld",
+    "content": "Ein wirklich gelungenes Set von LEGO. Die Anleitung war sehr verständlich und einfach zu folgen. Alles richtig gemacht.",
+    "customer_name": "Jan U. aus Bielefeld",
     "date": "2025-11-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Schnell gebaut ist super umgesetzt. Besonders Huracán gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Jannik F. aus Herne",
-    "date": "2025-11-29"
+    "content": "Ein wirklich gelungenes Set von LEGO. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Zwei Autos ist klasse. Ein echter Hingucker in der Vitrine. Bin happy.",
+    "customer_name": "Philipp A. aus Aschaffenburg",
+    "date": "2025-11-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Revuelto ist super umgesetzt. Besonders Rennautos gefällt mir gut. Einfach klasse.",
-    "customer_name": "Robin G. aus Osnabrück",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Es lässt sich auch super mit anderen Sets kombinieren. Super Shop.",
+    "customer_name": "Samuel M. aus Oldenburg",
+    "date": "2025-11-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Auch für jüngere Kinder gut zu bewältigen. Das Feature Revuelto ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. So macht LEGO Spaß.",
+    "customer_name": "Simon H. aus Speyer",
+    "date": "2025-11-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Sammlung ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Danke.",
+    "customer_name": "Claudia N. aus Rottenburg",
+    "date": "2025-11-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Schnell gebaut ist klasse. Es ist sehr stabil, man kann gut damit spielen. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Maximilian S. aus Essen",
     "date": "2025-11-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Zwei Autos ist super umgesetzt. Besonders Revuelto gefällt mir gut. Einfach klasse.",
-    "customer_name": "Benedikt F. aus Münster",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Besonders Revuelto gefällt mir gut. Freue mich schon auf das nächste Set.",
+    "customer_name": "Niklas B. aus Dinslaken",
     "date": "2025-11-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Lisa A. aus München",
-    "date": "2025-11-27"
+    "content": "Kann die negativen Bewertungen nicht verstehen. Besonders Revuelto gefällt mir gut. Ein tolles Geschenk.",
+    "customer_name": "Milan W. aus Garbsen",
+    "date": "2025-11-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Kevin B. aus Wiesbaden",
-    "date": "2025-11-27"
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Super Shop.",
+    "customer_name": "Jan P. aus Ludwigsburg",
+    "date": "2025-11-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Revuelto ist super umgesetzt. Besonders Rennautos gefällt mir gut. Einfach klasse.",
-    "customer_name": "Laura B. aus Hildesheim",
-    "date": "2025-11-25"
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Es gibt viele clevere Bautechniken zu entdecken. Das Feature Detailreich ist klasse. Die Minifiguren sind besonders schön bedruckt. 5 Sterne von mir.",
+    "customer_name": "Alexander N. aus Minden",
+    "date": "2025-11-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Huracán ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Niklas J. aus Potsdam",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Besonders Sammlung gefällt mir gut. Super Shop.",
+    "customer_name": "Andrea X. aus Neunkirchen",
+    "date": "2025-11-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es direkt nach Erscheinen bestellt. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Hat sich definitiv gelohnt.",
+    "customer_name": "Johannes C. aus Göttingen",
+    "date": "2025-11-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich habe ich mir dieses Set gegönnt. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Schnell gebaut ist klasse. Die Minifiguren sind besonders schön bedruckt. Absolute Kaufempfehlung.",
+    "customer_name": "Sabine G. aus Salzgitter",
+    "date": "2025-11-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Es gibt viele clevere Bautechniken zu entdecken. Das Feature Schnell gebaut ist klasse. Mein Kind spielt seit Tagen nur noch damit. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "David V. aus Marburg",
     "date": "2025-11-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Sammlung erweitert ist super umgesetzt. Besonders Rennautos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Hannes C. aus Bochum",
-    "date": "2025-11-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Noah B. aus Freiburg",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Detailreich ist klasse. Die Details sind wirklich liebevoll gestaltet. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Sascha Q. aus Remscheid",
     "date": "2025-11-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Einfach klasse.",
-    "customer_name": "Yannick Z. aus Aachen",
-    "date": "2025-11-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Top Qualität.",
-    "customer_name": "Jan H. aus Koblenz",
-    "date": "2025-11-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Leo L. aus Münster",
-    "date": "2025-11-20"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Laura A. aus Mainz",
+    "content": "Meine Empfehlung.",
+    "customer_name": "Anton G. aus Neu-Ulm",
     "date": "2025-11-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Zwei Autos ist super umgesetzt. Besonders Huracán gefällt mir gut. Top Qualität.",
-    "customer_name": "Bastian L. aus Herne",
-    "date": "2025-11-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Huracán ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Valentin W. aus Moers",
-    "date": "2025-11-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Revuelto ist super umgesetzt. Besonders Revuelto gefällt mir gut. Einfach klasse.",
-    "customer_name": "Tom Z. aus Regensburg",
-    "date": "2025-11-18"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Birgit F. aus Hamm",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Es gibt viele clevere Bautechniken zu entdecken. Das Feature Rennautos ist klasse. Es gibt viele bewegliche Teile und Funktionen. Bin rundum zufrieden.",
+    "customer_name": "Anton Z. aus Erftstadt",
     "date": "2025-11-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Detailreich ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Sarah H. aus Karlsruhe",
+    "content": "Ein Muss für jeden Sammler. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Ein tolles Geschenk.",
+    "customer_name": "Sascha E. aus Kamen",
+    "date": "2025-11-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Klare 10/10.",
+    "customer_name": "Sascha M. aus Langenfeld",
+    "date": "2025-11-16"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Huracán ist klasse. Die Minifiguren sind besonders schön bedruckt. Preis-Leistung stimmt hier.",
+    "customer_name": "Andrea J. aus Siegen",
+    "date": "2025-11-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Die Klemmkraft der Steine ist perfekt. Das Feature Huracán ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Ein tolles Geschenk.",
+    "customer_name": "Nico O. aus Rosenheim",
     "date": "2025-11-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. 5 Sterne.",
-    "customer_name": "Mats A. aus Erlangen",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Sammlung ist klasse. Die Minifiguren sind besonders schön bedruckt. Für Fans ein absolutes Muss.",
+    "customer_name": "Ben X. aus Hattingen",
     "date": "2025-11-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Schnell gebaut ist super umgesetzt. Besonders Detailreich gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Anna A. aus Berlin",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Es gibt viele clevere Bautechniken zu entdecken. Alles richtig gemacht.",
+    "customer_name": "Florian K. aus Marburg",
     "date": "2025-11-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Sammlung erweitert ist super umgesetzt. Besonders Detailreich gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Milan Q. aus Witten",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Besonders Lamborghini gefällt mir gut. Bin happy.",
+    "customer_name": "Julian G. aus Emden",
     "date": "2025-11-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Noah W. aus Ludwigshafen",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Es haben keine Teile gefehlt, was sehr wichtig ist. Einfach klasse.",
+    "customer_name": "Julian A. aus Detmold",
+    "date": "2025-11-11"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es direkt nach Erscheinen bestellt. Es haben keine Teile gefehlt, was sehr wichtig ist. Für Fans ein absolutes Muss.",
+    "customer_name": "Christoph N. aus Celle",
     "date": "2025-11-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Sammlung erweitert ist super umgesetzt. Besonders Huracán gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Hannes O. aus Gera",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Es gibt viele clevere Bautechniken zu entdecken. Hat sich definitiv gelohnt.",
+    "customer_name": "Leon L. aus Erlangen",
     "date": "2025-11-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Rennautos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Luis T. aus Recklinghausen",
-    "date": "2025-11-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Sammlung erweitert ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. 5 Sterne.",
-    "customer_name": "Philipp D. aus Ludwigshafen",
-    "date": "2025-11-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Justus P. aus Esslingen",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Es lässt sich auch super mit anderen Sets kombinieren. Hat sich definitiv gelohnt.",
+    "customer_name": "Leon M. aus Jena",
     "date": "2025-11-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Sammlung erweitert ist super umgesetzt. Besonders Revuelto gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Matteo M. aus Hannover",
-    "date": "2025-11-08"
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Die Klemmkraft der Steine ist perfekt. Das Feature Huracán ist klasse. Es gibt viele bewegliche Teile und Funktionen. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Paul O. aus Fürth",
+    "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Florian S. aus Ingolstadt",
-    "date": "2025-11-03"
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Besonders Sammlung gefällt mir gut. Alles richtig gemacht.",
+    "customer_name": "Emil D. aus Fellbach",
+    "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Rennautos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Finn O. aus Aachen",
-    "date": "2025-11-03"
+    "content": "Ein Muss für jeden Sammler. Mein Kind spielt seit Tagen nur noch damit. Klare 10/10.",
+    "customer_name": "Tobias L. aus Heinsberg",
+    "date": "2025-11-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Lamborghini ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Matteo G. aus Mönchengladbach",
-    "date": "2025-11-03"
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Ein echter Hingucker in der Vitrine. Ein tolles Geschenk.",
+    "customer_name": "Elias W. aus Leipzig",
+    "date": "2025-11-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Lamborghini ist super umgesetzt. Besonders Rennautos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Tanja L. aus Magdeburg",
+    "content": "Ein wirklich gelungenes Set von LEGO. Auch für jüngere Kinder gut zu bewältigen. Das Feature Detailreich ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. 5 Sterne von mir.",
+    "customer_name": "Philipp Q. aus Erfurt",
+    "date": "2025-11-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Lamborghini ist klasse. Passt perfekt in meine Sammlung. Daumen hoch!",
+    "customer_name": "Petra A. aus Ratingen",
+    "date": "2025-11-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Ein echter Hingucker in der Vitrine. Klare 10/10.",
+    "customer_name": "Johannes O. aus Hameln",
+    "date": "2025-11-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Die Klemmkraft der Steine ist perfekt. Das Feature Sammlung ist klasse. Passt perfekt in meine Sammlung. So macht LEGO Spaß.",
+    "customer_name": "Maria O. aus Recklinghausen",
+    "date": "2025-11-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Besonders Rennautos gefällt mir gut. Preis-Leistung stimmt hier.",
+    "customer_name": "Fabian M. aus Leipzig",
+    "date": "2025-11-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Zwei Autos ist klasse. Passt perfekt in meine Sammlung. Einfach klasse.",
+    "customer_name": "Tom N. aus Lüneburg",
+    "date": "2025-11-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Bin begeistert.",
+    "customer_name": "Simon V. aus Hamburg",
+    "date": "2025-11-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekt für einen verregneten Nachmittag. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Huracán ist klasse. Mein Kind spielt seit Tagen nur noch damit. Absolute Kaufempfehlung.",
+    "customer_name": "Tanja J. aus Karlsruhe",
+    "date": "2025-10-31"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Die Klemmkraft der Steine ist perfekt. Das Feature Rennautos ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Hat sich definitiv gelohnt.",
+    "customer_name": "Leo L. aus Dresden",
     "date": "2025-10-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Susanne U. aus Hagen",
-    "date": "2025-10-26"
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Der Bauprozess war abwechslungsreich und nie langweilig. Einfach klasse.",
+    "customer_name": "Philipp F. aus Langenfeld",
+    "date": "2025-10-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Detailreich ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Sascha U. aus Hagen",
-    "date": "2025-10-25"
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Detailreich ist klasse. Es ist sehr stabil, man kann gut damit spielen. Super Shop.",
+    "customer_name": "Malte Y. aus Bergkamen",
+    "date": "2025-10-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Schnell gebaut ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Luca O. aus Düsseldorf",
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Die Klemmkraft der Steine ist perfekt. Das Feature Sammlung ist klasse. Ein echter Hingucker in der Vitrine. Einfach klasse.",
+    "customer_name": "Florian F. aus Hameln",
+    "date": "2025-10-24"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es direkt nach Erscheinen bestellt. Besonders Zwei Autos gefällt mir gut. Hat sich definitiv gelohnt.",
+    "customer_name": "Susanne A. aus Potsdam",
+    "date": "2025-10-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Super Qualität.",
+    "customer_name": "Florian B. aus Herne",
     "date": "2025-10-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Schnell gebaut ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Noah O. aus Fürth",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Es lässt sich auch super mit anderen Sets kombinieren. Einfach klasse.",
+    "customer_name": "Anton Z. aus Plauen",
     "date": "2025-10-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Schnell gebaut ist super umgesetzt. Besonders Rennautos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Anton E. aus Göttingen",
-    "date": "2025-10-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Detailreich ist super umgesetzt. Besonders Detailreich gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Johannes A. aus Ulm",
+    "content": "Perfekt für einen verregneten Nachmittag. Die Klemmkraft der Steine ist perfekt. Freue mich schon auf das nächste Set.",
+    "customer_name": "Noah E. aus Erlangen",
     "date": "2025-10-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Huracán ist super umgesetzt. Besonders Revuelto gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "David E. aus Gelsenkirchen",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Revuelto ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Ein tolles Geschenk.",
+    "customer_name": "Tanja B. aus Landshut",
     "date": "2025-10-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Revuelto ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Laura C. aus Hannover",
-    "date": "2025-10-16"
+    "content": "Kann die negativen Bewertungen nicht verstehen. Ein paar Ersatzteile waren auch dabei, sehr gut. Daumen hoch!",
+    "customer_name": "Max R. aus Neuss",
+    "date": "2025-10-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Schnell gebaut ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Emil T. aus Salzgitter",
-    "date": "2025-10-16"
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Huracán ist klasse. Der Spielwert ist hier wirklich hoch. Preis-Leistung stimmt hier.",
+    "customer_name": "Nadine Y. aus Ludwigshafen",
+    "date": "2025-10-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Justus E. aus Leverkusen",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Besonders Zwei Autos gefällt mir gut. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Lisa B. aus Erfurt",
+    "date": "2025-10-15"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Sieht gut aus.",
+    "customer_name": "Johannes O. aus Ibbenbüren",
     "date": "2025-10-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Liam R. aus Saarbrücken",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Huracán ist klasse. Der Spielwert ist hier wirklich hoch. Daumen hoch!",
+    "customer_name": "Robin X. aus Hamm",
+    "date": "2025-10-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es direkt nach Erscheinen bestellt. Besonders Lamborghini gefällt mir gut. Bin happy.",
+    "customer_name": "Luca M. aus Rottenburg",
     "date": "2025-10-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Top Qualität.",
-    "customer_name": "Kilian P. aus Darmstadt",
-    "date": "2025-10-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Lamborghini ist super umgesetzt. Besonders Rennautos gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Johannes B. aus Koblenz",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Zwei Autos ist klasse. Die Details sind wirklich liebevoll gestaltet. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Mats J. aus Neuwied",
     "date": "2025-10-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Detailreich ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Elias N. aus Gera",
-    "date": "2025-10-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Zwei Autos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Malte O. aus Trier",
-    "date": "2025-10-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Detailreich ist super umgesetzt. Besonders Huracán gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Tobias L. aus Gera",
-    "date": "2025-10-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Lisa R. aus Würzburg",
-    "date": "2025-10-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Huracán ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Monika Z. aus Ingolstadt",
-    "date": "2025-10-10"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Huracán ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. 5 Sterne.",
-    "customer_name": "Maria N. aus Bergisch Gladbach",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Besonders Zwei Autos gefällt mir gut. Freue mich schon auf das nächste Set.",
+    "customer_name": "Erik H. aus Euskirchen",
     "date": "2025-10-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Schnell gebaut ist super umgesetzt. Besonders Rennautos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Johannes C. aus Cottbus",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Der Spielwert ist hier wirklich hoch. Einfach klasse.",
+    "customer_name": "Sandra Y. aus Schwerin",
     "date": "2025-10-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Rennautos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Luis U. aus Ingolstadt",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Sammlung ist klasse. Ein echter Hingucker in der Vitrine. Alles richtig gemacht.",
+    "customer_name": "Jonas R. aus Oldenburg",
+    "date": "2025-10-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es direkt nach Erscheinen bestellt. Besonders Rennautos gefällt mir gut. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Birgit M. aus Bayreuth",
+    "date": "2025-10-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich habe ich mir dieses Set gegönnt. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Revuelto ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Bin happy.",
+    "customer_name": "Nicole I. aus Rüsselsheim",
+    "date": "2025-10-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich habe ich mir dieses Set gegönnt. Besonders Sammlung gefällt mir gut. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Tom S. aus Rüsselsheim",
+    "date": "2025-10-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Zwei Autos ist klasse. Es ist sehr stabil, man kann gut damit spielen. Alles richtig gemacht.",
+    "customer_name": "Felix O. aus Görlitz",
+    "date": "2025-10-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Auch für jüngere Kinder gut zu bewältigen. Alles richtig gemacht.",
+    "customer_name": "Elias C. aus Solingen",
     "date": "2025-10-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Zwei Autos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Einfach klasse.",
-    "customer_name": "Florian S. aus Duisburg",
-    "date": "2025-09-30"
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Detailreich ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Vielen Dank für den schnellen Service.",
+    "customer_name": "Luis I. aus Lahr",
+    "date": "2025-10-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Detailreich ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Philipp K. aus Wiesbaden",
-    "date": "2025-09-28"
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Die Klemmkraft der Steine ist perfekt. Das Feature Rennautos ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. So macht LEGO Spaß.",
+    "customer_name": "Laura G. aus Dorsten",
+    "date": "2025-10-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Zwei Autos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Ben K. aus Moers",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Die Klemmkraft der Steine ist perfekt. Das Feature Detailreich ist klasse. Die Details sind wirklich liebevoll gestaltet. Einfach klasse.",
+    "customer_name": "Birgit U. aus Neu-Ulm",
+    "date": "2025-10-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Besonders Schnell gebaut gefällt mir gut. Hat sich definitiv gelohnt.",
+    "customer_name": "Noah Z. aus Hattingen",
+    "date": "2025-10-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich habe ich mir dieses Set gegönnt. Besonders Zwei Autos gefällt mir gut. Ein tolles Geschenk.",
+    "customer_name": "Christoph L. aus Lippstadt",
+    "date": "2025-10-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Es ist sehr stabil, man kann gut damit spielen. Danke.",
+    "customer_name": "Sascha E. aus Ambreg",
+    "date": "2025-09-29"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Die Details sind wirklich liebevoll gestaltet. Hat sich definitiv gelohnt.",
+    "customer_name": "Dennis B. aus Witten",
+    "date": "2025-09-27"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Die Klemmkraft der Steine ist perfekt. So macht LEGO Spaß.",
+    "customer_name": "Erik Y. aus Dessau-Roßlau",
     "date": "2025-09-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Huracán ist super umgesetzt. Besonders Detailreich gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Mats X. aus Essen",
-    "date": "2025-09-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Rennautos ist super umgesetzt. Besonders Huracán gefällt mir gut. Einfach klasse.",
-    "customer_name": "Niklas N. aus Chemnitz",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Lamborghini ist klasse. Der Spielwert ist hier wirklich hoch. Danke.",
+    "customer_name": "Jonas Q. aus Delmenhorst",
     "date": "2025-09-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Zwei Autos ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Valentin S. aus Hagen",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Fertig aufgebaut sieht es im Regal einfach toll aus. 5 Sterne von mir.",
+    "customer_name": "Tanja A. aus Wilhelmshaven",
+    "date": "2025-09-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Die Klemmkraft der Steine ist perfekt. Das Feature Rennautos ist klasse. Passt perfekt in meine Sammlung. Klare 10/10.",
+    "customer_name": "Claudia V. aus Mannheim",
+    "date": "2025-09-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Fertig aufgebaut sieht es im Regal einfach toll aus. Klare 10/10.",
+    "customer_name": "Luis R. aus Heidenheim",
     "date": "2025-09-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Sammlung erweitert ist super umgesetzt. Besonders Detailreich gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Dominik C. aus Hamburg",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Es gibt viele clevere Bautechniken zu entdecken. Top, weiter so.",
+    "customer_name": "Max N. aus Moers",
     "date": "2025-09-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Revuelto ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Lukas P. aus Stuttgart",
-    "date": "2025-09-22"
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Die Anleitung war sehr verständlich und einfach zu folgen. Für Fans ein absolutes Muss.",
+    "customer_name": "Justus E. aus Unna",
+    "date": "2025-09-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Lamborghini ist super umgesetzt. Besonders Huracán gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Maximilian B. aus Düsseldorf",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Lamborghini ist klasse. Passt perfekt in meine Sammlung. Hat sich definitiv gelohnt.",
+    "customer_name": "Theo J. aus Heidelberg",
     "date": "2025-09-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Schnell gebaut ist super umgesetzt. Besonders Detailreich gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Anton H. aus Pforzheim",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Sammlung ist klasse. Es gibt viele bewegliche Teile und Funktionen. So macht LEGO Spaß.",
+    "customer_name": "Lenny V. aus Wilhelmshaven",
+    "date": "2025-09-20"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Gewohnte Qualität.",
+    "customer_name": "Stefanie W. aus Neu-Ulm",
     "date": "2025-09-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Huracán ist super umgesetzt. Besonders Detailreich gefällt mir gut. Einfach klasse.",
-    "customer_name": "Benedikt Q. aus Leverkusen",
+    "content": "Klare Empfehlung.",
+    "customer_name": "Theo A. aus Hanau",
     "date": "2025-09-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Revuelto ist super umgesetzt. Besonders Detailreich gefällt mir gut. Einfach klasse.",
-    "customer_name": "Emil V. aus Recklinghausen",
+    "content": "Perfekt für einen verregneten Nachmittag. Auch für jüngere Kinder gut zu bewältigen. Das Feature Revuelto ist klasse. Die Details sind wirklich liebevoll gestaltet. Preis-Leistung stimmt hier.",
+    "customer_name": "Adrian Q. aus Bochum",
     "date": "2025-09-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Sammlung erweitert ist super umgesetzt. Besonders Detailreich gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Kevin F. aus Solingen",
+    "content": "Schnell gebaut.",
+    "customer_name": "David D. aus Dorsten",
     "date": "2025-09-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Zwei Autos ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Einfach klasse.",
-    "customer_name": "Timo N. aus Recklinghausen",
-    "date": "2025-09-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Zwei Autos ist super umgesetzt. Besonders Huracán gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Birgit W. aus München",
-    "date": "2025-09-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Schnell gebaut ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Malte V. aus Braunschweig",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Besonders Schnell gebaut gefällt mir gut. Danke.",
+    "customer_name": "Theo M. aus Essen",
     "date": "2025-09-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Detailreich ist super umgesetzt. Besonders Detailreich gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Anton V. aus Stuttgart",
-    "date": "2025-09-15"
+    "content": "Für den Preis bekommt man hier echt viel geboten. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Huracán ist klasse. Der Spielwert ist hier wirklich hoch. Klare 10/10.",
+    "customer_name": "Liam L. aus Lippstadt",
+    "date": "2025-09-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Zwei Autos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Melanie A. aus Göttingen",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Es gibt viele clevere Bautechniken zu entdecken. Danke.",
+    "customer_name": "Oskar Y. aus Hannover",
+    "date": "2025-09-11"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es direkt nach Erscheinen bestellt. Der Spielwert ist hier wirklich hoch. Freue mich schon auf das nächste Set.",
+    "customer_name": "Niklas X. aus Monheim am Rhein",
     "date": "2025-09-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Revuelto ist super umgesetzt. Besonders Revuelto gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Henry B. aus Bonn",
-    "date": "2025-09-09"
+    "content": "Gute Verpackung. Danke!",
+    "customer_name": "Sabine W. aus Bornheim",
+    "date": "2025-09-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Sammlung erweitert ist super umgesetzt. Besonders Huracán gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Luis O. aus Erlangen",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Besonders Detailreich gefällt mir gut. Hat sich definitiv gelohnt.",
+    "customer_name": "Liam O. aus Herzogenrath",
     "date": "2025-09-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Anton L. aus Regensburg",
-    "date": "2025-09-07"
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Schnell gebaut ist klasse. Es gibt viele bewegliche Teile und Funktionen. Vielen Dank für den schnellen Service.",
+    "customer_name": "Dominik P. aus Koblenz",
+    "date": "2025-09-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Rennautos ist super umgesetzt. Besonders Huracán gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Adrian N. aus Fürth",
-    "date": "2025-09-05"
+    "content": "Für den Preis bekommt man hier echt viel geboten. Besonders Rennautos gefällt mir gut. Alles richtig gemacht.",
+    "customer_name": "Hannes M. aus Bochum",
+    "date": "2025-09-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Revuelto ist super umgesetzt. Besonders Detailreich gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Claudia F. aus Koblenz",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Auch für jüngere Kinder gut zu bewältigen. Das Feature Schnell gebaut ist klasse. Die Details sind wirklich liebevoll gestaltet. So macht LEGO Spaß.",
+    "customer_name": "Jan X. aus Mainz",
     "date": "2025-09-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Top Qualität.",
-    "customer_name": "Tim Q. aus Remscheid",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Es ist sehr stabil, man kann gut damit spielen. Ein tolles Geschenk.",
+    "customer_name": "Milan U. aus Hilden",
     "date": "2025-09-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Petra X. aus Frankfurt",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Zwei Autos ist klasse. Ein echter Hingucker in der Vitrine. Alles richtig gemacht.",
+    "customer_name": "Timo K. aus Albstadt",
+    "date": "2025-09-03"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Besonders Huracán gefällt mir gut. Hat sich definitiv gelohnt.",
+    "customer_name": "Christina S. aus Nordhorn",
     "date": "2025-09-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Lamborghini gefällt mir gut. 5 Sterne.",
-    "customer_name": "Kevin L. aus Moers",
-    "date": "2025-09-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Lamborghini ist super umgesetzt. Besonders Rennautos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Sascha L. aus Ludwigsburg",
+    "content": "Ein Muss für jeden Sammler. Besonders Detailreich gefällt mir gut. So macht LEGO Spaß.",
+    "customer_name": "Fabian L. aus Regensburg",
     "date": "2025-09-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Lamborghini ist super umgesetzt. Besonders Detailreich gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Vincent C. aus Gera",
-    "date": "2025-08-31"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Jan K. aus Köln",
+    "content": "Wie immer top.",
+    "customer_name": "Christina O. aus Fellbach",
     "date": "2025-08-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Sammlung erweitert ist super umgesetzt. Besonders Lamborghini gefällt mir gut. 5 Sterne.",
-    "customer_name": "Henry I. aus Schwerin",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Es haben keine Teile gefehlt, was sehr wichtig ist. Super Shop.",
+    "customer_name": "Samuel G. aus Kempten",
     "date": "2025-08-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Lamborghini ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Emil O. aus Dortmund",
+    "content": "Gerne wieder. Bin zufrieden.",
+    "customer_name": "Kilian Z. aus Dresden",
+    "date": "2025-08-28"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Lamborghini ist klasse. Die Minifiguren sind besonders schön bedruckt. 5 Sterne von mir.",
+    "customer_name": "Leo U. aus Kleve",
+    "date": "2025-08-26"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Endlich habe ich mir dieses Set gegönnt. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Daumen hoch!",
+    "customer_name": "Jonas D. aus Chemnitz",
     "date": "2025-08-25"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Zwei Autos ist super umgesetzt. Besonders Huracán gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Julian E. aus Magdeburg",
-    "date": "2025-08-23"
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Der Bauprozess war abwechslungsreich und nie langweilig. So macht LEGO Spaß.",
+    "customer_name": "Andrea R. aus Oranienburg",
+    "date": "2025-08-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Revuelto ist super umgesetzt. Besonders Detailreich gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Milan A. aus Ludwigsburg",
-    "date": "2025-08-23"
+    "content": "Perfekt für einen verregneten Nachmittag. Besonders Zwei Autos gefällt mir gut. Bin rundum zufrieden.",
+    "customer_name": "Mats A. aus Marburg",
+    "date": "2025-08-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Rennautos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Matteo W. aus Salzgitter",
-    "date": "2025-08-22"
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Zwei Autos ist klasse. Es ist sehr stabil, man kann gut damit spielen. 5 Sterne von mir.",
+    "customer_name": "Kerstin X. aus Böblingen",
+    "date": "2025-08-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Detailreich ist super umgesetzt. Besonders Lamborghini gefällt mir gut. 5 Sterne.",
-    "customer_name": "Lenny J. aus Magdeburg",
-    "date": "2025-08-17"
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Detailreich ist klasse. Es ist sehr stabil, man kann gut damit spielen. Ein tolles Geschenk.",
+    "customer_name": "Emil K. aus Soest",
+    "date": "2025-08-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Sammlung erweitert ist super umgesetzt. Besonders Revuelto gefällt mir gut. Top Qualität.",
-    "customer_name": "Luca W. aus Leipzig",
-    "date": "2025-08-17"
+    "content": "Macht Spaß.",
+    "customer_name": "Niklas M. aus Herten",
+    "date": "2025-08-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Schnell gebaut ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Moritz Q. aus Duisburg",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Die Klemmkraft der Steine ist perfekt. Das Feature Rennautos ist klasse. Ein echter Hingucker in der Vitrine. Hat sich definitiv gelohnt.",
+    "customer_name": "Anna G. aus Bremerhaven",
+    "date": "2025-08-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es direkt nach Erscheinen bestellt. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Huracán ist klasse. Es ist sehr stabil, man kann gut damit spielen. Daumen hoch!",
+    "customer_name": "Anton E. aus Sankt Augustin",
+    "date": "2025-08-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Der Bauprozess war abwechslungsreich und nie langweilig. Bin rundum zufrieden.",
+    "customer_name": "Lisa V. aus Langenhagen",
     "date": "2025-08-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Henry E. aus Duisburg",
-    "date": "2025-08-11"
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Es ist sehr stabil, man kann gut damit spielen. Für Fans ein absolutes Muss.",
+    "customer_name": "Benedikt J. aus Duisburg",
+    "date": "2025-08-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Nico R. aus Bremen",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Detailreich ist klasse. Die Details sind wirklich liebevoll gestaltet. Alles richtig gemacht.",
+    "customer_name": "Luis D. aus Flensburg",
+    "date": "2025-08-13"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Rennautos ist klasse. Es ist sehr stabil, man kann gut damit spielen. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Jannik W. aus Grevenbroich",
+    "date": "2025-08-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Besonders Zwei Autos gefällt mir gut. Hat sich definitiv gelohnt.",
+    "customer_name": "Fabian M. aus Dortmund",
     "date": "2025-08-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Schnell gebaut ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Bastian I. aus Rostock",
-    "date": "2025-08-08"
+    "content": "Endlich habe ich mir dieses Set gegönnt. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Revuelto ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Preis-Leistung stimmt hier.",
+    "customer_name": "Paul B. aus Weinheim",
+    "date": "2025-08-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Lamborghini ist super umgesetzt. Besonders Rennautos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Laura U. aus Esslingen",
-    "date": "2025-08-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Rennautos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Jan O. aus Ulm",
-    "date": "2025-08-08"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Zwei Autos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Liam G. aus München",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Detailreich ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Malte H. aus Oberhausen",
-    "date": "2025-08-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Sammlung erweitert ist super umgesetzt. Besonders Revuelto gefällt mir gut. 5 Sterne.",
-    "customer_name": "Lisa X. aus Mönchengladbach",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Revuelto ist klasse. Es ist sehr stabil, man kann gut damit spielen. Preis-Leistung stimmt hier.",
+    "customer_name": "Leo Q. aus Berlin",
     "date": "2025-08-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Zwei Autos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Finn J. aus Oberhausen",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Bin happy.",
+    "customer_name": "Anna B. aus Halle (Saale)",
     "date": "2025-08-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Huracán ist super umgesetzt. Besonders Revuelto gefällt mir gut. Einfach klasse.",
-    "customer_name": "Yannick E. aus Leverkusen",
+    "content": "Ein Muss für jeden Sammler. Die Minifiguren sind besonders schön bedruckt. Bin happy.",
+    "customer_name": "Anna P. aus Darmstadt",
+    "date": "2025-08-05"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Revuelto ist klasse. Ein echter Hingucker in der Vitrine. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Justus D. aus Reutlingen",
     "date": "2025-08-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Detailreich ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Niklas G. aus Ludwigsburg",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Felix O. aus Heilbronn",
-    "date": "2025-08-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Rennautos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Christoph A. aus Gütersloh",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Besonders Zwei Autos gefällt mir gut. Daumen hoch!",
+    "customer_name": "Moritz Y. aus Hagen",
     "date": "2025-08-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Schnell gebaut ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Moritz T. aus Gütersloh",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Es lässt sich auch super mit anderen Sets kombinieren. Bin rundum zufrieden.",
+    "customer_name": "Tim K. aus Aachen",
+    "date": "2025-08-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Es gibt viele bewegliche Teile und Funktionen. 5 Sterne von mir.",
+    "customer_name": "Tom A. aus Witten",
+    "date": "2025-08-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Besonders Rennautos gefällt mir gut. Freue mich schon auf das nächste Set.",
+    "customer_name": "Christoph E. aus Pforzheim",
+    "date": "2025-08-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Schnell gebaut ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Absolute Kaufempfehlung.",
+    "customer_name": "Matteo W. aus Menden",
+    "date": "2025-08-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekt für einen verregneten Nachmittag. Der Bauprozess war abwechslungsreich und nie langweilig. Hat sich definitiv gelohnt.",
+    "customer_name": "Philipp J. aus Mönchengladbach",
     "date": "2025-07-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Huracán ist super umgesetzt. Besonders Revuelto gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Susanne Q. aus Cottbus",
-    "date": "2025-07-30"
+    "content": "Ein Muss für jeden Sammler. Es lässt sich auch super mit anderen Sets kombinieren. Einfach klasse.",
+    "customer_name": "Simon Z. aus Langenfeld",
+    "date": "2025-07-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Zwei Autos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Lenny U. aus Lübeck",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Besonders Huracán gefällt mir gut. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Arne E. aus Langenfeld",
     "date": "2025-07-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Revuelto ist super umgesetzt. Besonders Huracán gefällt mir gut. Top Qualität.",
-    "customer_name": "Felix P. aus Jena",
-    "date": "2025-07-27"
+    "content": "Ein Muss für jeden Sammler. Ein paar Ersatzteile waren auch dabei, sehr gut. Absolute Kaufempfehlung.",
+    "customer_name": "Leo W. aus Ahlen",
+    "date": "2025-07-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Rennautos ist super umgesetzt. Besonders Detailreich gefällt mir gut. 5 Sterne.",
-    "customer_name": "Sarah R. aus Solingen",
-    "date": "2025-07-27"
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Besonders Revuelto gefällt mir gut. 5 Sterne von mir.",
+    "customer_name": "David M. aus Menden",
+    "date": "2025-07-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Zwei Autos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Emil A. aus Heilbronn",
-    "date": "2025-07-25"
+    "content": "Perfekt für einen verregneten Nachmittag. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Zwei Autos ist klasse. Die Details sind wirklich liebevoll gestaltet. Preis-Leistung stimmt hier.",
+    "customer_name": "Katharina L. aus Görlitz",
+    "date": "2025-07-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Revuelto ist super umgesetzt. Besonders Huracán gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Maximilian C. aus München",
-    "date": "2025-07-24"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Schnell gebaut ist super umgesetzt. Besonders Huracán gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Jannik B. aus Braunschweig",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Revuelto ist klasse. Die Minifiguren sind besonders schön bedruckt. Einfach klasse.",
+    "customer_name": "Lukas W. aus Bergheim",
     "date": "2025-07-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Revuelto ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Finn I. aus Düsseldorf",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Die Klemmkraft der Steine ist perfekt. Super Shop.",
+    "customer_name": "Arne P. aus Melle",
     "date": "2025-07-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Revuelto ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Vincent W. aus Oldenburg",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Es gibt viele clevere Bautechniken zu entdecken. Das Feature Revuelto ist klasse. Es gibt viele bewegliche Teile und Funktionen. Einfach klasse.",
+    "customer_name": "Leon J. aus Euskirchen",
     "date": "2025-07-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Lukas O. aus Kaiserslautern",
-    "date": "2025-07-17"
+    "content": "Habe es direkt nach Erscheinen bestellt. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Huracán ist klasse. Mein Kind spielt seit Tagen nur noch damit. Top, weiter so.",
+    "customer_name": "Alexander S. aus Düren",
+    "date": "2025-07-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Schnell gebaut ist super umgesetzt. Besonders Revuelto gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Henry A. aus Rostock",
-    "date": "2025-07-17"
+    "content": "Endlich habe ich mir dieses Set gegönnt. Besonders Zwei Autos gefällt mir gut. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Arne B. aus Mülheim an der Ruhr",
+    "date": "2025-07-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Susanne U. aus Hannover",
-    "date": "2025-07-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Rennautos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Valentin K. aus Salzgitter",
-    "date": "2025-07-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Liam U. aus Esslingen",
-    "date": "2025-07-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Schnell gebaut ist super umgesetzt. Besonders Rennautos gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Paul L. aus Bonn",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Auch für jüngere Kinder gut zu bewältigen. Das Feature Sammlung ist klasse. Die Details sind wirklich liebevoll gestaltet. 5 Sterne von mir.",
+    "customer_name": "Finn L. aus Kerpen",
     "date": "2025-07-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Zwei Autos ist super umgesetzt. Besonders Huracán gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Tobias I. aus Münster",
-    "date": "2025-07-12"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Lamborghini ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Florian I. aus Bremerhaven",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Der Spielwert ist hier wirklich hoch. Preis-Leistung stimmt hier.",
+    "customer_name": "Justus J. aus Bergkamen",
     "date": "2025-07-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Huracán ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "David V. aus Recklinghausen",
-    "date": "2025-07-11"
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Ein paar Ersatzteile waren auch dabei, sehr gut. Danke.",
+    "customer_name": "Andrea E. aus Göppingen",
+    "date": "2025-07-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Sammlung erweitert ist super umgesetzt. Besonders Huracán gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Sandra P. aus Jena",
-    "date": "2025-07-11"
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Mein Kind spielt seit Tagen nur noch damit. Danke.",
+    "customer_name": "Noah W. aus Brotterode",
+    "date": "2025-07-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Zwei Autos ist super umgesetzt. Besonders Huracán gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Luis G. aus Ulm",
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Detailreich ist klasse. Die Details sind wirklich liebevoll gestaltet. Preis-Leistung stimmt hier.",
+    "customer_name": "Niklas T. aus Dresden",
+    "date": "2025-07-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Kind ist glücklich. Danke!",
+    "customer_name": "Luca N. aus Rheine",
+    "date": "2025-07-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Die Klemmkraft der Steine ist perfekt. Das Feature Detailreich ist klasse. Die Minifiguren sind besonders schön bedruckt. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Emil R. aus Bornheim",
     "date": "2025-07-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Rennautos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Noah S. aus Heilbronn",
-    "date": "2025-07-04"
+    "content": "Endlich habe ich mir dieses Set gegönnt. Besonders Detailreich gefällt mir gut. Hat sich definitiv gelohnt.",
+    "customer_name": "Philipp N. aus Gronau",
+    "date": "2025-07-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Sammlung erweitert ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Nicole K. aus Remscheid",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Sammlung ist klasse. Es ist sehr stabil, man kann gut damit spielen. Preis-Leistung stimmt hier.",
+    "customer_name": "Justus S. aus Braunschweig",
+    "date": "2025-07-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Besonders Huracán gefällt mir gut. Preis-Leistung stimmt hier.",
+    "customer_name": "Noah E. aus Offenbach",
+    "date": "2025-07-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Auch für jüngere Kinder gut zu bewältigen. Das Feature Zwei Autos ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Ein tolles Geschenk.",
+    "customer_name": "Henry K. aus Heinsberg",
     "date": "2025-06-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Rennautos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Andrea C. aus Heilbronn",
-    "date": "2025-06-26"
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Ein paar Ersatzteile waren auch dabei, sehr gut. Super Shop.",
+    "customer_name": "Petra W. aus Erfurt",
+    "date": "2025-06-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Schnell gebaut ist super umgesetzt. Besonders Detailreich gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Nico H. aus Erlangen",
-    "date": "2025-06-24"
+    "content": "Ein wirklich gelungenes Set von LEGO. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Zwei Autos ist klasse. Es ist sehr stabil, man kann gut damit spielen. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Justus T. aus Frankfurt (Oder)",
+    "date": "2025-06-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Huracán ist super umgesetzt. Besonders Revuelto gefällt mir gut. 5 Sterne.",
-    "customer_name": "Marlon C. aus Düsseldorf",
-    "date": "2025-06-23"
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Revuelto ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Einfach klasse.",
+    "customer_name": "Johannes R. aus Elmshorn",
+    "date": "2025-06-27"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Oskar U. aus Göttingen",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Ein echter Hingucker in der Vitrine. Vielen Dank für den schnellen Service.",
+    "customer_name": "Leo W. aus Neuwied",
+    "date": "2025-06-25"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Hat sich definitiv gelohnt.",
+    "customer_name": "Arne I. aus Langenhagen",
     "date": "2025-06-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Jannik Z. aus Bergisch Gladbach",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Lamborghini ist klasse. Der Spielwert ist hier wirklich hoch. So macht LEGO Spaß.",
+    "customer_name": "Benedikt F. aus Lüneburg",
+    "date": "2025-06-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Zwei Autos ist klasse. Die Details sind wirklich liebevoll gestaltet. Einfach klasse.",
+    "customer_name": "Johannes W. aus Osnabrück",
     "date": "2025-06-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Sammlung erweitert ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Jannik U. aus Dresden",
-    "date": "2025-06-21"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Zwei Autos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Dennis O. aus Mönchengladbach",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Es ist sehr stabil, man kann gut damit spielen. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Leo H. aus Würzburg",
     "date": "2025-06-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Zwei Autos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Kilian B. aus Hamburg",
-    "date": "2025-06-20"
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Mein Kind spielt seit Tagen nur noch damit. 5 Sterne von mir.",
+    "customer_name": "Luis F. aus Rheda-Wiedenbrück",
+    "date": "2025-06-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Huracán ist super umgesetzt. Besonders Revuelto gefällt mir gut. Einfach klasse.",
-    "customer_name": "Paul E. aus Dortmund",
-    "date": "2025-06-15"
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Huracán ist klasse. Die Details sind wirklich liebevoll gestaltet. Freue mich schon auf das nächste Set.",
+    "customer_name": "Anja N. aus Münster",
+    "date": "2025-06-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Schnell gebaut ist super umgesetzt. Besonders Rennautos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Petra C. aus Jena",
-    "date": "2025-06-13"
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Bin rundum zufrieden.",
+    "customer_name": "Paul V. aus Frankfurt",
+    "date": "2025-06-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Schnell gebaut ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Jonas K. aus Chemnitz",
+    "content": "Passt perfekt.",
+    "customer_name": "Arne Z. aus Trier",
+    "date": "2025-06-16"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Lamborghini ist klasse. Mein Kind spielt seit Tagen nur noch damit. Alles richtig gemacht.",
+    "customer_name": "Tanja R. aus Brandenburg an der Havel",
+    "date": "2025-06-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Sammlung ist klasse. Ein echter Hingucker in der Vitrine. Ein tolles Geschenk.",
+    "customer_name": "Yannick W. aus Leipzig",
+    "date": "2025-06-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Besonders Revuelto gefällt mir gut. Preis-Leistung stimmt hier.",
+    "customer_name": "Hannes Y. aus Göppingen",
     "date": "2025-06-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Einfach klasse.",
-    "customer_name": "Valentin R. aus Potsdam",
-    "date": "2025-06-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Schnell gebaut ist super umgesetzt. Besonders Revuelto gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Petra H. aus Esslingen",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Besonders Schnell gebaut gefällt mir gut. Ein tolles Geschenk.",
+    "customer_name": "Andrea K. aus Duisburg",
     "date": "2025-06-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Top Qualität.",
-    "customer_name": "Julia X. aus Esslingen",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Zwei Autos ist klasse. Mein Kind spielt seit Tagen nur noch damit. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Tobias O. aus Nordhorn",
     "date": "2025-06-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Sammlung erweitert ist super umgesetzt. Besonders Rennautos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Johannes M. aus Hagen",
+    "content": "Habe es direkt nach Erscheinen bestellt. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Detailreich ist klasse. Mein Kind spielt seit Tagen nur noch damit. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Julia M. aus Moers",
+    "date": "2025-06-08"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Schnell gebaut ist klasse. Die Details sind wirklich liebevoll gestaltet. Daumen hoch!",
+    "customer_name": "Emil P. aus Göttingen",
     "date": "2025-06-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Zwei Autos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Tim I. aus Recklinghausen",
-    "date": "2025-06-06"
+    "content": "Endlich habe ich mir dieses Set gegönnt. Die Anleitung war sehr verständlich und einfach zu folgen. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Nicole G. aus Bad Homburg",
+    "date": "2025-06-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Sammlung erweitert ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Jan Y. aus Bergisch Gladbach",
-    "date": "2025-06-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Tobias D. aus Mönchengladbach",
-    "date": "2025-06-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Schnell gebaut ist super umgesetzt. Besonders Rennautos gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Nico L. aus Hamm",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Besonders Sammlung gefällt mir gut. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Mats J. aus Dessau-Roßlau",
     "date": "2025-06-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Rennautos ist super umgesetzt. Besonders Revuelto gefällt mir gut. Top Qualität.",
-    "customer_name": "Susanne Z. aus Dortmund",
+    "content": "Einfach super.",
+    "customer_name": "Matteo I. aus Lemgo",
     "date": "2025-06-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Revuelto ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Noah U. aus Rostock",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Passt perfekt in meine Sammlung. Top, weiter so.",
+    "customer_name": "Lenny Q. aus Castrop-Rauxel",
+    "date": "2025-06-03"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Freue mich schon auf das nächste Set.",
+    "customer_name": "Maria W. aus Dorsten",
     "date": "2025-06-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Einfach klasse.",
-    "customer_name": "Justus Z. aus Heidelberg",
-    "date": "2025-06-02"
+    "content": "Macht Spaß. Top.",
+    "customer_name": "Maximilian M. aus Fürth",
+    "date": "2025-06-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Rennautos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Erik K. aus München",
-    "date": "2025-06-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "War ein Spontankauf. Zwei Autos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Niklas M. aus Stuttgart",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Rennautos ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Bastian Z. aus Dülmen",
     "date": "2025-05-31"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Huracán ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Dennis P. aus Gütersloh",
+    "content": "Ein Muss für jeden Sammler. Es gibt viele bewegliche Teile und Funktionen. Preis-Leistung stimmt hier.",
+    "customer_name": "Kerstin R. aus Fellbach",
     "date": "2025-05-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Huracán ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Petra H. aus Regensburg",
+    "content": "Alles bestens.",
+    "customer_name": "Malte Z. aus Memmingen",
+    "date": "2025-05-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Besonders Detailreich gefällt mir gut. So macht LEGO Spaß.",
+    "customer_name": "Andrea B. aus Bornheim",
+    "date": "2025-05-30"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein Muss für jeden Sammler. Es lässt sich auch super mit anderen Sets kombinieren. So macht LEGO Spaß.",
+    "customer_name": "Jan G. aus Gladbeck",
     "date": "2025-05-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Rennautos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Maria J. aus Erlangen",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Auch für jüngere Kinder gut zu bewältigen. Danke.",
+    "customer_name": "Petra P. aus Castrop-Rauxel",
     "date": "2025-05-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Huracán ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Top Qualität.",
-    "customer_name": "Julia P. aus Braunschweig",
-    "date": "2025-05-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Schnell gebaut ist super umgesetzt. Besonders Revuelto gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Kilian W. aus Hanau",
-    "date": "2025-05-29"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Schnell gebaut ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Lenny I. aus Reutlingen",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Besonders Revuelto gefällt mir gut. 5 Sterne von mir.",
+    "customer_name": "Maximilian F. aus Bornheim",
     "date": "2025-05-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Sammlung erweitert ist super umgesetzt. Besonders Detailreich gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Christina S. aus Augsburg",
-    "date": "2025-05-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Zwei Autos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Melanie B. aus Mönchengladbach",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Der Bauprozess war abwechslungsreich und nie langweilig. Hat sich definitiv gelohnt.",
+    "customer_name": "Leon C. aus Münster",
     "date": "2025-05-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Moritz F. aus Offenbach",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Der Bauprozess war abwechslungsreich und nie langweilig. 5 Sterne von mir.",
+    "customer_name": "Stefanie R. aus Offenburg",
     "date": "2025-05-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Schnell gebaut ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. 5 Sterne.",
-    "customer_name": "Samuel M. aus Krefeld",
+    "content": "Ein Muss für jeden Sammler. Besonders Detailreich gefällt mir gut. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Liam K. aus Hof",
     "date": "2025-05-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Rennautos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Finn U. aus Bonn",
+    "content": "Habe es direkt nach Erscheinen bestellt. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Schnell gebaut ist klasse. Mein Kind spielt seit Tagen nur noch damit. Alles richtig gemacht.",
+    "customer_name": "Luis W. aus Stuttgart",
     "date": "2025-05-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Malte L. aus Gera",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Schnell gebaut ist super umgesetzt. Besonders Huracán gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Robin X. aus Moers",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Rennautos ist super umgesetzt. Besonders Huracán gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Paul R. aus Heidelberg",
-    "date": "2025-05-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Revuelto ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Nadine Z. aus Frankfurt",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Lamborghini ist klasse. Es ist sehr stabil, man kann gut damit spielen. Ein tolles Geschenk.",
+    "customer_name": "Sandra S. aus Aachen",
     "date": "2025-05-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Revuelto ist super umgesetzt. Besonders Rennautos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Luis M. aus Wolfsburg",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Lamborghini ist klasse. Ein echter Hingucker in der Vitrine. So macht LEGO Spaß.",
+    "customer_name": "Felix C. aus Bad Homburg",
     "date": "2025-05-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Sascha H. aus Reutlingen",
-    "date": "2025-05-18"
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Es haben keine Teile gefehlt, was sehr wichtig ist. Super Shop.",
+    "customer_name": "Yannick F. aus Lünen",
+    "date": "2025-05-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Revuelto ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Theo H. aus Köln",
-    "date": "2025-05-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Robin D. aus Ulm",
-    "date": "2025-05-17"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Zwei Autos ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Dominik P. aus Berlin",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Besonders Schnell gebaut gefällt mir gut. Hat sich definitiv gelohnt.",
+    "customer_name": "Sandra O. aus Bottrop",
     "date": "2025-05-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Revuelto ist super umgesetzt. Besonders Revuelto gefällt mir gut. Top Qualität.",
-    "customer_name": "Julian Z. aus Bergisch Gladbach",
-    "date": "2025-05-15"
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Es gibt viele bewegliche Teile und Funktionen. Alles richtig gemacht.",
+    "customer_name": "Benedikt W. aus Menden",
+    "date": "2025-05-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Schnell gebaut ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Robin Y. aus Braunschweig",
-    "date": "2025-05-11"
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Die Anleitung war sehr verständlich und einfach zu folgen. So macht LEGO Spaß.",
+    "customer_name": "Adrian F. aus Heilbronn",
+    "date": "2025-05-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Revuelto ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Tobias Y. aus Gelsenkirchen",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Absolute Kaufempfehlung.",
+    "customer_name": "Sarah J. aus Passau",
+    "date": "2025-05-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein Muss für jeden Sammler. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Zwei Autos ist klasse. Es ist sehr stabil, man kann gut damit spielen. Super Shop.",
+    "customer_name": "Sascha V. aus Würzburg",
+    "date": "2025-05-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Mein Kind spielt seit Tagen nur noch damit. Bin rundum zufrieden.",
+    "customer_name": "Leon P. aus Lübeck",
+    "date": "2025-05-07"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein Muss für jeden Sammler. Besonders Detailreich gefällt mir gut. Einfach klasse.",
+    "customer_name": "Lenny X. aus Reutlingen",
     "date": "2025-05-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Detailreich ist super umgesetzt. Besonders Detailreich gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Felix K. aus Fürth",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Besonders Revuelto gefällt mir gut. Top, weiter so.",
+    "customer_name": "Kevin H. aus Herford",
+    "date": "2025-05-06"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Besonders Sammlung gefällt mir gut. Top, weiter so.",
+    "customer_name": "Marlon T. aus Lippstadt",
     "date": "2025-05-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Rennautos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Robin S. aus Remscheid",
-    "date": "2025-05-05"
+    "content": "Sehr schön.",
+    "customer_name": "Vincent I. aus Waiblingen",
+    "date": "2025-05-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Detailreich ist super umgesetzt. Besonders Detailreich gefällt mir gut. Einfach klasse.",
-    "customer_name": "Lisa K. aus Bochum",
-    "date": "2025-05-02"
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Ein echter Hingucker in der Vitrine. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Sarah A. aus Düren",
+    "date": "2025-05-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Detailreich ist super umgesetzt. Besonders Huracán gefällt mir gut. Einfach klasse.",
-    "customer_name": "Elias B. aus Chemnitz",
-    "date": "2025-04-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Sammlung erweitert ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Einfach klasse.",
-    "customer_name": "Henry K. aus Potsdam",
-    "date": "2025-04-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "David X. aus Mönchengladbach",
+    "content": "Perfekt für einen verregneten Nachmittag. Passt perfekt in meine Sammlung. Hat sich definitiv gelohnt.",
+    "customer_name": "Paul W. aus Halle (Saale)",
     "date": "2025-04-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Rennautos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Nicole F. aus Hamm",
-    "date": "2025-04-27"
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Revuelto ist klasse. Die Minifiguren sind besonders schön bedruckt. Bin rundum zufrieden.",
+    "customer_name": "Tanja N. aus Rottenburg",
+    "date": "2025-04-26"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Revuelto ist super umgesetzt. Besonders Revuelto gefällt mir gut. 5 Sterne.",
-    "customer_name": "Dominik F. aus Duisburg",
-    "date": "2025-04-27"
+    "content": "Ein Muss für jeden Sammler. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Sammlung ist klasse. Passt perfekt in meine Sammlung. Hat sich definitiv gelohnt.",
+    "customer_name": "Valentin I. aus Worms",
+    "date": "2025-04-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Rennautos ist super umgesetzt. Besonders Revuelto gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Erik P. aus Fürth",
-    "date": "2025-04-25"
+    "content": "Tolles Set.",
+    "customer_name": "Jonas O. aus Borken",
+    "date": "2025-04-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Schnell gebaut ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Einfach klasse.",
-    "customer_name": "Nico Q. aus Heidelberg",
-    "date": "2025-04-23"
+    "content": "Ein wirklich gelungenes Set von LEGO. Fertig aufgebaut sieht es im Regal einfach toll aus. Klare 10/10.",
+    "customer_name": "Adrian I. aus Reutlingen",
+    "date": "2025-04-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Detailreich ist super umgesetzt. Besonders Huracán gefällt mir gut. 5 Sterne.",
-    "customer_name": "Sandra Y. aus Gera",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Besonders Lamborghini gefällt mir gut. Super Shop.",
+    "customer_name": "Laura O. aus Dorsten",
     "date": "2025-04-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Detailreich ist super umgesetzt. Besonders Huracán gefällt mir gut. Top Qualität.",
-    "customer_name": "Lenny F. aus Regensburg",
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Revuelto ist klasse. Die Details sind wirklich liebevoll gestaltet. 5 Sterne von mir.",
+    "customer_name": "Vincent C. aus Wolfenbüttel",
+    "date": "2025-04-22"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Schnell gebaut ist klasse. Mein Kind spielt seit Tagen nur noch damit. Absolute Kaufempfehlung.",
+    "customer_name": "Tobias O. aus Ulm",
     "date": "2025-04-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Top Qualität.",
-    "customer_name": "Henry B. aus Witten",
+    "content": "Endlich habe ich mir dieses Set gegönnt. Auch für jüngere Kinder gut zu bewältigen. Das Feature Detailreich ist klasse. Es gibt viele bewegliche Teile und Funktionen. Bin happy.",
+    "customer_name": "Luca Q. aus Leonberg",
     "date": "2025-04-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Schnell gebaut ist super umgesetzt. Besonders Revuelto gefällt mir gut. Einfach klasse.",
-    "customer_name": "Kerstin X. aus Kaiserslautern",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Revuelto ist klasse. Mein Kind spielt seit Tagen nur noch damit. Absolute Kaufempfehlung.",
+    "customer_name": "Tanja K. aus Dachau",
     "date": "2025-04-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Einfach klasse.",
-    "customer_name": "Tom G. aus Moers",
+    "content": "Schnell gebaut. Top.",
+    "customer_name": "Leon V. aus Braunschweig",
+    "date": "2025-04-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Besonders Sammlung gefällt mir gut. Bin happy.",
+    "customer_name": "Fabian T. aus Jena",
     "date": "2025-04-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Revuelto ist super umgesetzt. Besonders Detailreich gefällt mir gut. 5 Sterne.",
-    "customer_name": "Tom W. aus Hannover",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Huracán ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Daumen hoch!",
+    "customer_name": "Petra R. aus Bocholt",
     "date": "2025-04-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Detailreich ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Valentin P. aus Bergisch Gladbach",
-    "date": "2025-04-17"
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Huracán ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Danke.",
+    "customer_name": "Milan P. aus Celle",
+    "date": "2025-04-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Top Qualität.",
-    "customer_name": "Melanie U. aus Esslingen",
-    "date": "2025-04-17"
+    "content": "Für den Preis bekommt man hier echt viel geboten. Der Bauprozess war abwechslungsreich und nie langweilig. Vielen Dank für den schnellen Service.",
+    "customer_name": "Birgit D. aus Leipzig",
+    "date": "2025-04-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Luis X. aus Neuss",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Lamborghini ist klasse. Die Minifiguren sind besonders schön bedruckt. Vielen Dank für den schnellen Service.",
+    "customer_name": "Claudia Y. aus Peine",
+    "date": "2025-04-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Die Klemmkraft der Steine ist perfekt. Das Feature Rennautos ist klasse. Es ist sehr stabil, man kann gut damit spielen. Danke.",
+    "customer_name": "Leon N. aus Erkrath",
+    "date": "2025-04-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Sammlung ist klasse. Der Spielwert ist hier wirklich hoch. Danke.",
+    "customer_name": "Timo S. aus Kamen",
     "date": "2025-04-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Huracán ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Adrian U. aus Esslingen",
-    "date": "2025-04-11"
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Lamborghini ist klasse. Es ist sehr stabil, man kann gut damit spielen. Super Shop.",
+    "customer_name": "Emil Y. aus Arnsberg",
+    "date": "2025-04-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Sammlung erweitert ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Paul X. aus Hamburg",
-    "date": "2025-04-09"
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Ein echter Hingucker in der Vitrine. Preis-Leistung stimmt hier.",
+    "customer_name": "Melanie Q. aus Wetzlar",
+    "date": "2025-04-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Theo U. aus Reutlingen",
-    "date": "2025-04-09"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Schnell gebaut ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Malte Z. aus Essen",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Die Klemmkraft der Steine ist perfekt. Vielen Dank für den schnellen Service.",
+    "customer_name": "Claudia A. aus Traunstein",
     "date": "2025-04-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Zwei Autos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Tom K. aus Oldenburg",
-    "date": "2025-04-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Sammlung erweitert ist super umgesetzt. Besonders Huracán gefällt mir gut. 5 Sterne.",
-    "customer_name": "Johannes S. aus München",
+    "content": "Endlich habe ich mir dieses Set gegönnt. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Detailreich ist klasse. Der Spielwert ist hier wirklich hoch. Bin rundum zufrieden.",
+    "customer_name": "Finn N. aus Moers",
     "date": "2025-04-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Sammlung erweitert ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Einfach klasse.",
-    "customer_name": "Jonas Y. aus Lübeck",
-    "date": "2025-04-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Ben U. aus Berlin",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Auch für jüngere Kinder gut zu bewältigen. Für Fans ein absolutes Muss.",
+    "customer_name": "Maximilian O. aus Ibbenbüren",
     "date": "2025-04-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Oskar P. aus Remscheid",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Besonders Schnell gebaut gefällt mir gut. Preis-Leistung stimmt hier.",
+    "customer_name": "Liam B. aus Bocholt",
     "date": "2025-04-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Vincent U. aus Köln",
-    "date": "2025-03-31"
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Auch für jüngere Kinder gut zu bewältigen. Das Feature Sammlung ist klasse. Der Spielwert ist hier wirklich hoch. Ein tolles Geschenk.",
+    "customer_name": "Lisa U. aus Hannover",
+    "date": "2025-04-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Zwei Autos ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Alexander Q. aus Bielefeld",
-    "date": "2025-03-30"
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Absolute Kaufempfehlung.",
+    "customer_name": "David S. aus Euskirchen",
+    "date": "2025-04-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Huracán ist super umgesetzt. Besonders Detailreich gefällt mir gut. 5 Sterne.",
-    "customer_name": "Nico J. aus Herne",
-    "date": "2025-03-25"
+    "content": "Für den Preis bekommt man hier echt viel geboten. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Alles richtig gemacht.",
+    "customer_name": "Vincent B. aus Göppingen",
+    "date": "2025-03-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Zwei Autos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Yannick K. aus Reutlingen",
-    "date": "2025-03-25"
+    "content": "Ein wirklich gelungenes Set von LEGO. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Hat sich definitiv gelohnt.",
+    "customer_name": "Simon C. aus Witten",
+    "date": "2025-03-29"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Liam P. aus Nürnberg",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Huracán ist klasse. Die Minifiguren sind besonders schön bedruckt. Super Shop.",
+    "customer_name": "Tom E. aus Flensburg",
     "date": "2025-03-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Revuelto ist super umgesetzt. Besonders Huracán gefällt mir gut. Top Qualität.",
-    "customer_name": "Robin R. aus Cottbus",
+    "content": "Habe es direkt nach Erscheinen bestellt. Es gibt viele clevere Bautechniken zu entdecken. Das Feature Rennautos ist klasse. Es ist sehr stabil, man kann gut damit spielen. Preis-Leistung stimmt hier.",
+    "customer_name": "Stefanie Z. aus Bottrop",
+    "date": "2025-03-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Es haben keine Teile gefehlt, was sehr wichtig ist. Würde ich jederzeit wieder kaufen.",
+    "customer_name": "Justus H. aus Rottenburg",
+    "date": "2025-03-23"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Rennautos ist klasse. Passt perfekt in meine Sammlung. Freue mich schon auf das nächste Set.",
+    "customer_name": "Monika H. aus Wolfenbüttel",
     "date": "2025-03-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Sammlung erweitert ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Einfach klasse.",
-    "customer_name": "Matteo X. aus Bremerhaven",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Rennautos ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Ein tolles Geschenk.",
+    "customer_name": "Nadine L. aus Rottenburg",
     "date": "2025-03-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Sammlung erweitert ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. 5 Sterne.",
-    "customer_name": "Sandra O. aus Erlangen",
+    "content": "Gerne wieder.",
+    "customer_name": "Kerstin T. aus Monheim am Rhein",
     "date": "2025-03-19"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Luca W. aus Hagen",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Besonders Lamborghini gefällt mir gut. Vielen Dank für den schnellen Service.",
+    "customer_name": "Birgit U. aus Aurich",
+    "date": "2025-03-19"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ein wirklich gelungenes Set von LEGO. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Revuelto ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. So macht LEGO Spaß.",
+    "customer_name": "Tim O. aus Wolfenbüttel",
+    "date": "2025-03-18"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Auch für jüngere Kinder gut zu bewältigen. Danke.",
+    "customer_name": "Christina G. aus Hanau",
+    "date": "2025-03-17"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Preis-Leistung stimmt hier.",
+    "customer_name": "Sabine Q. aus Heilbronn",
     "date": "2025-03-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Laura L. aus Leverkusen",
-    "date": "2025-03-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Sammlung erweitert ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "David Q. aus Herne",
-    "date": "2025-03-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Huracán ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Jan F. aus Schwerin",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Die Klemmkraft der Steine ist perfekt. Das Feature Schnell gebaut ist klasse. Die Details sind wirklich liebevoll gestaltet. Super Shop.",
+    "customer_name": "Valentin E. aus Stuttgart",
     "date": "2025-03-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Schnell gebaut ist super umgesetzt. Besonders Rennautos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Julia Z. aus Düsseldorf",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Die Klemmkraft der Steine ist perfekt. Das Feature Lamborghini ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Absolute Kaufempfehlung.",
+    "customer_name": "Elias T. aus Moers",
+    "date": "2025-03-14"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Zwei Autos ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Ein tolles Geschenk.",
+    "customer_name": "Lenny U. aus Rodgau",
     "date": "2025-03-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Huracán ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Valentin I. aus Hildesheim",
-    "date": "2025-03-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Schnell gebaut ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Maximilian R. aus Fürth",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Revuelto ist klasse. Die Minifiguren sind besonders schön bedruckt. So macht LEGO Spaß.",
+    "customer_name": "Bastian W. aus Nordhorn",
     "date": "2025-03-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Zwei Autos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Lenny L. aus Gelsenkirchen",
+    "content": "Habe es direkt nach Erscheinen bestellt. Es gibt viele clevere Bautechniken zu entdecken. Danke.",
+    "customer_name": "Sabine M. aus Herzogenrath",
+    "date": "2025-03-12"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Fertig aufgebaut sieht es im Regal einfach toll aus. Super Shop.",
+    "customer_name": "Elias M. aus Eisenach",
     "date": "2025-03-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Revuelto ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Einfach klasse.",
-    "customer_name": "Sabine A. aus Augsburg",
-    "date": "2025-03-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Schnell gebaut ist super umgesetzt. Besonders Rennautos gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Felix A. aus Bremerhaven",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Fertig aufgebaut sieht es im Regal einfach toll aus. 5 Sterne von mir.",
+    "customer_name": "Nadine L. aus Hattingen",
     "date": "2025-03-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Zwei Autos ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Julian Z. aus Krefeld",
-    "date": "2025-03-10"
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Lamborghini ist klasse. Es ist sehr stabil, man kann gut damit spielen. Preis-Leistung stimmt hier.",
+    "customer_name": "Liam A. aus Lingen",
+    "date": "2025-03-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Einfach klasse.",
-    "customer_name": "Anton T. aus Bonn",
+    "content": "Ein Muss für jeden Sammler. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Alles richtig gemacht.",
+    "customer_name": "Jan Q. aus Bremen",
     "date": "2025-03-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Schnell gebaut ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Einfach klasse.",
-    "customer_name": "Hannes G. aus Regensburg",
-    "date": "2025-03-07"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Maria U. aus Bergisch Gladbach",
+    "content": "Ein wirklich gelungenes Set von LEGO. Die Klemmkraft der Steine ist perfekt. Das Feature Revuelto ist klasse. Mein Kind spielt seit Tagen nur noch damit. Hat sich definitiv gelohnt.",
+    "customer_name": "Lisa L. aus Saarbrücken",
     "date": "2025-03-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Lamborghini ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Felix Y. aus Mönchengladbach",
-    "date": "2025-03-06"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Revuelto ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Liam M. aus Bremen",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Die Klemmkraft der Steine ist perfekt. Das Feature Revuelto ist klasse. Es ist sehr stabil, man kann gut damit spielen. Hat sich definitiv gelohnt.",
+    "customer_name": "Nicole N. aus Delmenhorst",
     "date": "2025-03-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Lamborghini ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Einfach klasse.",
-    "customer_name": "Kevin I. aus Wolfsburg",
-    "date": "2025-03-03"
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Sammlung ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. 5 Sterne von mir.",
+    "customer_name": "Melanie U. aus Oberursel",
+    "date": "2025-03-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Detailreich ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Einfach klasse.",
-    "customer_name": "Sascha T. aus Bonn",
-    "date": "2025-03-02"
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Yannick C. aus Heilbronn",
+    "date": "2025-03-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Tom M. aus Moers",
+    "content": "Gute Verpackung.",
+    "customer_name": "Maximilian T. aus Wilhelmshaven",
+    "date": "2025-03-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekt für einen verregneten Nachmittag. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Zwei Autos ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Für Fans ein absolutes Muss.",
+    "customer_name": "Liam Y. aus Dormagen",
+    "date": "2025-03-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Habe es zusammen mit meiner Tochter aufgebaut. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Revuelto ist klasse. Die Details sind wirklich liebevoll gestaltet. Bin happy.",
+    "customer_name": "Anja P. aus Bonn",
     "date": "2025-03-01"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Huracán ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Maria A. aus Jena",
+    "content": "Habe es direkt nach Erscheinen bestellt. Besonders Lamborghini gefällt mir gut. Alles richtig gemacht.",
+    "customer_name": "Tobias Z. aus Eisenach",
     "date": "2025-02-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Julia E. aus Essen",
-    "date": "2025-02-28"
+    "content": "Habe es direkt nach Erscheinen bestellt. Die Minifiguren sind besonders schön bedruckt. Ein tolles Geschenk.",
+    "customer_name": "Nicole R. aus Göttingen",
+    "date": "2025-02-24"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Detailreich ist super umgesetzt. Besonders Rennautos gefällt mir gut. Top Qualität.",
-    "customer_name": "Milan C. aus Bremen",
-    "date": "2025-02-28"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Huracán ist super umgesetzt. Besonders Rennautos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Christoph W. aus Hanau",
-    "date": "2025-02-26"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Rennautos ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Einfach klasse.",
-    "customer_name": "Lukas F. aus Iserlohn",
-    "date": "2025-02-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Sammlung erweitert ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. 5 Sterne.",
-    "customer_name": "Benedikt U. aus Münster",
-    "date": "2025-02-25"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Schnell gebaut ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Top Qualität.",
-    "customer_name": "Simon N. aus Münster",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Revuelto ist klasse. Die Minifiguren sind besonders schön bedruckt. Danke.",
+    "customer_name": "Monika B. aus Alsdorf",
     "date": "2025-02-22"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Detailreich ist super umgesetzt. Besonders Revuelto gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Oskar O. aus Braunschweig",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Detailreich ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. So macht LEGO Spaß.",
+    "customer_name": "Melanie U. aus Peine",
+    "date": "2025-02-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Besonders Revuelto gefällt mir gut. Bin rundum zufrieden.",
+    "customer_name": "Timo I. aus Reutlingen",
+    "date": "2025-02-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Auch für jüngere Kinder gut zu bewältigen. Das Feature Revuelto ist klasse. Die Details sind wirklich liebevoll gestaltet. Hat sich definitiv gelohnt.",
+    "customer_name": "Sandra K. aus Cottbus",
+    "date": "2025-02-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Für den Preis bekommt man hier echt viel geboten. Es haben keine Teile gefehlt, was sehr wichtig ist. Das Feature Detailreich ist klasse. Ein echter Hingucker in der Vitrine. Preis-Leistung stimmt hier.",
+    "customer_name": "Tim U. aus Köln",
+    "date": "2025-02-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Ein echter Hingucker in der Vitrine. Danke.",
+    "customer_name": "Birgit K. aus Böblingen",
+    "date": "2025-02-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Rennautos ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Klare 10/10.",
+    "customer_name": "Max C. aus Darmstadt",
     "date": "2025-02-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Jan F. aus Wolfsburg",
-    "date": "2025-02-19"
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Passt perfekt in meine Sammlung. Einfach klasse.",
+    "customer_name": "Nadine D. aus Herford",
+    "date": "2025-02-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Zwei Autos ist super umgesetzt. Besonders Huracán gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Julia Z. aus Stuttgart",
-    "date": "2025-02-19"
+    "content": "Endlich habe ich mir dieses Set gegönnt. Besonders Sammlung gefällt mir gut. So macht LEGO Spaß.",
+    "customer_name": "Laura M. aus Bochum",
+    "date": "2025-02-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Huracán ist super umgesetzt. Besonders Detailreich gefällt mir gut. 5 Sterne.",
-    "customer_name": "Benedikt V. aus Regensburg",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Auch für jüngere Kinder gut zu bewältigen. Das Feature Rennautos ist klasse. Mein Kind spielt seit Tagen nur noch damit. Hat sich definitiv gelohnt.",
+    "customer_name": "Erik P. aus Essen",
     "date": "2025-02-16"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Detailreich gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Simon G. aus Remscheid",
+    "content": "Alles okay. Danke!",
+    "customer_name": "Malte Q. aus Viersen",
     "date": "2025-02-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Huracán ist super umgesetzt. Besonders Rennautos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Elias J. aus Hamburg",
-    "date": "2025-02-14"
+    "content": "Perfekt für einen verregneten Nachmittag. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Sammlung ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Klare 10/10.",
+    "customer_name": "Elias B. aus München",
+    "date": "2025-02-15"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Revuelto ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Einfach klasse.",
-    "customer_name": "Mats A. aus Pforzheim",
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Der Spielwert ist hier wirklich hoch. Preis-Leistung stimmt hier.",
+    "customer_name": "Claudia J. aus Schwerin",
     "date": "2025-02-13"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Rennautos gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Maria J. aus Fürth",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Besonders Rennautos gefällt mir gut. Einfach klasse.",
+    "customer_name": "Vincent I. aus Rostock",
     "date": "2025-02-12"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Lamborghini ist super umgesetzt. Besonders Huracán gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Johannes R. aus Bremerhaven",
+    "content": "Perfekt.",
+    "customer_name": "Kerstin G. aus Bad Salzuflen",
     "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Zwei Autos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Einfach klasse.",
-    "customer_name": "Robin H. aus Hagen",
-    "date": "2025-02-08"
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Rennautos ist klasse. Es gibt viele bewegliche Teile und Funktionen. Danke.",
+    "customer_name": "Jannik S. aus Lüneburg",
+    "date": "2025-02-11"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Rennautos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Einfach klasse.",
-    "customer_name": "Sandra Z. aus Ludwigsburg",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Man braucht schon etwas Geduld, aber das Ergebnis lohnt sich. Das Feature Lamborghini ist klasse. Fertig aufgebaut sieht es im Regal einfach toll aus. Vielen Dank für den schnellen Service.",
+    "customer_name": "Emil W. aus Hilden",
+    "date": "2025-02-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Auch für jüngere Kinder gut zu bewältigen. Das Feature Revuelto ist klasse. Die Minifiguren sind besonders schön bedruckt. Vielen Dank für den schnellen Service.",
+    "customer_name": "Lenny O. aus Bremen",
+    "date": "2025-02-10"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Als Geschenk für den Neffen besorgt, kam super an. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Lamborghini ist klasse. Es lässt sich auch super mit anderen Sets kombinieren. Klare 10/10.",
+    "customer_name": "Henry N. aus Böblingen",
     "date": "2025-02-07"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Huracán ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Einfach klasse.",
-    "customer_name": "Philipp N. aus Trier",
+    "content": "Kann die negativen Bewertungen nicht verstehen. Auch für jüngere Kinder gut zu bewältigen. Das Feature Schnell gebaut ist klasse. Mein Kind spielt seit Tagen nur noch damit. Alles richtig gemacht.",
+    "customer_name": "Jannik N. aus Stolberg",
     "date": "2025-02-05"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Zwei Autos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Benedikt N. aus Gelsenkirchen",
-    "date": "2025-02-05"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Einfach klasse.",
-    "customer_name": "Nicole M. aus Mannheim",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Mein Kind spielt seit Tagen nur noch damit. Freue mich schon auf das nächste Set.",
+    "customer_name": "Robin O. aus Düsseldorf",
     "date": "2025-02-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Rennautos ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Anja F. aus Kaiserslautern",
-    "date": "2025-02-04"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Schnell gebaut ist super umgesetzt. Besonders Rennautos gefällt mir gut. 5 Sterne.",
-    "customer_name": "Monika N. aus Bremerhaven",
-    "date": "2025-02-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Schnell gebaut ist super umgesetzt. Besonders Detailreich gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Fabian W. aus Solingen",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Alles richtig gemacht.",
+    "customer_name": "Liam D. aus Dessau-Roßlau",
     "date": "2025-02-02"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Detailreich ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Top Qualität.",
-    "customer_name": "Kilian X. aus Kassel",
+    "content": "Perfekt für einen verregneten Nachmittag. Besonders Rennautos gefällt mir gut. Super Shop.",
+    "customer_name": "Sascha N. aus Oberursel",
+    "date": "2025-02-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Fertig aufgebaut sieht es im Regal einfach toll aus. Ein tolles Geschenk.",
+    "customer_name": "Kerstin M. aus Kiel",
+    "date": "2025-02-02"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Huracán ist klasse. Der Spielwert ist hier wirklich hoch. Alles richtig gemacht.",
+    "customer_name": "Justus L. aus Esslingen",
+    "date": "2025-02-01"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Perfekt für einen verregneten Nachmittag. Besonders Rennautos gefällt mir gut. Absolute Kaufempfehlung.",
+    "customer_name": "Nicole J. aus Schweinfurt",
     "date": "2025-01-30"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Revuelto ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Felix Z. aus Magdeburg",
-    "date": "2025-01-30"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Zwei Autos ist super umgesetzt. Besonders Revuelto gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Luca Z. aus Düsseldorf",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Der Bauprozess war abwechslungsreich und nie langweilig. Das Feature Zwei Autos ist klasse. Die Details sind wirklich liebevoll gestaltet. So macht LEGO Spaß.",
+    "customer_name": "Yannick S. aus Kerpen",
     "date": "2025-01-28"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Lamborghini ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Moritz V. aus Herne",
-    "date": "2025-01-27"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Rennautos ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Jannik D. aus Ulm",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Huracán ist klasse. Es gibt viele bewegliche Teile und Funktionen. Preis-Leistung stimmt hier.",
+    "customer_name": "Niklas R. aus Hennef",
     "date": "2025-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Sammlung erweitert ist super umgesetzt. Besonders Detailreich gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Finn A. aus Würzburg",
+    "content": "Eines der besten Sets, die ich in letzter Zeit gebaut habe. Es gibt viele bewegliche Teile und Funktionen. Einfach klasse.",
+    "customer_name": "Theo M. aus Celle",
     "date": "2025-01-23"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Als Geschenk besorgt. Rennautos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Birgit I. aus Solingen",
-    "date": "2025-01-23"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Rennautos ist super umgesetzt. Besonders Revuelto gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Sarah O. aus Münster",
-    "date": "2025-01-22"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Rennautos ist super umgesetzt. Besonders Revuelto gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Julia G. aus Bonn",
+    "content": "Top.",
+    "customer_name": "Anja L. aus Heidelberg",
     "date": "2025-01-21"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Lamborghini ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Tobias F. aus Hildesheim",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Der Spielwert ist hier wirklich hoch. Kann ich uneingeschränkt empfehlen.",
+    "customer_name": "Andrea M. aus Dresden",
+    "date": "2025-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Die Qualität der Steine ist wie gewohnt hervorragend. Die Klemmkraft der Steine ist perfekt. Das Feature Revuelto ist klasse. Mein Kind spielt seit Tagen nur noch damit. Hat sich definitiv gelohnt.",
+    "customer_name": "Florian D. aus Nürnberg",
+    "date": "2025-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Spaß beim Bauen.",
+    "customer_name": "Samuel Z. aus Gütersloh",
+    "date": "2025-01-21"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "War erst skeptisch wegen dem Preis, aber es lohnt sich. Besonders Detailreich gefällt mir gut. Alles richtig gemacht.",
+    "customer_name": "Bastian Z. aus Bad Homburg",
     "date": "2025-01-20"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Marlon O. aus Darmstadt",
-    "date": "2025-01-19"
+    "content": "Einfach klasse, was LEGO da wieder gemacht hat. Es haben keine Teile gefehlt, was sehr wichtig ist. Daumen hoch!",
+    "customer_name": "Liam Y. aus Fürth",
+    "date": "2025-01-18"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Zwei Autos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Justus F. aus Darmstadt",
-    "date": "2025-01-19"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Huracán ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Luis D. aus Köln",
+    "content": "Mein Enkel hat sich riesig darüber gefreut. Die Anleitung war sehr verständlich und einfach zu folgen. Für Fans ein absolutes Muss.",
+    "customer_name": "Julia L. aus Bremen",
     "date": "2025-01-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Endlich aufgebaut! Zwei Autos ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Würde ich wieder kaufen.",
-    "customer_name": "Dominik D. aus Bonn",
-    "date": "2025-01-16"
+    "content": "Für den Preis bekommt man hier echt viel geboten. Die Klemmkraft der Steine ist perfekt. Ein tolles Geschenk.",
+    "customer_name": "Yannick Z. aus Remscheid",
+    "date": "2025-01-17"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Huracán ist super umgesetzt. Besonders Lamborghini gefällt mir gut. 5 Sterne.",
-    "customer_name": "Florian R. aus Siegen",
-    "date": "2025-01-16"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Huracán ist super umgesetzt. Besonders Rennautos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Valentin F. aus Trier",
-    "date": "2025-01-15"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Musste ich einfach haben. Schnell gebaut ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Luca C. aus Saarbrücken",
+    "content": "Super Qualität. Top.",
+    "customer_name": "Birgit T. aus Mönchengladbach",
     "date": "2025-01-14"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Schnelle Lieferung wie immer. Lamborghini ist super umgesetzt. Besonders Rennautos gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Jonas Y. aus Esslingen",
-    "date": "2025-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Zwei Autos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Robin E. aus Gelsenkirchen",
-    "date": "2025-01-14"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Lange drauf gewartet. Zwei Autos ist super umgesetzt. Besonders Huracán gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Monika B. aus Braunschweig",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Schnell gebaut ist super umgesetzt. Besonders Revuelto gefällt mir gut. Top Qualität.",
-    "customer_name": "Maximilian R. aus Salzgitter",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Sammlung erweitert ist super umgesetzt. Besonders Zwei Autos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Dominik J. aus Cottbus",
-    "date": "2025-01-13"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Endlich aufgebaut! Schnell gebaut ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Milan N. aus Heilbronn",
-    "date": "2025-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Als Geschenk besorgt. Lamborghini ist super umgesetzt. Besonders Huracán gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Melanie X. aus Remscheid",
-    "date": "2025-01-11"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Zwei Autos ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Sehr zufrieden.",
-    "customer_name": "Christina O. aus Gütersloh",
+    "content": "Die Lieferung war sehr schnell, alles gut verpackt. Auch für jüngere Kinder gut zu bewältigen. Das Feature Detailreich ist klasse. Der Spielwert ist hier wirklich hoch. Alles richtig gemacht.",
+    "customer_name": "Leon Q. aus Bamberg",
     "date": "2025-01-10"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Lange drauf gewartet. Huracán ist super umgesetzt. Besonders Revuelto gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Monika Y. aus Hanau",
+    "content": "Das Paket kam pünktlich zum Geburtstag an. Es ist sehr stabil, man kann gut damit spielen. Danke.",
+    "customer_name": "Benedikt H. aus Leinfelden-Echterdingen",
     "date": "2025-01-09"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Musste ich einfach haben. Lamborghini ist super umgesetzt. Besonders Revuelto gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Dominik U. aus Krefeld",
+    "content": "Ein wirklich gelungenes Set von LEGO. Die Anleitung war sehr verständlich und einfach zu folgen. Das Feature Lamborghini ist klasse. Die Minifiguren sind besonders schön bedruckt. Klare 10/10.",
+    "customer_name": "Andrea V. aus Remscheid",
     "date": "2025-01-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Huracán ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Luis E. aus Freiburg",
-    "date": "2025-01-07"
+    "content": "Perfekt für einen verregneten Nachmittag. Passt perfekt in meine Sammlung. Super Shop.",
+    "customer_name": "Yannick Y. aus Solingen",
+    "date": "2025-01-08"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Sammlung erweitert ist super umgesetzt. Besonders Lamborghini gefällt mir gut. Macht sich gut im Regal.",
-    "customer_name": "Mats A. aus Reutlingen",
-    "date": "2025-01-05"
+    "content": "Endlich habe ich mir dieses Set gegönnt. Die Aufkleber waren okay, aber Prints wären schöner gewesen. Das Feature Lamborghini ist klasse. Ein echter Hingucker in der Vitrine. Alles richtig gemacht.",
+    "customer_name": "Timo U. aus Bremerhaven",
+    "date": "2025-01-06"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Tolles Set. Rennautos ist super umgesetzt. Besonders Detailreich gefällt mir gut. Top Qualität.",
-    "customer_name": "Petra V. aus Saarbrücken",
+    "content": "Habe das Set für meinen Sohn gekauft, er ist begeistert. Besonders Huracán gefällt mir gut. Preis-Leistung stimmt hier.",
+    "customer_name": "Christina W. aus Langenfeld",
     "date": "2025-01-04"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "War ein Spontankauf. Detailreich ist super umgesetzt. Besonders Detailreich gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Vincent K. aus Herne",
+    "content": "Der Aufbau hat mir sehr viel Freude bereitet. Ein paar Ersatzteile waren auch dabei, sehr gut. Das Feature Zwei Autos ist klasse. Der Spielwert ist hier wirklich hoch. Preis-Leistung stimmt hier.",
+    "customer_name": "Timo B. aus Euskirchen",
+    "date": "2025-01-04"
+  },
+  {
+    "rating": 5,
+    "title": "",
+    "content": "Ich bin schon lange LEGO Fan und wurde nicht enttäuscht. Auch für jüngere Kinder gut zu bewältigen. Das Feature Sammlung ist klasse. Der Spielwert ist hier wirklich hoch. So macht LEGO Spaß.",
+    "customer_name": "Luca T. aus Bad Salzuflen",
     "date": "2025-01-03"
   },
   {
     "rating": 5,
     "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Huracán ist super umgesetzt. Besonders Huracán gefällt mir gut. Top Qualität.",
-    "customer_name": "Erik T. aus Paderborn",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Schnelle Lieferung wie immer. Sammlung erweitert ist super umgesetzt. Besonders Sammlung erweitert gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Susanne E. aus Hamburg",
-    "date": "2025-01-03"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Tolles Set. Rennautos ist super umgesetzt. Besonders Rennautos gefällt mir gut. Super Preis-Leistung.",
-    "customer_name": "Jan W. aus Krefeld",
+    "content": "Das Set sieht in echt noch besser aus als auf den Bildern. Die Sortierung der Tüten macht den Aufbau sehr angenehm. Das Feature Lamborghini ist klasse. Die Minifiguren sind besonders schön bedruckt. Alles richtig gemacht.",
+    "customer_name": "Luca L. aus Wolfsburg",
     "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "Habe das Set für meinen Sohn gekauft. Revuelto ist super umgesetzt. Besonders Detailreich gefällt mir gut. Der Aufbau hat Spaß gemacht.",
-    "customer_name": "Benedikt O. aus Dresden",
-    "date": "2025-01-02"
-  },
-  {
-    "rating": 5,
-    "title": "",
-    "content": "LEGO enttäuscht nie. Lamborghini ist super umgesetzt. Besonders Schnell gebaut gefällt mir gut. Klare Kaufempfehlung.",
-    "customer_name": "Sandra I. aus Neuss",
-    "date": "2025-01-01"
   }
 ];
