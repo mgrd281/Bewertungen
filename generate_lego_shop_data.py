@@ -197,7 +197,7 @@ products = [
     {
         "id": "lego_monster_jam",
         "name": "LEGO Technic Monster Jam Dragon (42149)",
-        "count": 234,
+        "count": 1250,
         "price": "19,99 €",
         "category": "Technic",
         "image": "assets/lego_monster_jam_dragon.png",
@@ -206,7 +206,7 @@ products = [
     {
         "id": "lego_botanical",
         "name": "LEGO Icons Botanical Collection (10329)",
-        "count": 839,
+        "count": 1850,
         "price": "49,99 €",
         "category": "Icons",
         "image": "assets/lego_botanical_collection.png",
@@ -215,7 +215,7 @@ products = [
     {
         "id": "lego_creator_horse",
         "name": "LEGO Creator Prächtiges Ross (31166)",
-        "count": 156,
+        "count": 890,
         "price": "29,99 €",
         "category": "Creator 3-in-1",
         "image": "assets/lego_creator_horse.png",
@@ -224,7 +224,7 @@ products = [
     {
         "id": "lego_star_wars_k2so",
         "name": "LEGO Star Wars Sicherheitsdroide K-2SO (75434)",
-        "count": 567,
+        "count": 1420,
         "price": "99,99 €",
         "category": "Star Wars",
         "image": "assets/lego_star_wars_k2so.png",
@@ -233,7 +233,7 @@ products = [
     {
         "id": "lego_technic_jesko",
         "name": "LEGO Technic Koenigsegg Jesko Absolut (42173)",
-        "count": 412,
+        "count": 1150,
         "price": "52,99 €",
         "category": "Technic",
         "image": "assets/lego_technic_koenigsegg.png",
@@ -242,7 +242,7 @@ products = [
     {
         "id": "lego_star_wars_mtt",
         "name": "LEGO Star Wars MTT (75435)",
-        "count": 923,
+        "count": 1680,
         "price": "149,99 €",
         "category": "Star Wars",
         "image": "assets/lego_star_wars_mtt.png",
@@ -251,7 +251,7 @@ products = [
     {
         "id": "lego_speed_champions",
         "name": "LEGO Speed Champions Lamborghini (77238)",
-        "count": 345,
+        "count": 940,
         "price": "44,99 €",
         "category": "Speed Champions",
         "image": "assets/lego_speed_champions_lambo.png",
@@ -260,7 +260,7 @@ products = [
     {
         "id": "lego_harry_potter",
         "name": "LEGO Harry Potter Schloss Hogwarts (76454)",
-        "count": 678,
+        "count": 1350,
         "price": "169,99 €",
         "category": "Harry Potter",
         "image": "assets/lego_harry_potter_hogwarts.png",
@@ -269,7 +269,7 @@ products = [
     {
         "id": "lego_creator_panda",
         "name": "LEGO Creator 3-in-1 Pandafamilie (31165)",
-        "count": 215,
+        "count": 920,
         "price": "34,99 €",
         "category": "Creator 3-in-1",
         "image": "assets/lego_creator_panda.png",
@@ -278,7 +278,7 @@ products = [
     {
         "id": "lego_city_bulldozer",
         "name": "LEGO City Gelber Bulldozer (60466)",
-        "count": 189,
+        "count": 850,
         "price": "24,99 €",
         "category": "City",
         "image": "assets/lego_city_bulldozer.png",
@@ -287,7 +287,7 @@ products = [
     {
         "id": "lego_classic_box",
         "name": "LEGO Classic Große Bausteine-Box (10698)",
-        "count": 1245,
+        "count": 2100,
         "price": "39,99 €",
         "category": "Classic",
         "image": "assets/lego_classic_box.png",
@@ -296,7 +296,7 @@ products = [
     {
         "id": "lego_jedi_bob",
         "name": "LEGO Star Wars Jedi Bobs Sternjäger (75388)",
-        "count": 398,
+        "count": 1050,
         "price": "39,99 €",
         "category": "Star Wars",
         "image": "assets/lego_star_wars_jedi_bob.png",
@@ -305,7 +305,7 @@ products = [
     {
         "id": "lego_simba",
         "name": "LEGO Disney Simba, das Löwenjunge (43243)",
-        "count": 456,
+        "count": 1100,
         "price": "19,99 €",
         "category": "Disney",
         "image": "assets/lego_disney_simba.png",
