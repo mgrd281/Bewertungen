@@ -30,6 +30,7 @@ images_to_generate = [
     {"filename": "sebamed.png", "text": "Sebamed\nWasch"},
     {"filename": "braun_epil.png", "text": "Braun\nSilk-épil"},
     {"filename": "lumea.png", "text": "Philips\nLumea IPL"},
+    {"filename": "lego_star_wars_k2so.png", "text": "LEGO\nK-2SO"},
 ]
 
 def create_placeholder(filename, text):

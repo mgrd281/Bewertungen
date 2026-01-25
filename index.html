@@ -35,11 +35,11 @@
 
     <div class="container">
 
-        <!-- SECTION: SOFTWARE & GAMES -->
+        <!-- SECTION: GAMES -->
         <section class="category-section">
             <div class="section-header">
-                <h2>Software & Games</h2>
-                <a href="#" class="section-link">Alle anzeigen</a>
+                <h2>Games</h2>
+                <a href="#" class="section-link">Alle Games</a>
             </div>
             <div class="product-grid">
                 <!-- FC 26 (Newest) -->
@@ -97,7 +97,16 @@
                         </div>
                     </div>
                 </a>
+            </div>
+        </section>
 
+        <!-- SECTION: SOFTWARE -->
+        <section class="category-section">
+            <div class="section-header">
+                <h2>Software</h2>
+                <a href="#" class="section-link">Alle Software</a>
+            </div>
+            <div class="product-grid">
                 <!-- Windows 10 -->
                 <a href="windows10.html" class="product-card">
                     <div class="image-wrapper">
@@ -162,6 +171,23 @@
                     </div>
                 </a>
 
+                <a href="lego_star_wars_k2so.html" class="product-card">
+                    <div class="image-wrapper">
+                        <img src="assets/lego_star_wars_k2so.png" class="product-image">
+                    </div>
+                    <div class="card-content">
+                        <div class="product-category">Star Wars</div>
+                        <h3 class="card-title">LEGO Star Wars K-2SO</h3>
+                        <div class="card-footer">
+                            <span class="price">99,99 €</span>
+                            <div class="rating">
+                                <span class="stars-sm">★★★★★</span>
+                                <span>(14.2k)</span>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+
                 <a href="lego_botanical.html" class="product-card">
                     <div class="image-wrapper">
                         <img src="assets/lego_botanical_collection.png" class="product-image">
@@ -191,23 +217,6 @@
                             <div class="rating">
                                 <span class="stars-sm">★★★★★</span>
                                 <span>(16.8k)</span>
-                            </div>
-                        </div>
-                    </div>
-                </a>
-
-                <a href="lego_star_wars_k2so.html" class="product-card">
-                    <div class="image-wrapper">
-                        <img src="assets/lego_star_wars_k2so.png" class="product-image">
-                    </div>
-                    <div class="card-content">
-                        <div class="product-category">Star Wars</div>
-                        <h3 class="card-title">LEGO Star Wars K-2SO</h3>
-                        <div class="card-footer">
-                            <span class="price">99,99 €</span>
-                            <div class="rating">
-                                <span class="stars-sm">★★★★★</span>
-                                <span>(14.2k)</span>
                             </div>
                         </div>
                     </div>
@@ -298,7 +307,6 @@
                     </div>
                 </a>
 
-                <!-- Additional LEGO Items -->
                 <a href="lego_speed_champions.html" class="product-card">
                     <div class="image-wrapper"><img src="assets/lego_speed_champions_lambo.png" class="product-image">
                     </div>
@@ -360,7 +368,7 @@
                         </div>
                     </div>
                 </a>
-                <!-- Adding a few representative Boss items -->
+
                 <a href="boss_1513908.html" class="product-card">
                     <div class="image-wrapper"><img src="assets/boss_placeholder.png" class="product-image"></div>
                     <div class="card-content">
@@ -394,8 +402,6 @@
             </div>
         </section>
 
-        <!-- CARE SECTION REMOVED AS REQUESTED -->
-
     </div>
 
     <!-- SIMPLE SEARCH SCRIPT -->
@@ -405,6 +411,7 @@
 
         searchInput.addEventListener('keyup', (e) => {
             const query = e.target.value.toLowerCase();
+            const parentSections = document.querySelectorAll('.category-section');
 
             cards.forEach(card => {
                 const title = card.querySelector('.card-title').textContent.toLowerCase();
@@ -416,6 +423,20 @@
                     card.style.display = 'none';
                 }
             });
+
+            // Hide empty sections if searching
+            if (query.length > 0) {
+                parentSections.forEach(sec => {
+                    const visibleCards = sec.querySelector('.product-grid').querySelectorAll('.product-card[style="display: flex;"]');
+                    if (visibleCards.length === 0 && !sec.querySelector('.product-grid').querySelector('.product-card:not([style*="display: none"])')) {
+                        sec.style.display = 'none';
+                    } else {
+                        sec.style.display = 'block';
+                    }
+                });
+            } else {
+                parentSections.forEach(sec => sec.style.display = 'block');
+            }
         });
     </script>
 </body>
