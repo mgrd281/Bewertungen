@@ -343,7 +343,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Zuverlässiger Shop. Einziger Minuspunkt: Man bekommt keine Rechnung automatisch, musste ich extra anfordern. Aber kam dann schnell.",
     "customer_name": "Marco V., Würzburg",
     "date": "2026-01-10",
@@ -371,7 +371,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Key hat sofort funktioniert. Die Aktivierung über Microsoft ging problemlos. Nur die Mail war im Spam-Ordner gelandet.",
     "customer_name": "Uwe C., Göttingen",
     "date": "2026-01-08",
@@ -399,7 +399,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Windows 10 Home für unter 10€. Funktioniert einwandfrei. Nur der Download-Link für Windows war etwas versteckt.",
     "customer_name": "Wolfgang T., Remscheid",
     "date": "2026-01-06",
@@ -427,7 +427,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Preis-Leistung sehr gut. Hätte mir nur eine Schritt-für-Schritt-Anleitung gewünscht. Musste selbst recherchieren wie man installiert.",
     "customer_name": "Rainer G., Cottbus",
     "date": "2026-01-04",
@@ -455,7 +455,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Key kam innerhalb von einer Minute. Aktivierung hat nach dem zweiten Versuch funktioniert. Jetzt läuft alles.",
     "customer_name": "Karsten N., Salzgitter",
     "date": "2026-01-02",
@@ -483,7 +483,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Hatte vorher Linux, jetzt Windows 10. Aktivierung lief problemlos, nur der Download von Microsoft dauerte ewig.",
     "customer_name": "Holger B., Zwickau",
     "date": "2025-12-31",
@@ -511,7 +511,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Schnelle Lieferung und funktionierender Key. Abzug weil die Webseite auf dem Handy etwas schwer zu bedienen ist.",
     "customer_name": "Heinrich J., Moers",
     "date": "2025-12-29",
@@ -539,7 +539,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Keine versteckten Kosten, das ist sehr positiv. Allerdings war der Spam-Filter das Problem, Mail war nicht im Posteingang.",
     "customer_name": "Manfred R., Marl",
     "date": "2025-12-27",
@@ -567,7 +567,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Weihnachten bestellt und sofort erhalten. Gut! Aber die Aktivierung über Telefon war nötig, online ging nicht.",
     "customer_name": "Erwin A., Esslingen",
     "date": "2025-12-25",
@@ -595,7 +595,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Mein Laptop ist jetzt endlich mit einer echten Lizenz aktiviert. Einzig die Zahlungsoptionen könnten mehr sein.",
     "customer_name": "Werner V., Rheine",
     "date": "2025-12-23",
@@ -623,7 +623,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "OEM-Lizenz zum guten Preis. Aktivierung lief, aber ich musste erst googeln was OEM bedeutet. Für Laien verwirrend.",
     "customer_name": "Peter B., Castrop-Rauxel",
     "date": "2025-12-21",
@@ -651,7 +651,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Key kam innerhalb von Sekunden. Aktivierung hat funktioniert. Nur ein Stern Abzug weil ich erst im Spam suchen musste.",
     "customer_name": "Alfred U., Lüneburg",
     "date": "2025-12-19",
@@ -679,7 +679,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Hab lange nach einem seriösen Anbieter gesucht. Hier bin ich fündig geworden. Nur die Webseite könnte moderner sein.",
     "customer_name": "Friedrich P., Stralsund",
     "date": "2025-12-17",
@@ -707,7 +707,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Key funktioniert seit 2 Monaten einwandfrei. Einziger Kritikpunkt: Die Bestellbestätigung kam verzögert.",
     "customer_name": "Heinz D., Rosenheim",
     "date": "2025-12-15",
@@ -735,7 +735,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Alles wie beschrieben. Echter Key, echte Lizenz. Hätte nur gerne eine PDF-Rechnung zum Ausdrucken gehabt.",
     "customer_name": "Hans A., Aschaffenburg",
     "date": "2025-12-13",
@@ -763,7 +763,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Hab den Key meinem Vater geschenkt. Er ist happy! Musste ihm allerdings bei der Aktivierung helfen.",
     "customer_name": "Paul N., Friedrichshafen",
     "date": "2025-12-11",
@@ -791,7 +791,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Mein Surface Pro läuft jetzt mit Windows 10. Gut! Nur bei der Installation gab es anfangs Probleme mit dem WLAN-Treiber.",
     "customer_name": "Herbert W., Emden",
     "date": "2025-12-09",
@@ -819,7 +819,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Günstiger Key, Aktivierung hat nach dem 3. Versuch geklappt. Jetzt läuft alles stabil.",
     "customer_name": "Wilhelm M., Frechen",
     "date": "2025-12-07",
@@ -847,7 +847,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Key ist echt und funktioniert dauerhaft. Abzug nur weil der Checkout-Prozess etwas umständlich war.",
     "customer_name": "Richard P., Viersen",
     "date": "2025-12-05",
@@ -875,7 +875,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Support ist auch nach dem Kauf noch erreichbar. Hatte eine Nachfrage und bekam innerhalb von 2 Stunden Antwort.",
     "customer_name": "Josef G., Kerpen",
     "date": "2025-12-03",
@@ -903,7 +903,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Key kam sofort und funktioniert einwandfrei. Ein Stern Abzug weil die Mail im Spam landete.",
     "customer_name": "Karl H., Euskirchen",
     "date": "2025-12-01",
@@ -931,7 +931,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Alles bestens. Key funktioniert, Windows läuft. Hätte mir nur eine ausführlichere FAQ gewünscht.",
     "customer_name": "Max V., Meerbusch",
     "date": "2025-11-29",
@@ -959,7 +959,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Für meinen Arbeitsrechner eine günstige Lizenz gebraucht. Hat funktioniert, aber die Aktivierung war etwas fummelig.",
     "customer_name": "Franz L., Homburg",
     "date": "2025-11-27",

@@ -343,7 +343,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Das Silikonband passt gut, aber ich musste 3 Löcher weiter machen für mein dünnes Handgelenk. Geht aber einfach.",
     "customer_name": "Jens X., Ingolstadt",
     "date": "2026-01-11",
@@ -371,7 +371,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Hochwertig und elegant. Das einzige was fehlt ist eine kleine Tasche zur Aufbewahrung auf Reisen.",
     "customer_name": "Thorsten W., Pforzheim",
     "date": "2026-01-09",
@@ -399,7 +399,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Top Uhr, aber ich musste das Band kürzen lassen. Wer kleine Handgelenke hat, sollte das einplanen.",
     "customer_name": "Norbert M., Siegen",
     "date": "2026-01-07",
@@ -427,7 +427,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Sehr zufrieden! Wäre super wenn man das Armband gegen Leder tauschen könnte, aber Silikon ist auch gut.",
     "customer_name": "Volker D., Witten",
     "date": "2026-01-05",
@@ -455,7 +455,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Schöne Uhr, aber das Stellen des Datums war etwas fummelig. Einmal eingestellt, passt alles.",
     "customer_name": "Bernd E., Schwerin",
     "date": "2026-01-03",
@@ -483,7 +483,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Super Uhr! Die Zeiger hätten für mich etwas heller leuchten können im Dunkeln, aber okay.",
     "customer_name": "Klaus C., Kaiserslautern",
     "date": "2026-01-01",
@@ -511,7 +511,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Tolle Uhr, aber der Chronograph hat beim ersten Mal nicht auf Null gestanden. Nach Reset alles gut.",
     "customer_name": "Dirk U., Fürth",
     "date": "2025-12-30",
@@ -539,7 +539,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Wunderschöne Uhr! Hätte mir nur gewünscht dass ein Ersatzband dabei wäre. Aber naja.",
     "customer_name": "Helmut I., Hanau",
     "date": "2025-12-28",
@@ -567,7 +567,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gute Uhr, guter Preis. Das Armband ist allerdings etwas länger, musste ich kürzen.",
     "customer_name": "Günter M., Gütersloh",
     "date": "2025-12-26",
@@ -595,7 +595,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Sehr zufrieden! Ein extra Uhrenputztuch wäre noch das Tüpfelchen auf dem i gewesen.",
     "customer_name": "Rudolf F., Dorsten",
     "date": "2025-12-24",
@@ -623,7 +623,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Die Uhr ist top! Einziger Wunsch: Ein NATO-Band wäre als Alternative schön gewesen.",
     "customer_name": "Lothar T., Landshut",
     "date": "2025-12-22",
@@ -651,7 +651,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Alles super, nur die Lieferzeit war etwas länger wegen der Feiertage. Aber verständlich!",
     "customer_name": "Ernst V., Bayreuth",
     "date": "2025-12-20",
@@ -679,7 +679,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Sehr schöne Uhr! Bei der Lieferung war leider ein kleiner Kratzer auf der Box, Uhr aber top.",
     "customer_name": "Kurt Z., Herford",
     "date": "2025-12-18",
@@ -707,7 +707,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gute Uhr, aber die Schließe lässt sich manchmal schwer öffnen. Wird mit der Zeit sicher besser.",
     "customer_name": "Otto Y., Fulda",
     "date": "2025-12-16",
@@ -735,7 +735,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Optisch ein Traum! Das Einstellen der Zeit ging etwas schwer, aber jetzt passt alles.",
     "customer_name": "Willi W., Schwäbisch Gmünd",
     "date": "2025-12-14",
@@ -763,7 +763,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Tolles Design, aber die Drücker für den Chronographen könnten etwas größer sein.",
     "customer_name": "Walter L., Passau",
     "date": "2025-12-12",
@@ -791,7 +791,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Die Uhr ist fantastisch! Einzig die Verpackung hatte einen kleinen Riss. Uhr war aber perfekt.",
     "customer_name": "Bruno G., Bad Homburg",
     "date": "2025-12-10",
@@ -819,7 +819,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Super Uhr, das Tracking der Lieferung war aber etwas ungenau. Kam trotzdem pünktlich.",
     "customer_name": "Georg E., Dormagen",
     "date": "2025-12-08",
@@ -847,7 +847,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Alles top! Nur die Bedienungsanleitung ist etwas knapp gehalten. Aber YouTube hilft!",
     "customer_name": "Fritz C., Ahlen",
     "date": "2025-12-06",
@@ -875,7 +875,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Optisch perfekt! Nur bei sehr dunklem Schwarz sind die Zeiger manchmal schwer zu sehen.",
     "customer_name": "Anton X., Gladbeck",
     "date": "2025-12-04",
@@ -903,7 +903,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Sehr schöne Uhr! Wäre cool wenn es eine App zur Stoppuhr gäbe, aber analog ist auch gut.",
     "customer_name": "Ludwig N., Ibbenbüren",
     "date": "2025-12-02",

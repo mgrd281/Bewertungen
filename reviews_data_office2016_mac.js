@@ -343,7 +343,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Hab zuerst die falsche Version runtergeladen (Windows). Nach dem richtigen Download ging alles easy.",
     "customer_name": "Jens X., Ingolstadt",
     "date": "2026-01-11",
@@ -371,7 +371,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gutes Office-Paket, aber die Mac-Version hat weniger Features als Windows. Für mich trotzdem ausreichend.",
     "customer_name": "Thorsten W., Pforzheim",
     "date": "2026-01-09",
@@ -399,7 +399,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Key kam per Mail, aber ohne Installationsanleitung. Mit Google-Hilfe trotzdem schnell installiert.",
     "customer_name": "Norbert M., Siegen",
     "date": "2026-01-07",
@@ -427,7 +427,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Office 2016 ist nicht das Neuste, aber stabil und zuverlässig. Für den Preis absolut okay!",
     "customer_name": "Volker D., Witten",
     "date": "2026-01-05",
@@ -455,7 +455,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Key funktioniert einwandfrei. Allerdings hätte ich mir eine deutsche Downloadseite gewünscht.",
     "customer_name": "Bernd E., Schwerin",
     "date": "2026-01-03",
@@ -483,7 +483,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Aktivierung hat beim ersten Mal nicht geklappt, aber beim zweiten Versuch ging es. Jetzt läuft alles.",
     "customer_name": "Klaus C., Kaiserslautern",
     "date": "2026-01-01",
@@ -511,7 +511,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Die Webseite hätte übersichtlicher sein können, aber am Ende hab ich gefunden was ich brauche.",
     "customer_name": "Dirk U., Fürth",
     "date": "2025-12-30",
@@ -539,7 +539,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Key ist echt und Office funktioniert. Nur die Mail war im Spam gelandet, fast hätte ich sie übersehen.",
     "customer_name": "Helmut I., Hanau",
     "date": "2025-12-28",
@@ -567,7 +567,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Schnelle Lieferung, funktionierender Key. Einziger Kritikpunkt: Keine Rechnung dabei, musste ich anfordern.",
     "customer_name": "Günter M., Gütersloh",
     "date": "2025-12-26",
@@ -595,7 +595,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Installation war etwas fummelig, aber mit Geduld hat es geklappt. Office läuft jetzt super!",
     "customer_name": "Rudolf F., Dorsten",
     "date": "2025-12-24",
@@ -623,7 +623,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gutes Produkt, aber die Mac-Version unterscheidet sich etwas von Windows. Man gewöhnt sich dran.",
     "customer_name": "Lothar T., Landshut",
     "date": "2025-12-22",
@@ -651,7 +651,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Key funktioniert. Hätte mir nur eine deutsche Anleitung gewünscht, die Microsoft-Seite ist auf Englisch.",
     "customer_name": "Ernst V., Bayreuth",
     "date": "2025-12-20",
@@ -679,7 +679,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Support musste mir helfen, da der Key anfangs nicht akzeptiert wurde. Problem gelöst, alles gut!",
     "customer_name": "Kurt Z., Herford",
     "date": "2025-12-18",
@@ -707,7 +707,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Alles funktioniert wie versprochen. Nur schade dass Office 2016 kein Dark Mode hat auf dem Mac.",
     "customer_name": "Otto Y., Fulda",
     "date": "2025-12-16",
@@ -735,7 +735,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Download hat etwas gedauert, aber Installation und Aktivierung liefen dann problemlos.",
     "customer_name": "Willi W., Schwäbisch Gmünd",
     "date": "2025-12-14",
@@ -763,7 +763,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Office funktioniert gut. Würde mir nur wünschen dass Updates einfacher wären als über Microsoft.",
     "customer_name": "Walter L., Passau",
     "date": "2025-12-12",
@@ -791,7 +791,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Der Preis ist unschlagbar. Einziger Minuspunkt: Keine Updates wie bei Office 365. Aber okay.",
     "customer_name": "Bruno G., Bad Homburg",
     "date": "2025-12-10",
@@ -819,7 +819,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Key kam sofort, Aktivierung brauchte zwei Anläufe. Am Ende alles wie es sein soll!",
     "customer_name": "Georg E., Dormagen",
     "date": "2025-12-08",
@@ -847,7 +847,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Die Aktivierung war etwas kompliziert wegen Microsoft-Konto. Aber der Support hat geholfen!",
     "customer_name": "Fritz C., Ahlen",
     "date": "2025-12-06",
@@ -875,7 +875,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Guter Kauf! Einziger Kritikpunkt: Man braucht ein Microsoft-Konto für die Aktivierung.",
     "customer_name": "Anton X., Gladbeck",
     "date": "2025-12-04",
@@ -903,7 +903,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Office funktioniert super auf meinem Mac. Nur schade dass die Version nicht mehr aktualisiert wird.",
     "customer_name": "Ludwig N., Ibbenbüren",
     "date": "2025-12-02",
