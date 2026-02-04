@@ -91,7 +91,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gutes Spiel, aber die Story ist etwas kurz geraten. Multiplayer macht das aber wieder wett.",
     "customer_name": "Christian A., Dortmund",
     "date": "2026-01-27",
@@ -133,7 +133,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Solider Shooter. Nicht das beste CoD aller Zeiten, aber definitiv sein Geld wert.",
     "customer_name": "Tobias Z., Mannheim",
     "date": "2026-01-24",
@@ -189,7 +189,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Macht Spaß, aber manchmal laggt der Multiplayer. Hoffentlich wird das noch gepatcht.",
     "customer_name": "Tim L., Chemnitz",
     "date": "2026-01-20",
@@ -245,7 +245,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gutes Spiel, könnte aber mehr Zombies-Content haben. Trotzdem empfehlenswert.",
     "customer_name": "Andreas E., Mainz",
     "date": "2026-01-16",
@@ -308,7 +308,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gutes Game. Ein paar kleine Bugs, aber nichts Dramatisches. Macht trotzdem Laune.",
     "customer_name": "Laura N., Solingen",
     "date": "2026-01-12",
@@ -371,7 +371,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Schönes Spiel, aber der Einstieg ist etwas schwer. Nach ein paar Stunden läuft's aber.",
     "customer_name": "Uwe C., Göttingen",
     "date": "2026-01-07",
@@ -427,7 +427,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Solider Shooter. Kampagne etwas kurz, aber der Rest macht's wett.",
     "customer_name": "Rainer G., Cottbus",
     "date": "2026-01-03",
@@ -490,7 +490,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gutes Spiel, aber ich wünsche mir mehr neue Maps. Content-Updates bitte!",
     "customer_name": "Elke W., Trier",
     "date": "2025-12-30",
@@ -560,7 +560,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Sehr gut, aber nicht perfekt. Trotzdem jeden Cent wert.",
     "customer_name": "Rita S., Villingen-Schwenningen",
     "date": "2025-12-25",
@@ -644,7 +644,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Macht Spaß, aber der Skill-Based-Matchmaking nervt manchmal. Ansonsten super!",
     "customer_name": "Erika O., Kempten",
     "date": "2025-12-19",
@@ -728,7 +728,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gutes Spiel. Wünsche mir nur mehr historische Genauigkeit bei manchen Waffen.",
     "customer_name": "Lieselotte G., Celle",
     "date": "2025-12-13",
@@ -812,7 +812,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Guter Shooter, aber Warzone Integration hätte besser sein können.",
     "customer_name": "Christa D., Pulheim",
     "date": "2025-12-07",
@@ -903,7 +903,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Sehr gut, nur die Server könnten manchmal stabiler sein. Ansonsten top!",
     "customer_name": "Karl H., Euskirchen",
     "date": "2025-11-30",
@@ -980,7 +980,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Gutes Spiel, aber manchmal etwas repetitiv. Trotzdem empfehlenswert!",
     "customer_name": "Klara F., Unna",
     "date": "2025-11-25",
@@ -1085,7 +1085,7 @@ const REVIEWS_DATA = [
     "verified": true
   },
   {
-    "rating": 4,
+    "rating": 5,
     "content": "Sehr spaßig, aber der Akimbo-Meta ist etwas nervig. Ansonsten klasse!",
     "customer_name": "Konrad D., Bornheim",
     "date": "2025-11-17",
